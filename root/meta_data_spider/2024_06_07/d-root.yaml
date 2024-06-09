@@ -1,0 +1,3922 @@
+ASN: 10886
+BGP Community Convention: ''
+BGP Extended Community Convention: ''
+BGP Large Community Convention: ''
+Contact Email: ''
+Homepage: http://www.droot.maxgigapop.net/
+IPv4: 199.7.91.13
+IPv6: 2001:500:2d::d
+Identifier Naming Convention: ''
+Operator: University of Maryland
+Peering Policy: ''
+RSSAC001: ''
+RSSAC002: http://www.droot.maxgigapop.net/rssac002
+Sites:
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CI
+  Created: '2024-01-12T16:09:30Z'
+  ID: 4VXxuc
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ajci1.droot.maxgigapop.net
+  - ajci2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 5.3599517
+  Longitude: -4.0082563
+  Status: ''
+  Town: Abidjan
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GH
+  Created: '2024-01-12T16:09:30Z'
+  ID: msvf28
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - acgh1.droot.maxgigapop.net
+  - acgh2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 5.6037168
+  Longitude: -0.1869644
+  Status: ''
+  Town: Accra
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: NL
+  Created: '2024-01-12T16:09:30Z'
+  ID: b00xtW
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - amnl1.droot.maxgigapop.net
+  - amnl2.droot.maxgigapop.net
+  - amnl3.droot.maxgigapop.net
+  - amnl4.droot.maxgigapop.net
+  - amnl5.droot.maxgigapop.net
+  - amnl6.droot.maxgigapop.net
+  - amnl7.droot.maxgigapop.net
+  - amnl8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 52.3702157
+  Longitude: 4.8951679
+  Status: ''
+  Town: Amsterdam
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: JO
+  Created: '2024-01-12T16:09:30Z'
+  ID: HHwPZH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aqjo1.droot.maxgigapop.net
+  - aqjo2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 29.526702
+  Longitude: 35.007822
+  Status: ''
+  Town: Aqaba
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CL
+  Created: '2024-01-12T16:09:30Z'
+  ID: rDo04y
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - arcl1.droot.maxgigapop.net
+  - arcl2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -18.4782534
+  Longitude: -70.3125988
+  Status: ''
+  Town: Arica
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TZ
+  Created: '2024-01-12T16:09:30Z'
+  ID: wgxnSY
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - artz1.droot.maxgigapop.net
+  - artz2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -3.3869254
+  Longitude: 36.6829927
+  Status: ''
+  Town: Arusha
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: OwCMf9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - abva1.droot.maxgigapop.net
+  - abva2.droot.maxgigapop.net
+  - abva3.droot.maxgigapop.net
+  - abva4.droot.maxgigapop.net
+  - abva5.droot.maxgigapop.net
+  - abva6.droot.maxgigapop.net
+  - abva7.droot.maxgigapop.net
+  - abva8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 38.9516235
+  Longitude: -77.4480814
+  Status: ''
+  Town: Ashburn
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PY
+  Created: '2024-01-12T16:09:30Z'
+  ID: XuSiDZ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aspy1.droot.maxgigapop.net
+  - aspy2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -25.2637399
+  Longitude: -57.575926
+  Status: ''
+  Town: Asuncion
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GR
+  Created: '2024-01-12T16:09:30Z'
+  ID: z4rtWH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - atgr1.droot.maxgigapop.net
+  - atgr2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 37.983917
+  Longitude: 23.7293599
+  Status: ''
+  Town: Athens
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: zXOZG9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - atga1.droot.maxgigapop.net
+  - atga2.droot.maxgigapop.net
+  - atga3.droot.maxgigapop.net
+  - atga4.droot.maxgigapop.net
+  - atga5.droot.maxgigapop.net
+  - atga6.droot.maxgigapop.net
+  - atga7.droot.maxgigapop.net
+  - atga8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 33.7489954
+  Longitude: -84.3879824
+  Status: ''
+  Town: Atlanta
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: NZ
+  Created: '2024-01-12T16:09:30Z'
+  ID: DJCdqM
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aknz1.droot.maxgigapop.net
+  - aknz2.droot.maxgigapop.net
+  - aunz1.droot.maxgigapop.net
+  - aunz2.droot.maxgigapop.net
+  Instances: 2
+  Latitude: -36.8484597
+  Longitude: 174.7633315
+  Status: ''
+  Town: Auckland
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CH
+  Created: '2024-01-12T16:09:30Z'
+  ID: rXY3ct
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - avch1.droot.maxgigapop.net
+  - avch2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 47.485
+  Longitude: 9.5607694
+  Status: ''
+  Town: Avers
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: 9B3CBc
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bamd1.droot.maxgigapop.net
+  - bamd2.droot.maxgigapop.net
+  - bmmd1.droot.maxgigapop.net
+  - bmmd2.droot.maxgigapop.net
+  Instances: 2
+  Latitude: 39.2903848
+  Longitude: -76.6121893
+  Status: ''
+  Town: Baltimore
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ML
+  Created: '2024-01-12T16:09:30Z'
+  ID: 8iygax
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bmml1.droot.maxgigapop.net
+  - bmml2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 12.649319
+  Longitude: -8.000337
+  Status: ''
+  Town: Bamako
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IN
+  Created: '2024-01-12T16:09:30Z'
+  ID: 2JRTIb
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bain1.droot.maxgigapop.net
+  - bain2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 13.1979
+  Longitude: 77.7063
+  Status: ''
+  Town: Bangalore
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TH
+  Created: '2024-01-12T16:09:30Z'
+  ID: RLvmTs
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bkth1.droot.maxgigapop.net
+  - bkth2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 13.7563309
+  Longitude: 100.5017651
+  Status: ''
+  Town: Bangkok
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: sQuVna
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bgme1.droot.maxgigapop.net
+  - bgme2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 44.8016128
+  Longitude: -68.7712257
+  Status: ''
+  Town: Bangor
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GM
+  Created: '2024-01-12T16:09:30Z'
+  ID: nn53ev
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bjgm1.droot.maxgigapop.net
+  - bjgm2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 13.4548761
+  Longitude: -16.5790323
+  Status: ''
+  Town: Banjul
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ES
+  Created: '2024-01-12T16:09:30Z'
+  ID: FKZlmI
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bces1.droot.maxgigapop.net
+  - bces2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 41.3850639
+  Longitude: 2.1734035
+  Status: ''
+  Town: Barcelona
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: LB
+  Created: '2024-01-12T16:09:30Z'
+  ID: gvaMBe
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - brlb1.droot.maxgigapop.net
+  - brlb2.droot.maxgigapop.net
+  - brls1.droot.maxgigapop.net
+  - brls2.droot.maxgigapop.net
+  Instances: 2
+  Latitude: 33.8886289
+  Longitude: 35.4954794
+  Status: ''
+  Town: Beirut
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: RS
+  Created: '2024-01-12T16:09:30Z'
+  ID: 58lpJ8
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bgrs1.droot.maxgigapop.net
+  - bgrs2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 44.786568
+  Longitude: 20.4489216
+  Status: ''
+  Town: Belgrade
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: DE
+  Created: '2024-01-12T16:09:30Z'
+  ID: oxq5pm
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bede1.droot.maxgigapop.net
+  - bede2.droot.maxgigapop.net
+  - brde1.droot.maxgigapop.net
+  - brde2.droot.maxgigapop.net
+  Instances: 2
+  Latitude: 52.5200066
+  Longitude: 13.404954
+  Status: ''
+  Town: Berlin
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: a0skGn
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bvma1.droot.maxgigapop.net
+  - bvma2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 42.5584283
+  Longitude: -70.880049
+  Status: ''
+  Town: Beverly
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MW
+  Created: '2024-01-12T16:09:30Z'
+  ID: SC82Qk
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - btmw1.droot.maxgigapop.net
+  - btmw2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -15.786111
+  Longitude: 35.005833
+  Status: ''
+  Town: Blantyre
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BF
+  Created: '2024-01-12T16:09:30Z'
+  ID: 6A9UET
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bdbf1.droot.maxgigapop.net
+  - bdbf2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 11.1601
+  Longitude: -4.3309694
+  Status: ''
+  Town: Bobo-Dioulasso
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CO
+  Created: '2024-01-12T16:09:30Z'
+  ID: XSWo0x
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - boco1.droot.maxgigapop.net
+  - boco2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 4.7015889
+  Longitude: -74.1469
+  Status: ''
+  Town: Bogota
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BN
+  Created: '2024-01-12T16:09:30Z'
+  ID: HTTuOI
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bobn1.droot.maxgigapop.net
+  - bobn2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 4.9442
+  Longitude: 114.9280028
+  Status: ''
+  Town: Borneo
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: lkM1p0
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - boma1.droot.maxgigapop.net
+  - boma2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 42.3584308
+  Longitude: -71.0597732
+  Status: ''
+  Town: Boston
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CG
+  Created: '2024-01-12T16:09:30Z'
+  ID: 5WmVDo
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bvcg1.droot.maxgigapop.net
+  - bvcg2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -4.2517
+  Longitude: 15.253
+  Status: ''
+  Town: Brazzaville
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: RO
+  Created: '2024-01-12T16:09:30Z'
+  ID: aUWHf2
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - brro1.droot.maxgigapop.net
+  - brro2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 44.4267674
+  Longitude: 26.1025384
+  Status: ''
+  Town: Bucharest
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AR
+  Created: '2024-01-12T16:09:30Z'
+  ID: G4rLpR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - buar1.droot.maxgigapop.net
+  - buar2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -34.603333
+  Longitude: -58.381667
+  Status: ''
+  Town: Buenos Aires
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BI
+  Created: '2024-01-12T16:09:30Z'
+  ID: 4Czjg5
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bbbi1.droot.maxgigapop.net
+  - bbbi2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -3.361378
+  Longitude: 29.3598782
+  Status: ''
+  Town: Bujumbura
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: oMeOzz
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bbca1.droot.maxgigapop.net
+  - bbca2.droot.maxgigapop.net
+  - bbca3.droot.maxgigapop.net
+  - bbca4.droot.maxgigapop.net
+  - bbca5.droot.maxgigapop.net
+  - bbca6.droot.maxgigapop.net
+  - bbca7.droot.maxgigapop.net
+  - bbca8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 34.1808392
+  Longitude: -118.3089661
+  Status: ''
+  Town: Burbank
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CA
+  Created: '2024-01-12T16:09:30Z'
+  ID: emf5Vg
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cgca1.droot.maxgigapop.net
+  - cgca2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 51.0453246
+  Longitude: -114.0581012
+  Status: ''
+  Town: Calgary
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: JBkwZ9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - caoh1.droot.maxgigapop.net
+  - caoh2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 40.805
+  Longitude: -81.375833
+  Status: ''
+  Town: Canton
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ZA
+  Created: '2024-01-12T16:09:30Z'
+  ID: i0dirS
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ctza1.droot.maxgigapop.net
+  - ctza2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -33.9248685
+  Longitude: 18.4240553
+  Status: ''
+  Town: Cape Town
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: LC
+  Created: '2024-01-12T16:09:30Z'
+  ID: aE7pmz
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - stlc1.droot.maxgigapop.net
+  - stlc2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 14.0101094
+  Longitude: -60.9874687
+  Status: ''
+  Town: Castries
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TH
+  Created: '2024-01-12T16:09:30Z'
+  ID: vFtdC3
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cmth1.droot.maxgigapop.net
+  - cmth2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 18.7668
+  Longitude: 98.9626
+  Status: ''
+  Town: Chaing Mai
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IN
+  Created: '2024-01-12T16:09:30Z'
+  ID: LktoW7
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - chin1.droot.maxgigapop.net
+  - chin2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 12.9900056
+  Longitude: 80.1692972
+  Status: ''
+  Town: Chennai
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: fNC6P5
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - chil1.droot.maxgigapop.net
+  - chil2.droot.maxgigapop.net
+  - chil3.droot.maxgigapop.net
+  - chil4.droot.maxgigapop.net
+  - chil5.droot.maxgigapop.net
+  - chil6.droot.maxgigapop.net
+  - chil7.droot.maxgigapop.net
+  - chil8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 41.8781136
+  Longitude: -87.6297982
+  Status: ''
+  Town: Chicago
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: XbVvXm
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cpmd1.droot.maxgigapop.net
+  - cpmd2.droot.maxgigapop.net
+  - cpmd3.droot.maxgigapop.net
+  - cpmd4.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 38.9911667
+  Longitude: -76.942525
+  Status: ''
+  Town: College Park
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: LK
+  Created: '2024-01-12T16:09:30Z'
+  ID: qyo1jD
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - colk1.droot.maxgigapop.net
+  - colk2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 6.9270786
+  Longitude: 79.861243
+  Status: ''
+  Town: Colombo
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: N1Xzrb
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cloh1.droot.maxgigapop.net
+  - cloh2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 39.9622601
+  Longitude: -83.0007065
+  Status: ''
+  Town: Columbus
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GN
+  Created: '2024-01-12T16:09:30Z'
+  ID: S6ECEv
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ckgn1.droot.maxgigapop.net
+  - ckgn2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 9.5768889
+  Longitude: -13.612
+  Status: ''
+  Town: Conakry
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BJ
+  Created: '2024-01-12T16:09:30Z'
+  ID: 52Uk0p
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cobj1.droot.maxgigapop.net
+  - cobj2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 6.3702928
+  Longitude: 2.3912362
+  Status: ''
+  Town: Cotonou
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SN
+  Created: '2024-01-12T16:09:30Z'
+  ID: GpMRFl
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - dksn1.droot.maxgigapop.net
+  - dksn2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 14.716677
+  Longitude: -17.4676861
+  Status: ''
+  Town: Dakar
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: Uz2tgo
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - dftx1.droot.maxgigapop.net
+  - dftx2.droot.maxgigapop.net
+  - dftx3.droot.maxgigapop.net
+  - dftx4.droot.maxgigapop.net
+  - dftx5.droot.maxgigapop.net
+  - dftx6.droot.maxgigapop.net
+  - dftx7.droot.maxgigapop.net
+  - dftx8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 32.7766642
+  Longitude: -96.7969879
+  Status: ''
+  Town: Dallas
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: LqmySz
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - datx1.droot.maxgigapop.net
+  - datx2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 32.7766642
+  Longitude: -96.7969879
+  Status: ''
+  Town: Dallas
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TZ
+  Created: '2024-01-12T16:09:30Z'
+  ID: N26uvh
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - dstz1.droot.maxgigapop.net
+  - dstz2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -6.792354
+  Longitude: 39.2083284
+  Status: ''
+  Town: Dar es Salaam
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: kwW2VL
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - dpia1.droot.maxgigapop.net
+  - dpia2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 41.5236437
+  Longitude: -90.5776367
+  Status: ''
+  Town: Davenport
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IN
+  Created: '2024-01-12T16:09:30Z'
+  ID: LDlCA3
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - dhin1.droot.maxgigapop.net
+  - dhin2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 28.5665
+  Longitude: 77.1031028
+  Status: ''
+  Town: Delhi
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: M7g6ar
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - deco1.droot.maxgigapop.net
+  - deco2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 39.7392358
+  Longitude: -104.990251
+  Status: ''
+  Town: Denver
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: 0a9r4B
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - dtmi1.droot.maxgigapop.net
+  - dtmi2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 42.3315509
+  Longitude: -83.0466403
+  Status: ''
+  Town: Detroit
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BD
+  Created: '2024-01-12T16:09:30Z'
+  ID: wJF16i
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - dhbd1.droot.maxgigapop.net
+  - dhbd2.droot.maxgigapop.net
+  - dkbd1.droot.maxgigapop.net
+  - dkbd2.droot.maxgigapop.net
+  Instances: 2
+  Latitude: 23.8268396
+  Longitude: 90.4051507
+  Status: ''
+  Town: Dhaka
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: DJ
+  Created: '2024-01-12T16:09:30Z'
+  ID: Wpqsnm
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - djdj1.droot.maxgigapop.net
+  - djdj2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 11.5473
+  Longitude: 43.1595
+  Status: ''
+  Town: Djibouti
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TZ
+  Created: '2024-01-12T16:09:30Z'
+  ID: zBc3Tu
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - dotz1.droot.maxgigapop.net
+  - dotz2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -6.1704389
+  Longitude: 35.7526028
+  Status: ''
+  Town: Dodoma
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: DE
+  Created: '2024-01-12T16:09:30Z'
+  ID: ls6dSw
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - dmde1.droot.maxgigapop.net
+  - dmde2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 51.5142273
+  Longitude: 7.4652789
+  Status: ''
+  Town: Dortmund
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CM
+  Created: '2024-01-12T16:09:30Z'
+  ID: tinI4W
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - dlcm1.droot.maxgigapop.net
+  - dlcm2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 4.0429408
+  Longitude: 9.706203
+  Status: ''
+  Town: Douala
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AE
+  Created: '2024-01-12T16:09:30Z'
+  ID: 2OEpAL
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - dbae1.droot.maxgigapop.net
+  - dbae2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 25.0476643
+  Longitude: 55.1817407
+  Status: ''
+  Town: Dubai
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IE
+  Created: '2024-01-12T16:09:30Z'
+  ID: fNdjiP
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - duie1.droot.maxgigapop.net
+  - duie2.droot.maxgigapop.net
+  - duie3.droot.maxgigapop.net
+  - duie4.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 53.3498053
+  Longitude: -6.2603097
+  Status: ''
+  Town: Dublin
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ZA
+  Created: '2024-01-12T16:09:30Z'
+  ID: f6DRgh
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - dbza1.droot.maxgigapop.net
+  - dbza2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -29.8586804
+  Longitude: 31.0218404
+  Status: ''
+  Town: Durban
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GB
+  Created: '2024-01-12T16:09:30Z'
+  ID: Uz8G9G
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ebuk1.droot.maxgigapop.net
+  - ebuk2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 55.953252
+  Longitude: -3.188267
+  Status: ''
+  Town: Edinburgh
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AT
+  Created: '2024-01-12T16:09:30Z'
+  ID: MQHEoN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - fkat1.droot.maxgigapop.net
+  - fkat2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 47.2375671
+  Longitude: 9.5981724
+  Status: ''
+  Town: Feldkirch
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: DE
+  Created: '2024-01-12T16:09:30Z'
+  ID: m4zOsv
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - frde1.droot.maxgigapop.net
+  - frde2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 50.1109221
+  Longitude: 8.6821267
+  Status: ''
+  Town: Frankfurt
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: DE
+  Created: '2024-01-12T16:09:30Z'
+  ID: ZG4UZW
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ffde1.droot.maxgigapop.net
+  - ffde2.droot.maxgigapop.net
+  - ffde3.droot.maxgigapop.net
+  - ffde4.droot.maxgigapop.net
+  - ffde5.droot.maxgigapop.net
+  - ffde6.droot.maxgigapop.net
+  - ffde7.droot.maxgigapop.net
+  - ffde8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 50.1109221
+  Longitude: 8.6821267
+  Status: ''
+  Town: Frankfurt
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PS
+  Created: '2024-01-12T16:09:30Z'
+  ID: DvyV0Q
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - gaps1.droot.maxgigapop.net
+  - gaps2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 31.7721276
+  Longitude: 35.2136806
+  Status: ''
+  Town: Gaza
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CH
+  Created: '2024-01-12T16:09:30Z'
+  ID: OnOHc9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - gvch1.droot.maxgigapop.net
+  - gvch2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 46.2043907
+  Longitude: 6.1431577
+  Status: ''
+  Town: Geneva
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ZA
+  Created: '2024-01-12T16:09:30Z'
+  ID: XOUVn5
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - gqza1.droot.maxgigapop.net
+  - gqza2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -33.9849028
+  Longitude: 25.6173
+  Status: ''
+  Town: Gqeberha
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GT
+  Created: '2024-01-12T16:09:30Z'
+  ID: UFe3xI
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - gcgt1.droot.maxgigapop.net
+  - gcgt2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 14.6222328
+  Longitude: -90.5185188
+  Status: ''
+  Town: Guatemala City
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: EC
+  Created: '2024-01-12T16:09:30Z'
+  ID: ACeG6z
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - gqec1.droot.maxgigapop.net
+  - gqec2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -2.1709979
+  Longitude: -79.9223592
+  Status: ''
+  Town: Guayaquil
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CA
+  Created: '2024-01-12T16:09:30Z'
+  ID: 7LTwcL
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - hfca1.droot.maxgigapop.net
+  - hfca2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 44.6488625
+  Longitude: -63.5753196
+  Status: ''
+  Town: Halifax
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: DE
+  Created: '2024-01-12T16:09:30Z'
+  ID: z1Afat
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - hbde1.droot.maxgigapop.net
+  - hbde2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 53.5437641
+  Longitude: 10.0099133
+  Status: ''
+  Town: Hamburg
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ZW
+  Created: '2024-01-12T16:09:30Z'
+  ID: pPHZfj
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - hrzw1.droot.maxgigapop.net
+  - hrzw2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -17.8251657
+  Longitude: 31.03351
+  Status: ''
+  Town: Harare
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CN
+  Created: '2024-01-12T16:09:30Z'
+  ID: TX4qNi
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - hkcn1.droot.maxgigapop.net
+  - hkcn2.droot.maxgigapop.net
+  - hocn1.droot.maxgigapop.net
+  - hocn2.droot.maxgigapop.net
+  Instances: 2
+  Latitude: 22.3089
+  Longitude: 113.915
+  Status: ''
+  Town: Hong Kong
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IN
+  Created: '2024-01-12T16:09:30Z'
+  ID: WHbZLQ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - hbin1.droot.maxgigapop.net
+  - hbin2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 17.2288611
+  Longitude: 78.4328472
+  Status: ''
+  Town: Hyderabad
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TR
+  Created: '2024-01-12T16:09:30Z'
+  ID: iUIdKU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - istr1.droot.maxgigapop.net
+  - istr2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 41.00527
+  Longitude: 28.97696
+  Status: ''
+  Town: Istanbul
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: Fx0mMZ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - jvfl1.droot.maxgigapop.net
+  - jvfl2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 30.3321838
+  Longitude: -81.655651
+  Status: ''
+  Town: Jacksonville
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ID
+  Created: '2024-01-12T16:09:30Z'
+  ID: DaKF0a
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - jaid1.droot.maxgigapop.net
+  - jaid2.droot.maxgigapop.net
+  - jkid1.droot.maxgigapop.net
+  - jkid2.droot.maxgigapop.net
+  - jkid3.droot.maxgigapop.net
+  - jkid4.droot.maxgigapop.net
+  Instances: 2
+  Latitude: -6.251496
+  Longitude: 106.8187327
+  Status: ''
+  Town: Jakarta
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ZA
+  Created: '2024-01-12T16:09:30Z'
+  ID: 6KkeeD
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - jbsa1.droot.maxgigapop.net
+  - jbsa2.droot.maxgigapop.net
+  - jbsa3.droot.maxgigapop.net
+  - jbsa4.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -26.2041028
+  Longitude: 28.0473051
+  Status: ''
+  Town: Johannesburg
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MY
+  Created: '2024-01-12T16:09:30Z'
+  ID: 2wRDu8
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - jbmy1.droot.maxgigapop.net
+  - jbmy2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 1.492659
+  Longitude: 103.7413591
+  Status: ''
+  Town: Johore Bahru
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AF
+  Created: '2024-01-12T16:09:30Z'
+  ID: rwUBJF
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kbaf1.droot.maxgigapop.net
+  - kbaf2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 34.5260109
+  Longitude: 69.1776838
+  Status: ''
+  Town: Kabul
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: UG
+  Created: '2024-01-12T16:09:30Z'
+  ID: u7rXNC
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kpug1.droot.maxgigapop.net
+  - kpug2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 0.3475964
+  Longitude: 32.5825197
+  Status: ''
+  Town: Kampala
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: xPTdX6
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kcmo1.droot.maxgigapop.net
+  - kcmo2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 39.0997265
+  Longitude: -94.5785667
+  Status: ''
+  Town: Kansas City
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: NP
+  Created: '2024-01-12T16:09:30Z'
+  ID: adeGkz
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kmnp1.droot.maxgigapop.net
+  - kmnp2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 27.7
+  Longitude: 85.3333333
+  Status: ''
+  Town: Kathmandu
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SD
+  Created: '2024-01-12T16:09:30Z'
+  ID: NNrnKz
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ktsd1.droot.maxgigapop.net
+  - ktsd2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 15.5006544
+  Longitude: 32.5598994
+  Status: ''
+  Town: Khartoum
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: UA
+  Created: '2024-01-12T16:09:30Z'
+  ID: DIy6oH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kvua1.droot.maxgigapop.net
+  - kvua2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 50.4501
+  Longitude: 30.5234
+  Status: ''
+  Town: Kiev
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: RW
+  Created: '2024-01-12T16:09:30Z'
+  ID: paaOsQ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kcrw1.droot.maxgigapop.net
+  - kcrw2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -1.9578755
+  Longitude: 30.112735
+  Status: ''
+  Town: Kigali City
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: JM
+  Created: '2024-01-12T16:09:30Z'
+  ID: m149Y6
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kijm1.droot.maxgigapop.net
+  - kijm2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 17.983333
+  Longitude: -76.8
+  Status: ''
+  Town: Kingston
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CG
+  Created: '2024-01-12T16:09:30Z'
+  ID: P7L4j5
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kicg1.droot.maxgigapop.net
+  - kicg2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -4.4419311
+  Longitude: 15.2662931
+  Status: ''
+  Town: Kinshasa
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AT
+  Created: '2024-01-12T16:09:30Z'
+  ID: 8BPWvZ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kfat1.droot.maxgigapop.net
+  - kfat2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 46.62794
+  Longitude: 14.30899
+  Status: ''
+  Town: Klagenfurt
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IN
+  Created: '2024-01-12T16:09:30Z'
+  ID: OBqqkt
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kkin1.droot.maxgigapop.net
+  - kkin2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 22.6547
+  Longitude: 88.4467
+  Status: ''
+  Town: Kolkata
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MY
+  Created: '2024-01-12T16:09:30Z'
+  ID: pfpb98
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kumy1.droot.maxgigapop.net
+  - kumy2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 3.139003
+  Longitude: 101.686855
+  Status: ''
+  Town: Kuala
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MY
+  Created: '2024-01-12T16:09:30Z'
+  ID: KuPfL9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - klmy1.droot.maxgigapop.net
+  - klmy2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 3.139003
+  Longitude: 101.686855
+  Status: ''
+  Town: Kuala Lumpur
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: KW
+  Created: '2024-01-12T16:09:30Z'
+  ID: ICJBXB
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kckw1.droot.maxgigapop.net
+  - kckw2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 29.375859
+  Longitude: 47.9774052
+  Status: ''
+  Town: Kuwait City
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: NG
+  Created: '2024-01-12T16:09:30Z'
+  ID: zkotjB
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - lang1.droot.maxgigapop.net
+  - lang2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 6.5773694
+  Longitude: 3.3211611
+  Status: ''
+  Town: Lagos
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: NG
+  Created: '2024-01-12T16:09:30Z'
+  ID: RPMcXY
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - lsng1.droot.maxgigapop.net
+  - lsng2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 6.5243793
+  Longitude: 3.3792057
+  Status: ''
+  Town: Lagos State
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BO
+  Created: '2024-01-12T16:09:30Z'
+  ID: dkKd4N
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - lzbo1.droot.maxgigapop.net
+  - lzbo2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -16.5
+  Longitude: -68.15
+  Status: ''
+  Town: La Paz
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CH
+  Created: '2024-01-12T16:09:30Z'
+  ID: 4bnA65
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - lach1.droot.maxgigapop.net
+  - lach2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 46.5196535
+  Longitude: 6.6322734
+  Status: ''
+  Town: Lausanne
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GB
+  Created: '2024-01-12T16:09:30Z'
+  ID: OpCWbp
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - leuk1.droot.maxgigapop.net
+  - leuk2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 53.8007554
+  Longitude: -1.5490774
+  Status: ''
+  Town: Leeds
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GA
+  Created: '2024-01-12T16:09:30Z'
+  ID: qpHPXy
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - lvga1.droot.maxgigapop.net
+  - lvga2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 0.4161976
+  Longitude: 9.4672676
+  Status: ''
+  Town: Libreville
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PE
+  Created: '2024-01-12T16:09:30Z'
+  ID: M7hRYI
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - lmpe1.droot.maxgigapop.net
+  - lmpe2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -12.0621065
+  Longitude: -77.0365256
+  Status: ''
+  Town: Lima
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PT
+  Created: '2024-01-12T16:09:30Z'
+  ID: 61uWen
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - lbpt1.droot.maxgigapop.net
+  - lbpt2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 38.7222524
+  Longitude: -9.1393366
+  Status: ''
+  Town: Lisbon
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TG
+  Created: '2024-01-12T16:09:30Z'
+  ID: 84TodC
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - lotg1.droot.maxgigapop.net
+  - lotg2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 6.1724969
+  Longitude: 1.2313618
+  Status: ''
+  Town: Lome
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GB
+  Created: '2024-01-12T16:09:30Z'
+  ID: k4plK7
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - louk1.droot.maxgigapop.net
+  - louk2.droot.maxgigapop.net
+  - louk3.droot.maxgigapop.net
+  - louk4.droot.maxgigapop.net
+  - louk5.droot.maxgigapop.net
+  - louk6.droot.maxgigapop.net
+  - louk7.droot.maxgigapop.net
+  - louk8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 51.508515
+  Longitude: -0.1254872
+  Status: ''
+  Town: London
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: jdCruu
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - laca1.droot.maxgigapop.net
+  - laca2.droot.maxgigapop.net
+  - laca3.droot.maxgigapop.net
+  - laca4.droot.maxgigapop.net
+  - laca5.droot.maxgigapop.net
+  - laca6.droot.maxgigapop.net
+  - laca7.droot.maxgigapop.net
+  - laca8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 34.0522342
+  Longitude: -118.2436849
+  Status: ''
+  Town: Los Angeles
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AO
+  Created: '2024-01-12T16:09:30Z'
+  ID: pHcQBz
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ldao1.droot.maxgigapop.net
+  - ldao2.droot.maxgigapop.net
+  - luao1.droot.maxgigapop.net
+  - luao2.droot.maxgigapop.net
+  Instances: 2
+  Latitude: -8.8399876
+  Longitude: 13.2894368
+  Status: ''
+  Town: Luanda
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CD
+  Created: '2024-01-12T16:09:30Z'
+  ID: 4GazkB
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - lucd1.droot.maxgigapop.net
+  - lucd2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -11.6642316
+  Longitude: 27.4826264
+  Status: ''
+  Town: Lubumbashi
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ZM
+  Created: '2024-01-12T16:09:30Z'
+  ID: sexWBW
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - luzm1.droot.maxgigapop.net
+  - luzm2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -15.3308
+  Longitude: 28.4526
+  Status: ''
+  Town: Lusaka
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: LU
+  Created: '2024-01-12T16:09:30Z'
+  ID: iWrHl4
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - lclu1.droot.maxgigapop.net
+  - lclu2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 49.611621
+  Longitude: 6.1319346
+  Status: ''
+  Town: Luxembourg City
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: FR
+  Created: '2024-01-12T16:09:30Z'
+  ID: eCTfcX
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - lyfr1.droot.maxgigapop.net
+  - lyfr2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 45.764043
+  Longitude: 4.835659
+  Status: ''
+  Town: Lyon
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ES
+  Created: '2024-01-12T16:09:30Z'
+  ID: 1oYXp3
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mdes1.droot.maxgigapop.net
+  - mdes2.droot.maxgigapop.net
+  - mdes3.droot.maxgigapop.net
+  - mdes4.droot.maxgigapop.net
+  - mdes5.droot.maxgigapop.net
+  - mdes6.droot.maxgigapop.net
+  - mdes7.droot.maxgigapop.net
+  - mdes8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 40.4167754
+  Longitude: -3.7037902
+  Status: ''
+  Town: Madrid
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MV
+  Created: '2024-01-12T16:09:30Z'
+  ID: nLQU7H
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mamv1.droot.maxgigapop.net
+  - mamv2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 4.1918306
+  Longitude: 73.5290972
+  Status: ''
+  Town: Male
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BH
+  Created: '2024-01-12T16:09:30Z'
+  ID: S4RFSU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mmbh1.droot.maxgigapop.net
+  - mmbh2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 26.2708
+  Longitude: 50.6335972
+  Status: ''
+  Town: Manama
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GB
+  Created: '2024-01-12T16:09:30Z'
+  ID: uRyWmV
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mnuk1.droot.maxgigapop.net
+  - mnuk2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 53.4807593
+  Longitude: -2.2426305
+  Status: ''
+  Town: Manchester
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PH
+  Created: '2024-01-12T16:09:30Z'
+  ID: 5ygroa
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mnph1.droot.maxgigapop.net
+  - mnph2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 14.583333
+  Longitude: 120.966667
+  Status: ''
+  Town: Manila
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MZ
+  Created: '2024-01-12T16:09:30Z'
+  ID: 0lq7Ck
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mpmz1.droot.maxgigapop.net
+  - mpmz2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -25.891968
+  Longitude: 32.6051351
+  Status: ''
+  Town: Maputo
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: FR
+  Created: '2024-01-12T16:09:30Z'
+  ID: Wr2f32
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - msfr1.droot.maxgigapop.net
+  - msfr2.droot.maxgigapop.net
+  - msfr3.droot.maxgigapop.net
+  - msfr4.droot.maxgigapop.net
+  - msfr5.droot.maxgigapop.net
+  - msfr6.droot.maxgigapop.net
+  - msfr7.droot.maxgigapop.net
+  - msfr8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 43.296482
+  Longitude: 5.36978
+  Status: ''
+  Town: Marseille
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: LrDWQ0
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mcva1.droot.maxgigapop.net
+  - mcva2.droot.maxgigapop.net
+  - mcva3.droot.maxgigapop.net
+  - mcva4.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 38.9200861
+  Longitude: -77.2115833
+  Status: ''
+  Town: Mclean
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MX
+  Created: '2024-01-12T16:09:30Z'
+  ID: SKOmaQ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mcmx1.droot.maxgigapop.net
+  - mcmx2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 19.4326077
+  Longitude: -99.133208
+  Status: ''
+  Town: Mexico City
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: 6oAfsy
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mifl1.droot.maxgigapop.net
+  - mifl2.droot.maxgigapop.net
+  - mifl3.droot.maxgigapop.net
+  - mifl4.droot.maxgigapop.net
+  - mifl5.droot.maxgigapop.net
+  - mifl6.droot.maxgigapop.net
+  - mifl7.droot.maxgigapop.net
+  - mifl8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 25.7890972
+  Longitude: -80.2040435
+  Status: ''
+  Town: Miami
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: 0wPr9Q
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - miwi1.droot.maxgigapop.net
+  - miwi2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 43.0389025
+  Longitude: -87.9064736
+  Status: ''
+  Town: Milwaukee
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: NI1GNt
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mnmn1.droot.maxgigapop.net
+  - mnmn2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 44.9772995
+  Longitude: -93.2654692
+  Status: ''
+  Town: Minneapolis
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SO
+  Created: '2024-01-12T16:09:30Z'
+  ID: B5EEOY
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mdso1.droot.maxgigapop.net
+  - mdso2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 2.0469343
+  Longitude: 45.3181623
+  Status: ''
+  Town: Mogadishu
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: KE
+  Created: '2024-01-12T16:09:30Z'
+  ID: ezyu1n
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mbke1.droot.maxgigapop.net
+  - mbke2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -4.0434771
+  Longitude: 39.6682065
+  Status: ''
+  Town: Mombasa
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CA
+  Created: '2024-01-12T16:09:30Z'
+  ID: cYUo0j
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mtca1.droot.maxgigapop.net
+  - mtca2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 46.0878165
+  Longitude: -64.7782313
+  Status: ''
+  Town: Moncton
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: LR
+  Created: '2024-01-12T16:09:30Z'
+  ID: WXktfz
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mrlr1.droot.maxgigapop.net
+  - mrlr2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 6.2907432
+  Longitude: -10.7605239
+  Status: ''
+  Town: Monrovia
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: qFsgLq
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mgal1.droot.maxgigapop.net
+  - mgal2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 32.3668052
+  Longitude: -86.2999689
+  Status: ''
+  Town: Montgomery
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CA
+  Created: '2024-01-12T16:09:30Z'
+  ID: ZqcURi
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - moca1.droot.maxgigapop.net
+  - moca2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 45.5086699
+  Longitude: -73.5539925
+  Status: ''
+  Town: Montreal
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IN
+  Created: '2024-01-12T16:09:30Z'
+  ID: cuess9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - muin1.droot.maxgigapop.net
+  - muin2.droot.maxgigapop.net
+  - muin3.droot.maxgigapop.net
+  - muin4.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 19.0761111
+  Longitude: 72.8678972
+  Status: ''
+  Town: Mumbai
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: KE
+  Created: '2024-01-12T16:09:30Z'
+  ID: hvtl7D
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - nrke1.droot.maxgigapop.net
+  - nrke2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -1.2920659
+  Longitude: 36.8219462
+  Status: ''
+  Town: Nairobi
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TD
+  Created: '2024-01-12T16:09:30Z'
+  ID: HgrttT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ndtd1.droot.maxgigapop.net
+  - ndtd2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 12.1337
+  Longitude: 15.034
+  Status: ''
+  Town: N Djamena
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: kf4MNM
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - nyny1.droot.maxgigapop.net
+  - nyny2.droot.maxgigapop.net
+  - nyny3.droot.maxgigapop.net
+  - nyny4.droot.maxgigapop.net
+  - nyny5.droot.maxgigapop.net
+  - nyny6.droot.maxgigapop.net
+  - nyny7.droot.maxgigapop.net
+  - nyny8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 40.7143528
+  Longitude: -74.0059731
+  Status: ''
+  Town: New York
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: 'NO'
+  Created: '2024-01-12T16:09:30Z'
+  ID: pQy8mX
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - osno1.droot.maxgigapop.net
+  - osno2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 59.9133301
+  Longitude: 10.7389701
+  Status: ''
+  Town: Oslo
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CA
+  Created: '2024-01-12T16:09:30Z'
+  ID: YYGikY
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - owca1.droot.maxgigapop.net
+  - owca2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 45.3224972
+  Longitude: -75.6691972
+  Status: ''
+  Town: Ottawa
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BF
+  Created: '2024-01-12T16:09:30Z'
+  ID: kaV2ju
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - oubf1.droot.maxgigapop.net
+  - oubf2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 12.3714277
+  Longitude: -1.5196603
+  Status: ''
+  Town: Ouagadougou
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: pyPF2I
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - paca1.droot.maxgigapop.net
+  - paca2.droot.maxgigapop.net
+  - paca3.droot.maxgigapop.net
+  - paca4.droot.maxgigapop.net
+  - paca5.droot.maxgigapop.net
+  - paca6.droot.maxgigapop.net
+  - paca7.droot.maxgigapop.net
+  - paca8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 37.4418834
+  Longitude: -122.1430195
+  Status: ''
+  Town: Palo Alto
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PA
+  Created: '2024-01-12T16:09:30Z'
+  ID: dTjaVy
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - pcpa1.droot.maxgigapop.net
+  - pcpa2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 9.0713583
+  Longitude: -79.3835
+  Status: ''
+  Town: Panama City
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SR
+  Created: '2024-01-12T16:09:30Z'
+  ID: HI0Rtf
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - pmsr1.droot.maxgigapop.net
+  - pmsr2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 5.8247628
+  Longitude: -55.1703941
+  Status: ''
+  Town: Paramaribo
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: FR
+  Created: '2024-01-12T16:09:30Z'
+  ID: dIv7CU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - pafr1.droot.maxgigapop.net
+  - pafr2.droot.maxgigapop.net
+  - pafr3.droot.maxgigapop.net
+  - pafr4.droot.maxgigapop.net
+  - pafr5.droot.maxgigapop.net
+  - pafr6.droot.maxgigapop.net
+  - pafr7.droot.maxgigapop.net
+  - pafr8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 48.856614
+  Longitude: 2.3522219
+  Status: ''
+  Town: Paris
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BT
+  Created: '2024-01-12T16:09:30Z'
+  ID: whCgDa
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - pabt1.droot.maxgigapop.net
+  - pabt2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 27.428684
+  Longitude: 89.4163654
+  Status: ''
+  Town: Paro
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AU
+  Created: '2024-01-12T16:09:30Z'
+  ID: 8QWFx8
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - peau1.droot.maxgigapop.net
+  - peau2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -31.9530044
+  Longitude: 115.8574693
+  Status: ''
+  Town: Perth
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: KH
+  Created: '2024-01-12T16:09:30Z'
+  ID: Kf3vNx
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ppkh1.droot.maxgigapop.net
+  - ppkh2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 11.5448729
+  Longitude: 104.8921668
+  Status: ''
+  Town: Phnom Penh
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: J4Y28G
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - pxaz1.droot.maxgigapop.net
+  - pxaz2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 33.4483771
+  Longitude: -112.0740373
+  Status: ''
+  Town: Phoenix
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-01-12T16:09:30Z'
+  ID: 3K2fPY
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - pgbr1.droot.maxgigapop.net
+  - pgbr2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -25.0891685
+  Longitude: -50.1601812
+  Status: ''
+  Town: Ponta Grossa
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: HT
+  Created: '2024-01-12T16:09:30Z'
+  ID: et6ZjC
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ppht1.droot.maxgigapop.net
+  - ppht2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 18.594395
+  Longitude: -72.3074326
+  Status: ''
+  Town: Port Au Prince
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: 8QN9t5
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - poor1.droot.maxgigapop.net
+  - poor2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 45.5234515
+  Longitude: -122.6762071
+  Status: ''
+  Town: Portland
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MU
+  Created: '2024-01-12T16:09:30Z'
+  ID: KMCHBA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - plmu1.droot.maxgigapop.net
+  - plmu2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -20.1668958
+  Longitude: 57.502332
+  Status: ''
+  Town: Port Louis
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TT
+  Created: '2024-01-12T16:09:30Z'
+  ID: sWkwu2
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - pstt1.droot.maxgigapop.net
+  - pstt2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 10.6549013
+  Longitude: -61.5019256
+  Status: ''
+  Town: Port of Spain
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AR
+  Created: '2024-01-12T16:09:30Z'
+  ID: lsKesj
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - poar1.droot.maxgigapop.net
+  - poar2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -27.3621374
+  Longitude: -55.9008746
+  Status: ''
+  Town: Posadus
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CZ
+  Created: '2024-01-12T16:09:30Z'
+  ID: MwhKkS
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - prcz1.droot.maxgigapop.net
+  - prcz2.droot.maxgigapop.net
+  - prcz3.droot.maxgigapop.net
+  - prcz4.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 50.0755381
+  Longitude: 14.4378005
+  Status: ''
+  Town: Prague
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PS
+  Created: '2024-01-12T16:09:30Z'
+  ID: 2n1KDf
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - raps1.droot.maxgigapop.net
+  - raps2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 31.9
+  Longitude: 35.2
+  Status: ''
+  Town: Ramallah
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: MA676v
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - renv1.droot.maxgigapop.net
+  - renv2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 39.5296329
+  Longitude: -119.8138027
+  Status: ''
+  Town: Reno
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IS
+  Created: '2024-01-12T16:09:30Z'
+  ID: RKpywF
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - rkis1.droot.maxgigapop.net
+  - rkis2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 64.133333
+  Longitude: -21.933333
+  Status: ''
+  Town: Reykjavik
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: D668KY
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - rmva1.droot.maxgigapop.net
+  - rmva2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 37.5407246
+  Longitude: -77.4360481
+  Status: ''
+  Town: Richmond
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: LV
+  Created: '2024-01-12T16:09:30Z'
+  ID: st07R8
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - rglv1.droot.maxgigapop.net
+  - rglv2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 56.9496487
+  Longitude: 24.1051864
+  Status: ''
+  Town: Riga
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: BSRhoP
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - rdmd1.droot.maxgigapop.net
+  - rdmd2.droot.maxgigapop.net
+  - rdmd3.droot.maxgigapop.net
+  - rdmd4.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 38.9708306
+  Longitude: -76.9219056
+  Status: ''
+  Town: Riverdale
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SA
+  Created: '2024-01-12T16:09:30Z'
+  ID: Vmvq8G
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - rasa1.droot.maxgigapop.net
+  - rasa2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 24.638916
+  Longitude: 46.7160104
+  Status: ''
+  Town: Riyadh
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: VG
+  Created: '2024-01-12T16:09:30Z'
+  ID: K4nqyj
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - rtvg1.droot.maxgigapop.net
+  - rtvg2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 18.4448
+  Longitude: -64.543
+  Status: ''
+  Town: Road Town
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IT
+  Created: '2024-01-12T16:09:30Z'
+  ID: 5BG4cF
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - rmit1.droot.maxgigapop.net
+  - rmit2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 41.9027835
+  Longitude: 12.4963655
+  Status: ''
+  Town: Rome
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AR
+  Created: '2024-01-12T16:09:30Z'
+  ID: QkRZuI
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - roar1.droot.maxgigapop.net
+  - roar2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -32.9442426
+  Longitude: -60.6505388
+  Status: ''
+  Town: Rosario
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: DM
+  Created: '2024-01-12T16:09:30Z'
+  ID: LCHdYn
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - rodm1.droot.maxgigapop.net
+  - rodm2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 15.547
+  Longitude: -61.2999972
+  Status: ''
+  Town: Roseau
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ZA
+  Created: '2024-01-12T16:09:30Z'
+  ID: i5ZAXd
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sbza1.droot.maxgigapop.net
+  - sbza2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -33.0276981
+  Longitude: 17.9176312
+  Status: ''
+  Town: Saldanha Bay
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: 7DO9XC
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - slut1.droot.maxgigapop.net
+  - slut2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 40.7596198
+  Longitude: -111.8867975
+  Status: ''
+  Town: Salt Lake City
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AT
+  Created: '2024-01-12T16:09:30Z'
+  ID: 6LXeos
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sbat1.droot.maxgigapop.net
+  - sbat2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 47.80949
+  Longitude: 13.05501
+  Status: ''
+  Town: Salzburg
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: yIZAIX
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sfca1.droot.maxgigapop.net
+  - sfca2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 37.7749295
+  Longitude: -122.4194155
+  Status: ''
+  Town: San Francisco
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CR
+  Created: '2024-01-12T16:09:30Z'
+  ID: EpBD6n
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sjcr1.droot.maxgigapop.net
+  - sjcr2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 9.9280694
+  Longitude: -84.0907246
+  Status: ''
+  Town: San Jose
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: fkBJvt
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sjca1.droot.maxgigapop.net
+  - sjca2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 37.3382082
+  Longitude: -121.8863286
+  Status: ''
+  Town: San Jose
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: E2JrZ7
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sjpr1.droot.maxgigapop.net
+  - sjpr2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 18.4663338
+  Longitude: -66.1057217
+  Status: ''
+  Town: San Juan
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: HN
+  Created: '2024-01-12T16:09:30Z'
+  ID: xw9iJu
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sphn1.droot.maxgigapop.net
+  - sphn2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 15.4526
+  Longitude: -87.9236
+  Status: ''
+  Town: San Pedro Sula
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CL
+  Created: '2024-01-12T16:09:30Z'
+  ID: AZBIuP
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - stcl1.droot.maxgigapop.net
+  - stcl2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -33.4488897
+  Longitude: -70.6692655
+  Status: ''
+  Town: Santiago
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BA
+  Created: '2024-01-12T16:09:30Z'
+  ID: EZyDQH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sjba1.droot.maxgigapop.net
+  - sjba2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 43.8246
+  Longitude: 18.3315
+  Status: ''
+  Town: Sarajevo
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CA
+  Created: '2024-01-12T16:09:30Z'
+  ID: IFpO1x
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - stca1.droot.maxgigapop.net
+  - stca2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 52.1332144
+  Longitude: -106.6700458
+  Status: ''
+  Town: Saskatoon
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: wtiTLi
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sewa1.droot.maxgigapop.net
+  - sewa2.droot.maxgigapop.net
+  - sewa3.droot.maxgigapop.net
+  - sewa4.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 47.6062095
+  Longitude: -122.3320708
+  Status: ''
+  Town: Seattle
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: KZ
+  Created: '2024-01-12T16:09:30Z'
+  ID: D4bJIq
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sckz1.droot.maxgigapop.net
+  - sckz2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 50.4233463
+  Longitude: 80.250811
+  Status: ''
+  Town: Semey City
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: KR
+  Created: '2024-01-12T16:09:30Z'
+  ID: zUtMF9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sekr1.droot.maxgigapop.net
+  - sekr2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 37.566535
+  Longitude: 126.9779692
+  Status: ''
+  Town: Seoul
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: DE
+  Created: '2024-01-12T16:09:30Z'
+  ID: QYURyb
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - slde1.droot.maxgigapop.net
+  - slde2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 50.7072535
+  Longitude: 8.0761931
+  Status: ''
+  Town: Siegerland
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SG
+  Created: '2024-01-12T16:09:30Z'
+  ID: ZQyf0n
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sgsg1.droot.maxgigapop.net
+  - sgsg2.droot.maxgigapop.net
+  - sgsg3.droot.maxgigapop.net
+  - sgsg4.droot.maxgigapop.net
+  - sgsg5.droot.maxgigapop.net
+  - sgsg6.droot.maxgigapop.net
+  - sgsg7.droot.maxgigapop.net
+  - sgsg8.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 1.2800945
+  Longitude: 103.8509491
+  Status: ''
+  Town: Singapore
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MK
+  Created: '2024-01-12T16:09:30Z'
+  ID: sNYG08
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - skmk1.droot.maxgigapop.net
+  - skmk2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 41.9960924
+  Longitude: 21.4316495
+  Status: ''
+  Town: Skopje
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BG
+  Created: '2024-01-12T16:09:30Z'
+  ID: F2DLwN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sobg1.droot.maxgigapop.net
+  - sobg2.droot.maxgigapop.net
+  - sobg3.droot.maxgigapop.net
+  - sobg4.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 42.6977082
+  Longitude: 23.3218675
+  Status: ''
+  Town: Sofia
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BL
+  Created: '2024-01-12T16:09:30Z'
+  ID: m3StCN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sbbl1.droot.maxgigapop.net
+  - sbbl2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 17.9044
+  Longitude: -62.8436
+  Status: ''
+  Town: St Barthelemy
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: CllLch
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sgut1.droot.maxgigapop.net
+  - sgut2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 37.0965278
+  Longitude: -113.5684164
+  Status: ''
+  Town: St George
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GD
+  Created: '2024-01-12T16:09:30Z'
+  ID: zGxNx9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sggd1.droot.maxgigapop.net
+  - sggd2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 12.0042
+  Longitude: -61.7862028
+  Status: ''
+  Town: St Georges
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: emnlZH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - slmo1.droot.maxgigapop.net
+  - slmo2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 38.627222
+  Longitude: -90.197778
+  Status: ''
+  Town: St Louis
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SE
+  Created: '2024-01-12T16:09:30Z'
+  ID: xIkBPq
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - shse1.droot.maxgigapop.net
+  - shse2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 59.3293235
+  Longitude: 18.0685808
+  Status: ''
+  Town: Stockholm
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: DE
+  Created: '2024-01-12T16:09:30Z'
+  ID: fSMQBi
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sgde1.droot.maxgigapop.net
+  - sgde2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 48.7784485
+  Longitude: 9.1800132
+  Status: ''
+  Town: Stuttgart
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AU
+  Created: '2024-01-12T16:09:30Z'
+  ID: CSwXGG
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - syau1.droot.maxgigapop.net
+  - syau2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -33.8674869
+  Longitude: 151.2069902
+  Status: ''
+  Town: Sydney
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TW
+  Created: '2024-01-12T16:09:30Z'
+  ID: D5cgTL
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - tatw1.droot.maxgigapop.net
+  - tatw2.droot.maxgigapop.net
+  - tptw1.droot.maxgigapop.net
+  - tptw2.droot.maxgigapop.net
+  Instances: 2
+  Latitude: 25.0553347
+  Longitude: 121.3992102
+  Status: ''
+  Town: Taipei
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: EE
+  Created: '2024-01-12T16:09:30Z'
+  ID: C9O55v
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - taee1.droot.maxgigapop.net
+  - taee2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 59.4369608
+  Longitude: 24.7535746
+  Status: ''
+  Town: Tallinn
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-01-12T16:09:30Z'
+  ID: mMl9Vt
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - tafl1.droot.maxgigapop.net
+  - tafl2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 27.950575
+  Longitude: -82.4571776
+  Status: ''
+  Town: Tampa
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: FI
+  Created: '2024-01-12T16:09:30Z'
+  ID: Dm0CSF
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - tafi1.droot.maxgigapop.net
+  - tafi2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 61.5
+  Longitude: 23.766667
+  Status: ''
+  Town: Tampere
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: UZ
+  Created: '2024-01-12T16:09:30Z'
+  ID: Md8t8d
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - tkuz1.droot.maxgigapop.net
+  - tkuz2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 41.3123363
+  Longitude: 69.2787079
+  Status: ''
+  Town: Tashkent
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: HN
+  Created: '2024-01-12T16:09:30Z'
+  ID: 9bJGlX
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - tghn1.droot.maxgigapop.net
+  - tghn2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 14.0722751
+  Longitude: -87.192136
+  Status: ''
+  Town: Tegucigalpa
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IL
+  Created: '2024-01-12T16:09:30Z'
+  ID: qEsGQb
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - tail1.droot.maxgigapop.net
+  - tail2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 32.0852999
+  Longitude: 34.7817676
+  Status: ''
+  Town: Tel Aviv
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AL
+  Created: '2024-01-12T16:09:30Z'
+  ID: 9S0IY9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - tial1.droot.maxgigapop.net
+  - tial2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 41.3275459
+  Longitude: 19.8186982
+  Status: ''
+  Town: Tirana
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: JP
+  Created: '2024-01-12T16:09:30Z'
+  ID: a8rtLl
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - tojp1.droot.maxgigapop.net
+  - tojp2.droot.maxgigapop.net
+  - tojp3.droot.maxgigapop.net
+  - tojp4.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 35.7766076
+  Longitude: 140.3187806
+  Status: ''
+  Town: Tokyo
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CA
+  Created: '2024-01-12T16:09:30Z'
+  ID: GUVZNH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - trca1.droot.maxgigapop.net
+  - trca2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 43.653226
+  Longitude: -79.3831843
+  Status: ''
+  Town: Toronto
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: 'NO'
+  Created: '2024-01-12T16:09:30Z'
+  ID: q7AsP0
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - trno1.droot.maxgigapop.net
+  - trno2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 63.4305658
+  Longitude: 10.3951929
+  Status: ''
+  Town: Trondheim
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TN
+  Created: '2024-01-12T16:09:30Z'
+  ID: oqg7vM
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - tutn1.droot.maxgigapop.net
+  - tutn2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 36.8064948
+  Longitude: 10.1815316
+  Status: ''
+  Town: Tunis
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IT
+  Created: '2024-01-12T16:09:30Z'
+  ID: va17lq
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - tuit1.droot.maxgigapop.net
+  - tuit2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 45.070312
+  Longitude: 7.6868565
+  Status: ''
+  Town: Turin
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AT
+  Created: '2024-01-12T16:09:30Z'
+  ID: cCeOf6
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - viat1.droot.maxgigapop.net
+  - viat2.droot.maxgigapop.net
+  - viat3.droot.maxgigapop.net
+  - viat4.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 48.2081743
+  Longitude: 16.3738189
+  Status: ''
+  Town: Vienna
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PL
+  Created: '2024-01-12T16:09:30Z'
+  ID: CkfAQW
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - wapl1.droot.maxgigapop.net
+  - wapl2.droot.maxgigapop.net
+  - wapl3.droot.maxgigapop.net
+  - wapl4.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 52.2296756
+  Longitude: 21.0122287
+  Status: ''
+  Town: Warsaw
+  Type: Global
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: NZ
+  Created: '2024-01-12T16:09:30Z'
+  ID: TMRmB6
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - wtnz1.droot.maxgigapop.net
+  - wtnz2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -41.2864603
+  Longitude: 174.776236
+  Status: ''
+  Town: Wellington
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: NA
+  Created: '2024-01-12T16:09:30Z'
+  ID: IcHreQ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - whna1.droot.maxgigapop.net
+  - whna2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -22.5608807
+  Longitude: 17.0657549
+  Status: ''
+  Town: Windhoek
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CA
+  Created: '2024-01-12T16:09:30Z'
+  ID: 7xvzzE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - wpca1.droot.maxgigapop.net
+  - wpca2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 49.8997541
+  Longitude: -97.1374937
+  Status: ''
+  Town: Winnipeg
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MM
+  Created: '2024-01-12T16:09:30Z'
+  ID: eS5aPl
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - yamm1.droot.maxgigapop.net
+  - yamm2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 16.9073
+  Longitude: 96.1332028
+  Status: ''
+  Town: Yangon
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AM
+  Created: '2024-01-12T16:09:30Z'
+  ID: TReyUz
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - yvam1.droot.maxgigapop.net
+  - yvam2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 40.1791857
+  Longitude: 44.4991029
+  Status: ''
+  Town: Yerevan
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ID
+  Created: '2024-01-12T16:09:30Z'
+  ID: 9290QO
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ykid1.droot.maxgigapop.net
+  - ykid2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: -7.9075
+  Longitude: 110.0544444
+  Status: ''
+  Town: Yogyakarta
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: HR
+  Created: '2024-01-12T16:09:30Z'
+  ID: GXgLIA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - zghr1.droot.maxgigapop.net
+  - zghr2.droot.maxgigapop.net
+  Instances: 1
+  Latitude: 45.8150108
+  Longitude: 15.981919
+  Status: ''
+  Town: Zagreb
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CH
+  Created: '2024-01-12T16:09:30Z'
+  ID: p0allb
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - zhch1.droot.maxgigapop.net
+  - zhch2.droot.maxgigapop.net
+  - zrch1.droot.maxgigapop.net
+  - zrch2.droot.maxgigapop.net
+  - zuch1.droot.maxgigapop.net
+  - zuch2.droot.maxgigapop.net
+  Instances: 3
+  Latitude: 47.3768866
+  Longitude: 8.541694
+  Status: ''
+  Town: Zurich
+  Type: Local
+  Updated: '2024-01-12T16:09:30Z'
+Statistics: ''
+Updated: '2024-01-12T16:09:30Z'
