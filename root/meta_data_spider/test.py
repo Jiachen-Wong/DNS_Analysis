@@ -9,9 +9,9 @@ from lxml import etree
 # 数据源起自2015/03/02 至今
 # The data source starts from 2015/03/02, and continues to the present.
 
-# 在2020/09/15当天文件缺失，此前同一IP下不同镜像称为Instances，Instances下进一步细分为Sites；此后同一IP下不同镜像称为Sites，Sites下进一步细分改为Instances
+# 在2020/09/15当天文件缺失，此前同一IP下不同镜像称为Instances，此后同一IP下不同镜像称为Sites，Sites下进一步细分改为Instances
 # The archives lack the data of 2020/09/15. 
-# Before this day different mirrors of same IP is called 'Instances', and there can be serveral sites owned by only one instance.
+# Before this day different mirrors of same IP is called 'Instances'. 
 # After this day different mirrors of same IP is called 'Sites', and there can be serveral instances owned by only one site.
 
 # 在2022/05/12及之前 仅提供yml格式文件

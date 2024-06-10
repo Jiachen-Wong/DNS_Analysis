@@ -1,0 +1,45 @@
+ASN: '7500'
+Contact Email: ''
+Homepage: http://m.root-servers.org/
+IPv4: 202.12.27.33
+IPv6: 2001:dc3::35
+Instances:
+- Country: JP
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '34.6937378'
+  Longitude: '135.5021651'
+  Sites: 1
+  Town: Osaka
+- Country: FR
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '48.856614'
+  Longitude: '2.3522219'
+  Sites: 1
+  Town: Paris
+- Country: US
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '37.7749295'
+  Longitude: '-122.4194155'
+  Sites: 1
+  State: CA
+  Town: San Francisco
+- Country: KR
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '37.566535'
+  Longitude: '126.9779692'
+  Sites: 1
+  Town: Seoul
+- Country: JP
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '35.6894875'
+  Longitude: '139.6917064'
+  Sites: 3
+  Town: Tokyo
+Operator: WIDE Project
+Peering Policy: ''
+Statistics: ''

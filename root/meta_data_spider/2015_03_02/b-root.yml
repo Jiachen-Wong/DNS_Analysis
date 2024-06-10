@@ -1,0 +1,17 @@
+ASN: ''
+Contact Email: hostmaster@b.root-servers.net
+Homepage: http://www.isi.edu/b-root/
+IPv4: 192.228.79.201
+IPv6: 2001:500:84::b
+Instances:
+- Country: USA
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '34.05'
+  Longitude: '-118.25'
+  Sites: 1
+  State: California
+  Town: Los Angeles
+Operator: Information Sciences Institute
+Peering Policy: ''
+Statistics: ''
