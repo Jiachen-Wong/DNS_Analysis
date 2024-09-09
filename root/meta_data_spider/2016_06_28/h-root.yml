@@ -1,0 +1,37 @@
+ASN: '1508'
+Contact Email: hroot@arl.army.mil
+Homepage: http://h.root-servers.org/
+IPv4: 198.97.190.53
+IPv6: 2001:500:1::53
+Identifier Naming Convention: ''
+Instances:
+- Country: US
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - 001.apg.h.root-servers.org
+  - 002.apg.h.root-servers.org
+  - 003.apg.h.root-servers.org
+  Latitude: '39.476245'
+  Longitude: '-76.119154'
+  Sites: 1
+  State: MD
+  Town: Aberdeen Proving Ground
+  Type: Global
+- Country: US
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - 001.nzy.h.root-servers.org
+  - 002.nzy.h.root-servers.org
+  - 003.nzy.h.root-servers.org
+  Latitude: '32.706253'
+  Longitude: '-117.237842'
+  Sites: 1
+  State: CA
+  Town: San Diego
+  Type: Global
+Operator: U.S. Army Research Lab
+Peering Policy: ''
+RSSAC: http://h.root-servers.org/rssac.html
+Statistics: http://h.root-servers.org/

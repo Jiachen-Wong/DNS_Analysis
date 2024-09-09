@@ -1,0 +1,113 @@
+ASN: '297'
+Contact Email: ''
+Homepage: ''
+IPv4: 192.203.230.10
+IPv6: ''
+Identifier Naming Convention: ''
+Instances:
+- Country: US
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Latitude: '33.7489954'
+  Longitude: '-84.3879824'
+  Sites: 1
+  State: GA
+  Town: Atlanta
+  Type: Local
+- Country: BE
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Latitude: '50.8503396'
+  Longitude: '4.3517103'
+  Sites: 1
+  Town: Brussels
+  Type: Local
+- Country: ZA
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Latitude: '-33.9248685'
+  Longitude: '18.4240553'
+  Sites: 1
+  Town: Cape Town
+  Type: Local
+- Country: US
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Latitude: '41.8781136'
+  Longitude: '-87.6297982'
+  Sites: 1
+  State: IL
+  Town: Chicago
+  Type: Local
+- Country: UK
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Latitude: '51.5112139'
+  Longitude: '-0.1198244'
+  Sites: 1
+  Town: London
+  Type: Local
+- Country: US
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Latitude: '34.0522342'
+  Longitude: '-118.2436849'
+  Sites: 1
+  State: CA
+  Town: Los Angeles
+  Type: Local
+- Country: US
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Latitude: '37.3860517'
+  Longitude: '-122.0838511'
+  Sites: 1
+  State: CA
+  Town: Mountain View
+  Type: Global
+- Country: US
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Latitude: '40.7143528'
+  Longitude: '-74.0059731'
+  Sites: 1
+  State: NY
+  Town: New York
+  Type: Local
+- Country: BR
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Latitude: '-23.5489433'
+  Longitude: '-46.6388182'
+  Sites: 1
+  Town: San Paulo
+  Type: Local
+- Country: US
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Latitude: '47.6062095'
+  Longitude: '-122.3320708'
+  Sites: 1
+  State: WA
+  Town: Seattle
+  Type: Local
+- Country: AU
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Latitude: '-33.8674869'
+  Longitude: '151.2069902'
+  Sites: 1
+  Town: Sydney
+  Type: Local
+- Country: JP
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Latitude: '35.6894875'
+  Longitude: '139.6917064'
+  Sites: 1
+  Town: Tokyo
+  Type: Local
+Operator: NASA Ames Research Center
+Peering Policy: ''
+RSSAC: ''
+Statistics: ''

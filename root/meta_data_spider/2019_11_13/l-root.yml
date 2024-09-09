@@ -1,0 +1,1606 @@
+ASN: '20144'
+Contact Email: noc@dns.icann.org
+Homepage: http://www.dns.icann.org/imrs/
+IPv4: 199.7.83.42
+IPv6: 2001:500:9f::42
+Identifier Naming Convention: https://tools.ietf.org/html/rfc7108
+Instances:
+- Country: Cote d'Ivoire
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa02.ci-abj.l.dns.icann.org
+  - aa01.ci-abj.l.dns.icann.org
+  Latitude: '5.316667'
+  Longitude: '-4.033333'
+  Sites: 1
+  Town: Abidjan
+  Type: Global
+- Country: Bahrain
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.bh-gbq.l.dns.icann.org
+  Latitude: '26.266941'
+  Longitude: '50.63839'
+  Sites: 1
+  Town: Al Muharraq
+  Type: Global
+- Country: Jordan
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.jo-amm.l.dns.icann.org
+  Latitude: '31.9565783'
+  Longitude: '35.9456951'
+  Sites: 1
+  Town: Amman
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.us-anc.l.dns.icann.org
+  Latitude: '61.2180556'
+  Longitude: '-149.9002778'
+  Sites: 1
+  State: Alaska
+  Town: Anchorage
+  Type: Global
+- Country: Turkey
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.tr-ank.l.dns.icann.org
+  Latitude: '39.92077'
+  Longitude: '32.85411'
+  Sites: 1
+  Town: Ankara
+  Type: Global
+- Country: Samoa
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ws-apw.l.dns.icann.org
+  Latitude: '-13.8506958'
+  Longitude: '-171.7513551'
+  Sites: 1
+  State: Upolu Island
+  Town: Apia
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.us-fdk.l.dns.icann.org
+  Latitude: '38.8816208'
+  Longitude: '-77.0909809'
+  Sites: 1
+  State: Virginia
+  Town: Arlington County
+  Type: Global
+- Country: Paraguay
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.py-asu.l.dns.icann.org
+  Latitude: '-25.282197'
+  Longitude: '-57.6351'
+  Sites: 1
+  Town: Asuncion
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.us-atl.l.dns.icann.org
+  Latitude: '33.7489954'
+  Longitude: '-84.3879824'
+  Sites: 1
+  State: Georgia
+  Town: Atlanta
+  Type: Global
+- Country: Azerbaijan
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.az-bak.l.dns.icann.org
+  Latitude: '40.4092617'
+  Longitude: '49.8670924'
+  Sites: 1
+  Town: Baku
+  Type: Global
+- Country: Thailand
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.th-bkk.l.dns.icann.org
+  - aa02.th-bkk.l.dns.icann.org
+  Latitude: '13.7563309'
+  Longitude: '100.5017651'
+  Sites: 1
+  Town: Bangkok
+  Type: Global
+- Country: People's Republic of China
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa02.cn-bjd.l.dns.icann.org
+  - ab02.cn-bjd.l.dns.icann.org
+  - aa01.cn-bjd.l.dns.icann.org
+  - ab01.cn-bjd.l.dns.icann.org
+  Latitude: '39.907313'
+  Longitude: '116.403303'
+  Sites: 2
+  Town: Beijing
+  Type: Global
+- Country: Lebanon
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.lb-bfz.l.dns.icann.org
+  Latitude: '33.8886289'
+  Longitude: '35.4954794'
+  Sites: 1
+  Town: Beirut
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.br-bel.l.dns.icann.org
+  Latitude: '-1.4557549'
+  Longitude: '-48.4901799'
+  Sites: 1
+  State: Para
+  Town: Belem
+  Type: Global
+- Country: Serbia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.rs-beg.l.dns.icann.org
+  Latitude: '44.786568'
+  Longitude: '20.4489216'
+  Sites: 1
+  Town: Belgrade
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.br-bhz.l.dns.icann.org
+  Latitude: '-19.9166813'
+  Longitude: '-43.9344931'
+  Sites: 1
+  State: Minas Gerais
+  Town: Belo Horizonte
+  Type: Global
+- Country: Malawi
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.mw-blz.l.dns.icann.org
+  Latitude: '-15.7666707'
+  Longitude: '35.0167866'
+  Sites: 1
+  Town: Blantyre
+  Type: Global
+- Country: Colombia
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.co-bog.l.dns.icann.org
+  Latitude: '4.598056'
+  Longitude: '-74.075833'
+  Sites: 1
+  Town: Bogota
+  Type: Global
+- Country: Cote d'Ivoire
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.ci-byk.l.dns.icann.org
+  Latitude: '7.683333'
+  Longitude: '-5.016667'
+  Sites: 1
+  Town: Bouake
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.br-bcl.l.dns.icann.org
+  Latitude: '-15.7942287'
+  Longitude: '-47.8821658'
+  Sites: 1
+  State: Distrito Federal
+  Town: Brasilia
+  Type: Global
+- Country: Slovakia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.sk-bab.l.dns.icann.org
+  Latitude: '48.1485965'
+  Longitude: '17.1077477'
+  Sites: 1
+  Town: Bratislava
+  Type: Global
+- Country: Australia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.au-bne.l.dns.icann.org
+  Latitude: '-27.4710107'
+  Longitude: '153.0234489'
+  Sites: 1
+  State: Queensland
+  Town: Brisbane
+  Type: Global
+- Country: Belgium
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.be-anr.l.dns.icann.org
+  Latitude: '50.8503396'
+  Longitude: '4.3517103'
+  Sites: 1
+  Town: Brussels
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.br-cfc.l.dns.icann.org
+  Latitude: '-26.7761609'
+  Longitude: '-51.0124989'
+  Sites: 1
+  State: Santa Catarina
+  Town: Cacador
+  Type: Global
+- Country: Peru
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.pe-cll.l.dns.icann.org
+  - aa02.pe-cll.l.dns.icann.org
+  Latitude: '-12.0508491'
+  Longitude: '-77.1259843'
+  Sites: 1
+  Town: Callao
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.br-cpq.l.dns.icann.org
+  Latitude: '-22.9099384'
+  Longitude: '-47.0626332'
+  Sites: 1
+  State: Sao Paulo State
+  Town: Campinas
+  Type: Global
+- Country: South Africa
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.za-cpt.l.dns.icann.org
+  Latitude: '-33.9248685'
+  Longitude: '18.4240553'
+  Sites: 1
+  Town: Cape Town
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.br-phb.l.dns.icann.org
+  Latitude: '-3.9491202'
+  Longitude: '-40.4764866'
+  Sites: 1
+  State: Ceara
+  Town: Carire
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ab01.us-cgh.l.dns.icann.org
+  - aa01.us-cgh.l.dns.icann.org
+  Latitude: '41.8781136'
+  Longitude: '-87.6297982'
+  Sites: 2
+  State: Illinois
+  Town: Chicago
+  Type: Global
+- Country: New Zealand
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.nz-chc.l.dns.icann.org
+  Latitude: '-43.5320544'
+  Longitude: '172.6362254'
+  Sites: 1
+  Town: Christchurch
+  Type: Global
+- Country: Bolivia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.bo-cbb.l.dns.icann.org
+  Latitude: '-17.4139766'
+  Longitude: '-66.1653224'
+  Sites: 1
+  Town: Cochabamba
+  Type: Global
+- Country: Sri Lanka
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.lk-rml.l.dns.icann.org
+  - ab01.lk-rml.l.dns.icann.org
+  Latitude: '6.9270786'
+  Longitude: '79.861243'
+  Sites: 2
+  Town: Colombo
+  Type: Global
+- Country: Denmark
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.dk-cph.l.dns.icann.org
+  Latitude: '55.6760968'
+  Longitude: '12.5683371'
+  Sites: 1
+  Town: Copenhagen
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.br-crn.l.dns.icann.org
+  Latitude: '-25.4289541'
+  Longitude: '-49.267137'
+  Sites: 1
+  State: Parana
+  Town: Curitiba
+  Type: Global
+- Country: Senegal
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.sn-dkr.l.dns.icann.org
+  Latitude: '14.7645042'
+  Longitude: '-17.3660286'
+  Sites: 1
+  Town: Dakar
+  Type: Global
+- Country: Saudi Arabia
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.sa-dmm.l.dns.icann.org
+  Latitude: '26.3926665'
+  Longitude: '49.9777136'
+  Sites: 1
+  Town: Dammam
+  Type: Global
+- Country: Tanzania
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.tz-dar.l.dns.icann.org
+  Latitude: '-6.8'
+  Longitude: '39.283333'
+  Sites: 1
+  Town: Dar es Salaam
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.us-den.l.dns.icann.org
+  Latitude: '39.7392358'
+  Longitude: '-104.990251'
+  Sites: 1
+  State: Colorado
+  Town: Denver
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa02.us-dsm.l.dns.icann.org
+  - aa01.us-dsm.l.dns.icann.org
+  Latitude: '41.6005448'
+  Longitude: '-93.6091064'
+  Sites: 1
+  State: Iowa
+  Town: Des Moines
+  Type: Global
+- Country: Germany
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.de-dtm.l.dns.icann.org
+  Latitude: '51.5135872'
+  Longitude: '7.4652981'
+  Sites: 1
+  State: North Rhine-Westphalia
+  Town: Dortmund
+  Type: Global
+- Country: United Arab Emirates
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ae-dwc.l.dns.icann.org
+  - aa02.ae-dwc.l.dns.icann.org
+  Latitude: '25.2048493'
+  Longitude: '55.2707828'
+  Sites: 1
+  Town: Dubai
+  Type: Global
+- Country: United Kingdom
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.gb-dun.l.dns.icann.org
+  Latitude: '56.462018'
+  Longitude: '-2.970721'
+  Sites: 1
+  State: Scotland
+  Town: Dundee
+  Type: Global
+- Country: Germany
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.de-dus.l.dns.icann.org
+  Latitude: '51.2277411'
+  Longitude: '6.7734556'
+  Sites: 1
+  State: North Rhine-Westphalia
+  Town: Dusseldorf
+  Type: Global
+- Country: Spain
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.es-epb.l.dns.icann.org
+  Latitude: '41.3245953'
+  Longitude: '2.0934902'
+  Sites: 1
+  Town: El Prat de Llobregat
+  Type: Global
+- Country: Argentina
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ar-eza.l.dns.icann.org
+  Latitude: '-34.8537327'
+  Longitude: '-58.5228619'
+  Sites: 1
+  Town: Ezeiza
+  Type: Global
+- Country: Italy
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.it-blq.l.dns.icann.org
+  Latitude: '43.7695604'
+  Longitude: '11.2558136'
+  Sites: 1
+  Town: Florence
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.br-fln.l.dns.icann.org
+  Latitude: '-27.5953778'
+  Longitude: '-48.5480499'
+  Sites: 1
+  State: Santa Catarina
+  Town: Florianopolis
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.br-fms.l.dns.icann.org
+  Latitude: '-3.7318616'
+  Longitude: '-38.5266704'
+  Sites: 1
+  State: Ceara
+  Town: Fortaleza
+  Type: Global
+- Country: Switzerland
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ch-mot.l.dns.icann.org
+  Latitude: '46.1983922'
+  Longitude: '6.1422961'
+  Sites: 1
+  Town: Geneva
+  Type: Global
+- Country: Netherlands
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.nl-hmm.l.dns.icann.org
+  Latitude: '52.2904909'
+  Longitude: '4.6695376'
+  Sites: 1
+  Town: Haarlemmermeer
+  Type: Global
+- Country: Guam
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.gu-hgt.l.dns.icann.org
+  Latitude: '13.4708908'
+  Longitude: '144.7512782'
+  Sites: 1
+  Town: Hagatna
+  Type: Global
+- Country: Germany
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.de-ham.l.dns.icann.org
+  Latitude: '53.5510846'
+  Longitude: '9.9936818'
+  Sites: 1
+  Town: Hamburg
+  Type: Global
+- Country: Finland
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.fi-vat.l.dns.icann.org
+  Latitude: '60.3210416'
+  Longitude: '24.9528604'
+  Sites: 1
+  Town: Helsinki-Vantaa
+  Type: Global
+- Country: Greece
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.gr-hkl.l.dns.icann.org
+  Latitude: '35.3387352'
+  Longitude: '25.1442126'
+  Sites: 1
+  State: Crete
+  Town: Heraklion
+  Type: Global
+- Country: Solomon Islands
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.sb-hir.l.dns.icann.org
+  Latitude: '-9.435092'
+  Longitude: '159.951239'
+  Sites: 1
+  State: Guadalcanal Island
+  Town: Honiara
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa02.us-hnl.l.dns.icann.org
+  - aa01.us-hnl.l.dns.icann.org
+  Latitude: '21.3069444'
+  Longitude: '-157.8583333'
+  Sites: 1
+  State: Hawaii
+  Town: Honolulu
+  Type: Global
+- Country: South Korea
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.kr-icn.l.dns.icann.org
+  Latitude: '37.4562557'
+  Longitude: '126.7052062'
+  Sites: 1
+  Town: Incheon
+  Type: Global
+- Country: Pakistan
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.pk-skt.l.dns.icann.org
+  - ac01.pk-skt.l.dns.icann.org
+  - ab01.pk-skt.l.dns.icann.org
+  Latitude: '33.7293882'
+  Longitude: '73.0931461'
+  Sites: 3
+  Town: Islamabad-Rawalpindi
+  Type: Global
+- Country: Indonesia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.id-jkt.l.dns.icann.org
+  Latitude: '-6.2087634'
+  Longitude: '106.845599'
+  Sites: 1
+  State: Java
+  Town: Jakarta
+  Type: Global
+- Country: Saudi Arabia
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.sa-jed.l.dns.icann.org
+  Latitude: '21.543333'
+  Longitude: '39.172778'
+  Sites: 1
+  Town: Jeddah
+  Type: Global
+- Country: South Africa
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.za-jnb.l.dns.icann.org
+  Latitude: '-26.2041028'
+  Longitude: '28.0473051'
+  Sites: 1
+  State: Gauteng
+  Town: Johannesburg
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.us-hlm.l.dns.icann.org
+  Latitude: '42.3211522'
+  Longitude: '-85.1797142'
+  Sites: 1
+  State: Michigan
+  Town: Kalamazoo-Battle Creek
+  Type: Global
+- Country: Ukraine
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ua-kiv.l.dns.icann.org
+  Latitude: '49.9935'
+  Longitude: '36.230383'
+  Sites: 1
+  Town: Kharkiv
+  Type: Global
+- Country: Ukraine
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ua-iev.l.dns.icann.org
+  Latitude: '50.4501'
+  Longitude: '30.5234'
+  Sites: 1
+  Town: Kiev
+  Type: Global
+- Country: Federated States of Micronesia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.fm-ksa.l.dns.icann.org
+  Latitude: '6.9599409'
+  Longitude: '158.2117046'
+  Sites: 1
+  Town: Kolonia
+  Type: Global
+- Country: Kuwait
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa02.kw-cbg.l.dns.icann.org
+  - aa01.kw-cbg.l.dns.icann.org
+  Latitude: '29.375859'
+  Longitude: '47.9774052'
+  Sites: 1
+  Town: Kuwait City
+  Type: Global
+- Country: Pakistan
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - ab01.pk-lhe.l.dns.icann.org
+  Latitude: '31.5546061'
+  Longitude: '74.3571581'
+  Sites: 1
+  Town: Lahore
+  Type: Global
+- Country: Italy
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.it-ltn.l.dns.icann.org
+  Latitude: '41.4675671'
+  Longitude: '12.9035965'
+  Sites: 1
+  Town: Latina
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.us-lwc.l.dns.icann.org
+  Latitude: '38.9716689'
+  Longitude: '-95.2352501'
+  Sites: 1
+  State: Kansas
+  Town: Lawrence
+  Type: Global
+- Country: United Kingdom
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.gb-brf.l.dns.icann.org
+  Latitude: '53.7887315'
+  Longitude: '-1.7875219'
+  Sites: 1
+  State: West Yorkshire
+  Town: Leeds-Bradford
+  Type: Global
+- Country: United Kingdom
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.gb-lcl.l.dns.icann.org
+  Latitude: '51.5073509'
+  Longitude: '-0.1277583'
+  Sites: 1
+  State: Greater London
+  Town: London
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.br-ldb.l.dns.icann.org
+  Latitude: '-23.3044524'
+  Longitude: '-51.1695824'
+  Sites: 1
+  State: Parana
+  Town: Londrina
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.us-lax.l.dns.icann.org
+  - aa08.us-lax.l.dns.icann.org
+  - aa05.us-lax.l.dns.icann.org
+  - aa01.xz-stp.l.dns.icann.org
+  - aa06.us-lax.l.dns.icann.org
+  - aa02.us-lax.l.dns.icann.org
+  - aa03.us-lax.l.dns.icann.org
+  - aa04.us-lax.l.dns.icann.org
+  - ab01.us-lax.l.dns.icann.org
+  - aa07.us-lax.l.dns.icann.org
+  Latitude: '34.0522342'
+  Longitude: '-118.2436849'
+  Sites: 3
+  State: California
+  Town: Los Angeles
+  Type: Global
+- Country: France
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.fr-lio.l.dns.icann.org
+  Latitude: '45.764043'
+  Longitude: '4.835659'
+  Sites: 1
+  Town: Lyon
+  Type: Global
+- Country: Spain
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.es-mad.l.dns.icann.org
+  Latitude: '40.4167754'
+  Longitude: '-3.7037902'
+  Sites: 1
+  Town: Madrid
+  Type: Global
+- Country: Seychelles
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.sc-maw.l.dns.icann.org
+  Latitude: '-4.6826693'
+  Longitude: '55.480396'
+  Sites: 1
+  Town: Mahe
+  Type: Global
+- Country: Marshall Islands
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa02.mh-maj.l.dns.icann.org
+  - aa01.mh-maj.l.dns.icann.org
+  Latitude: '7.1164214'
+  Longitude: '171.1857736'
+  Sites: 1
+  Town: Majuro
+  Type: Global
+- Country: Sweden
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.se-mma.l.dns.icann.org
+  Latitude: '55.604981'
+  Longitude: '13.003822'
+  Sites: 1
+  Town: Malmo
+  Type: Global
+- Country: Myanmar
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.mm-mdl.l.dns.icann.org
+  Latitude: '21.9588282'
+  Longitude: '96.0891032'
+  Sites: 1
+  Town: Mandalay
+  Type: Global
+- Country: New Zealand
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.nz-mae.l.dns.icann.org
+  - ab01.nz-mae.l.dns.icann.org
+  Latitude: '-36.9686277'
+  Longitude: '174.7936872'
+  Sites: 2
+  Town: Mangere
+  Type: Global
+- Country: France
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.fr-mbv.l.dns.icann.org
+  Latitude: '43.296482'
+  Longitude: '5.36978'
+  Sites: 1
+  Town: Marseille
+  Type: Global
+- Country: Australia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.au-mas.l.dns.icann.org
+  - ab01.au-mas.l.dns.icann.org
+  Latitude: '-33.9297331'
+  Longitude: '151.1951145'
+  Sites: 2
+  Town: Mascot
+  Type: Global
+- Country: Lesotho
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.ls-msu.l.dns.icann.org
+  Latitude: '-29.3150767'
+  Longitude: '27.4869229'
+  Sites: 1
+  Town: Maseru
+  Type: Global
+- Country: Australia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ac01.au-kah.l.dns.icann.org
+  - ab01.au-kah.l.dns.icann.org
+  - aa01.au-kah.l.dns.icann.org
+  Latitude: '-37.814107'
+  Longitude: '144.96328'
+  Sites: 3
+  State: Victoria
+  Town: Melbourne
+  Type: Global
+- Country: Philippines
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.ph-ncp.l.dns.icann.org
+  Latitude: '14.6090537'
+  Longitude: '121.0222565'
+  Sites: 1
+  Town: Metro Manila
+  Type: Global
+- Country: Belarus
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.by-gme.l.dns.icann.org
+  Latitude: '53.9045398'
+  Longitude: '27.5615244'
+  Sites: 1
+  Town: Minsk
+  Type: Global
+- Country: Canada
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ca-mis.l.dns.icann.org
+  Latitude: '43.5890452'
+  Longitude: '-79.6441198'
+  Sites: 1
+  State: Ontario
+  Town: Mississauga
+  Type: Global
+- Country: Mexico
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ab01.mx-mty.l.dns.icann.org
+  - aa01.mx-mty.l.dns.icann.org
+  Latitude: '25.6866142'
+  Longitude: '-100.3161126'
+  Sites: 2
+  State: Nuevo Leon
+  Town: Monterrey
+  Type: Global
+- Country: Uruguay
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.uy-mvd.l.dns.icann.org
+  Latitude: '-34.9011127'
+  Longitude: '-56.1645314'
+  Sites: 1
+  Town: Montevideo
+  Type: Global
+- Country: Russian Federation
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ab01.ru-mow.l.dns.icann.org
+  - ac01.ru-mow.l.dns.icann.org
+  - aa01.ru-mow.l.dns.icann.org
+  Latitude: '55.755826'
+  Longitude: '37.6173'
+  Sites: 3
+  Town: Moscow
+  Type: Global
+- Country: India
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.in-bom.l.dns.icann.org
+  Latitude: '19.0759837'
+  Longitude: '72.8776559'
+  Sites: 1
+  Town: Mumbai
+  Type: Global
+- Country: Oman
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa02.om-msh.l.dns.icann.org
+  - aa01.om-msh.l.dns.icann.org
+  - ab01.om-msh.l.dns.icann.org
+  Latitude: '23.61'
+  Longitude: '58.54'
+  Sites: 2
+  Town: Muscat
+  Type: Global
+- Country: Fiji
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.fj-nan.l.dns.icann.org
+  - ab01.fj-nan.l.dns.icann.org
+  Latitude: '-17.7765356'
+  Longitude: '177.4356227'
+  Sites: 2
+  Town: Nadi
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.br-nat.l.dns.icann.org
+  Latitude: '-5.7792569'
+  Longitude: '-35.200916'
+  Sites: 1
+  Town: Natal
+  Type: Global
+- Country: TW
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa02.tw-ntc.l.dns.icann.org
+  - aa01.tw-ntc.l.dns.icann.org
+  Latitude: '25.0169826'
+  Longitude: '121.4627868'
+  Sites: 1
+  Town: New Taipei
+  Type: Global
+- Country: New Caledonia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.nc-nou.l.dns.icann.org
+  - aa02.nc-nou.l.dns.icann.org
+  Latitude: '-22.2758'
+  Longitude: '166.458'
+  Sites: 1
+  Town: Noumea
+  Type: Global
+- Country: Ukraine
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ua-ods.l.dns.icann.org
+  Latitude: '46.482526'
+  Longitude: '30.7233095'
+  Sites: 1
+  Town: Odessa
+  Type: Global
+- Country: Romania
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ro-oti.l.dns.icann.org
+  Latitude: '44.5671874'
+  Longitude: '26.0835113'
+  Sites: 1
+  Town: Otopeni
+  Type: Global
+- Country: Burkina Faso
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.bf-oua.l.dns.icann.org
+  Latitude: '12.3714277'
+  Longitude: '-1.5196603'
+  Sites: 1
+  Town: Ouagadougou
+  Type: Global
+- Country: French Polynesia
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.pf-ppt.l.dns.icann.org
+  - aa02.pf-ppt.l.dns.icann.org
+  Latitude: '-17.535'
+  Longitude: '-149.5696'
+  Sites: 1
+  State: Tahiti
+  Town: Papeete
+  Type: Global
+- Country: France
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.fr-par.l.dns.icann.org
+  Latitude: '48.856614'
+  Longitude: '2.3522219'
+  Sites: 1
+  Town: Paris
+  Type: Global
+- Country: France
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.fr-bfc.l.dns.icann.org
+  Latitude: '48.7262433'
+  Longitude: '2.3652472'
+  Sites: 1
+  State: Paris
+  Town: Paris-Orly
+  Type: Global
+- Country: Australia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.au-per.l.dns.icann.org
+  Latitude: '-31.9535132'
+  Longitude: '115.8570471'
+  Sites: 1
+  State: Western Australia
+  Town: Perth
+  Type: Global
+- Country: Mauritius
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.mu-mru.l.dns.icann.org
+  Latitude: '-20.2427576'
+  Longitude: '57.455655'
+  Sites: 1
+  Town: Plaisance
+  Type: Global
+- Country: Papua New Guinea
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.pg-pom.l.dns.icann.org
+  Latitude: '-9.4438004'
+  Longitude: '147.1802671'
+  Sites: 1
+  Town: Port Moresby
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.us-pdx.l.dns.icann.org
+  Latitude: '45.5230622'
+  Longitude: '-122.6764816'
+  Sites: 1
+  State: Oregon
+  Town: Portland
+  Type: Global
+- Country: Portugal
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa02.pt-cdo.l.dns.icann.org
+  - aa01.pt-cdo.l.dns.icann.org
+  Latitude: '41.1579438'
+  Longitude: '-8.6291053'
+  Sites: 1
+  Town: Porto
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.br-poa.l.dns.icann.org
+  Latitude: '-30.0346471'
+  Longitude: '-51.2176584'
+  Sites: 1
+  State: Rio Grande do Sul
+  Town: Porto Alegre
+  Type: Global
+- Country: Czech Republic
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa15.cz-xuy.l.dns.icann.org
+  - aa20.cz-xuy.l.dns.icann.org
+  - aa13.cz-xuy.l.dns.icann.org
+  - aa05.cz-xuy.l.dns.icann.org
+  - aa18.cz-xuy.l.dns.icann.org
+  - aa06.cz-xuy.l.dns.icann.org
+  - aa10.cz-xuy.l.dns.icann.org
+  - aa29.cz-xuy.l.dns.icann.org
+  - aa21.cz-xuy.l.dns.icann.org
+  - aa24.cz-xuy.l.dns.icann.org
+  - aa09.cz-xuy.l.dns.icann.org
+  - aa28.cz-xuy.l.dns.icann.org
+  - aa04.cz-xuy.l.dns.icann.org
+  - aa16.cz-xuy.l.dns.icann.org
+  - aa19.cz-xuy.l.dns.icann.org
+  - aa30.cz-xuy.l.dns.icann.org
+  - aa17.cz-xuy.l.dns.icann.org
+  - aa25.cz-xuy.l.dns.icann.org
+  - aa14.cz-xuy.l.dns.icann.org
+  - aa26.cz-xuy.l.dns.icann.org
+  - aa03.cz-xuy.l.dns.icann.org
+  - aa22.cz-xuy.l.dns.icann.org
+  - aa11.cz-xuy.l.dns.icann.org
+  - aa02.cz-xuy.l.dns.icann.org
+  - aa01.cz-xuy.l.dns.icann.org
+  - aa07.cz-xuy.l.dns.icann.org
+  - aa27.cz-xuy.l.dns.icann.org
+  - aa12.cz-xuy.l.dns.icann.org
+  - aa08.cz-xuy.l.dns.icann.org
+  - aa23.cz-xuy.l.dns.icann.org
+  Latitude: '50.0755381'
+  Longitude: '14.4378005'
+  Sites: 1
+  Town: Prague
+  Type: Global
+- Country: Dominican Republic
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.do-jqb.l.dns.icann.org
+  Latitude: '18.4027778'
+  Longitude: '-69.6305556'
+  Sites: 1
+  Town: Punta Caucedo
+  Type: Global
+- Country: Ecuador
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ec-uio.l.dns.icann.org
+  Latitude: '-0.1806532'
+  Longitude: '-78.4678382'
+  Sites: 1
+  Town: Quito
+  Type: Global
+- Country: Morocco
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ma-rba.l.dns.icann.org
+  Latitude: '33.9715904'
+  Longitude: '-6.8498129'
+  Sites: 1
+  Town: Rabat
+  Type: Global
+- Country: Palestine
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ps-rmh.l.dns.icann.org
+  - ab01.ps-rmh.l.dns.icann.org
+  Latitude: '31.9037641'
+  Longitude: '35.2034184'
+  Sites: 2
+  Town: Ramallah
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.us-rno.l.dns.icann.org
+  Latitude: '39.5296329'
+  Longitude: '-119.8138027'
+  Sites: 1
+  State: Nevada
+  Town: Reno
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa02.us-rtv.l.dns.icann.org
+  - aa07.us-rtv.l.dns.icann.org
+  - aa01.us-rtv.l.dns.icann.org
+  - aa02.xz-stp.l.dns.icann.org
+  - aa04.us-rtv.l.dns.icann.org
+  - aa08.us-rtv.l.dns.icann.org
+  - aa06.us-rtv.l.dns.icann.org
+  - aa03.us-rtv.l.dns.icann.org
+  - aa05.us-rtv.l.dns.icann.org
+  Latitude: '38.9586307'
+  Longitude: '-77.3570028'
+  Sites: 2
+  State: Virginia
+  Town: Reston
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ab01.br-gig.l.dns.icann.org
+  - aa01.br-gig.l.dns.icann.org
+  Latitude: '-22.9068467'
+  Longitude: '-43.1728965'
+  Sites: 2
+  Town: Rio de Janeiro
+  Type: Global
+- Country: Saudi Arabia
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.sa-riy.l.dns.icann.org
+  Latitude: '24.633333'
+  Longitude: '46.716667'
+  Sites: 1
+  Town: Riyadh
+  Type: Global
+- Country: United Kingdom
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.gb-rcs.l.dns.icann.org
+  Latitude: '51.388'
+  Longitude: '0.506721'
+  Sites: 1
+  State: Kent
+  Town: Rochester
+  Type: Global
+- Country: Russian Federation
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ru-noi.l.dns.icann.org
+  Latitude: '47.2357137'
+  Longitude: '39.701505'
+  Sites: 1
+  Town: Rostov-on-Don
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ab01.br-ssa.l.dns.icann.org
+  - aa01.br-ssa.l.dns.icann.org
+  Latitude: '-12.9730401'
+  Longitude: '-38.502304'
+  Sites: 2
+  State: Bahia
+  Town: Salvador
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.us-sjc.l.dns.icann.org
+  Latitude: '37.3382082'
+  Longitude: '-121.8863286'
+  Sites: 1
+  State: California
+  Town: San Jose
+  Type: Global
+- Country: Costa Rica
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.cr-sjo.l.dns.icann.org
+  Latitude: '9.9280694'
+  Longitude: '-84.0907246'
+  Sites: 1
+  Town: San Jose
+  Type: Global
+- Country: Argentina
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ar-smc.l.dns.icann.org
+  Latitude: '-26.8082848'
+  Longitude: '-65.2175903'
+  Sites: 1
+  State: Tucuman
+  Town: San Miguel de Tucuman
+  Type: Global
+- Country: El Salvador
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.sv-sal.l.dns.icann.org
+  Latitude: '13.6929403'
+  Longitude: '-89.2181911'
+  Sites: 1
+  Town: San Salvador
+  Type: Global
+- Country: Yemen
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ye-sah.l.dns.icann.org
+  Latitude: '15.3694451'
+  Longitude: '44.1910066'
+  Sites: 1
+  Town: Sana'a
+  Type: Global
+- Country: Chile
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa02.cl-scl.l.dns.icann.org
+  - ab01.cl-scl.l.dns.icann.org
+  - aa01.cl-scl.l.dns.icann.org
+  - ab02.cl-scl.l.dns.icann.org
+  Latitude: '-33.4691199'
+  Longitude: '-70.641997'
+  Sites: 2
+  Town: Santiago
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.br-sjk.l.dns.icann.org
+  Latitude: '-23.223701'
+  Longitude: '-45.9009074'
+  Sites: 1
+  Town: Sao Jose dos Campos
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.br-sao.l.dns.icann.org
+  Latitude: '-23.5505199'
+  Longitude: '-46.6333094'
+  Sites: 1
+  Town: Sao Paulo
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.us-sez.l.dns.icann.org
+  Latitude: '47.4435903'
+  Longitude: '-122.2960726'
+  Sites: 1
+  State: Washington
+  Town: SeaTac
+  Type: Global
+- Country: Kazakhstan
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.kz-plx.l.dns.icann.org
+  Latitude: '50.4233463'
+  Longitude: '80.250811'
+  Sites: 1
+  Town: Semey
+  Type: Global
+- Country: People's Republic of China
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.cn-pvg.l.dns.icann.org
+  Latitude: '31.230416'
+  Longitude: '121.473701'
+  Sites: 1
+  Town: Shanghai
+  Type: Global
+- Country: Bulgaria
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.bg-goz.l.dns.icann.org
+  Latitude: '42.6977082'
+  Longitude: '23.3218675'
+  Sites: 1
+  Town: Sofia
+  Type: Global
+- Country: Reunion
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.re-zse.l.dns.icann.org
+  Latitude: '-20.882057'
+  Longitude: '55.450675'
+  Sites: 1
+  Town: St Denis
+  Type: Global
+- Country: Sweden
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.se-sto.l.dns.icann.org
+  Latitude: '59.3293235'
+  Longitude: '18.0685808'
+  Sites: 1
+  Town: Stockholm
+  Type: Global
+- Country: Fiji
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - aa01.fj-bfj.l.dns.icann.org
+  Latitude: '-18.0424871'
+  Longitude: '178.5531292'
+  Sites: 1
+  State: Viti Levu
+  Town: Suva-Nausori
+  Type: Global
+- Country: Japan
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.jp-tkx.l.dns.icann.org
+  Latitude: '35.7090259'
+  Longitude: '139.7319925'
+  Sites: 1
+  State: Honshu
+  Town: Tokyo
+  Type: Global
+- Country: Canada
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ca-tor.l.dns.icann.org
+  Latitude: '43.653226'
+  Longitude: '-79.3831843'
+  Sites: 1
+  State: Ontario
+  Town: Toronto
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.br-udi.l.dns.icann.org
+  Latitude: '-18.9146078'
+  Longitude: '-48.2753801'
+  Sites: 1
+  State: Minas Gerais
+  Town: Uberlandia
+  Type: Global
+- Country: Canada
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ca-cxh.l.dns.icann.org
+  Latitude: '49.2827291'
+  Longitude: '-123.1207375'
+  Sites: 1
+  State: British Columbia
+  Town: Vancouver
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.us-ilg.l.dns.icann.org
+  Latitude: '34.2257255'
+  Longitude: '-77.9447102'
+  Sites: 1
+  State: Delaware
+  Town: Wilmington
+  Type: Global
+- Country: Canada
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ca-wnp.l.dns.icann.org
+  Latitude: '49.8997541'
+  Longitude: '-97.1374937'
+  Sites: 1
+  State: Manitoba
+  Town: Winnipeg
+  Type: Global
+- Country: Myanmar
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.mm-rgn.l.dns.icann.org
+  Latitude: '16.8660694'
+  Longitude: '96.195132'
+  Sites: 1
+  Town: Yangon
+  Type: Global
+- Country: Russian Federation
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.ru-yek.l.dns.icann.org
+  Latitude: '56.8389261'
+  Longitude: '60.6057025'
+  Sites: 1
+  Town: Yekaterinburg
+  Type: Global
+- Country: Armenia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.am-evn.l.dns.icann.org
+  Latitude: '40.183333'
+  Longitude: '44.516667'
+  Sites: 1
+  Town: Yerevan
+  Type: Global
+- Country: Indonesia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.id-jog.l.dns.icann.org
+  Latitude: '-7.7955798'
+  Longitude: '110.3694896'
+  Sites: 1
+  Town: Yogyakarta
+  Type: Global
+- Country: People's Republic of China
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - aa01.cn-cgo.l.dns.icann.org
+  - aa02.cn-cgo.l.dns.icann.org
+  Latitude: '34.746611'
+  Longitude: '113.625328'
+  Sites: 1
+  Town: Zhengzhou
+  Type: Global
+Operator: ICANN
+Peering Policy: http://as20144.peeringdb.com
+RSSAC: http://stats.dns.icann.org/rssac/
+Statistics: http://www.dns.icann.org/imrs/stats

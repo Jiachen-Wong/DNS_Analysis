@@ -1,0 +1,95 @@
+ASN: 1508
+Contact Email: hroot@arl.army.mil
+Homepage: https://h.root-servers.org/
+IPv4: 198.97.190.53
+IPv6: 2001:500:1::53
+Identifier Naming Convention: <NODE>.<IATA Code>.h.root-servers.org
+Operator: U.S. Army Research Lab
+Peering Policy: ''
+RSSAC: https://h.root-servers.org/rssac.html
+Sites:
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - 001.apg.h.root-servers.org
+  - 002.apg.h.root-servers.org
+  - 003.apg.h.root-servers.org
+  Instances: 1
+  Latitude: 39.476245
+  Longitude: -76.119154
+  Town: Aberdeen Proving Ground
+  Type: Global
+- Country: AE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - 001.dxb.h.root-servers.org
+  Instances: 1
+  Latitude: 25.02369
+  Longitude: 55.18639
+  Town: Dubai
+  Type: Global
+- Country: DE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - 001.fra.h.root-servers.org
+  Instances: 1
+  Latitude: 50.11944
+  Longitude: 8.735556
+  Town: Frankfurt
+  Type: Global
+- Country: HK
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - 001.hkg.h.root-servers.org
+  Instances: 1
+  Latitude: 22.36222
+  Longitude: 114.1189
+  Town: Hong Kong
+  Type: Global
+- Country: ZA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - 001.jnb.h.root-servers.org
+  Instances: 1
+  Latitude: -26.13778
+  Longitude: 28.1975
+  Town: Johannesburg
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - 001.nzy.h.root-servers.org
+  - 002.nzy.h.root-servers.org
+  - 003.nzy.h.root-servers.org
+  Instances: 1
+  Latitude: 32.706253
+  Longitude: -117.237842
+  Town: San Diego
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - 001.gru.h.root-servers.org
+  Instances: 1
+  Latitude: -23.46611
+  Longitude: -46.86306
+  Town: Sao Paulo
+  Type: Global
+- Country: AU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - 001.syd.h.root-servers.org
+  Instances: 1
+  Latitude: -33.91167
+  Longitude: 151.1928
+  Town: Sydney
+  Type: Global
+Statistics: https://h.root-servers.org/

@@ -1,0 +1,2535 @@
+ASN: 20144
+BGP Community Convention: ''
+BGP Extended Community Convention: ''
+BGP Large Community Convention: ''
+Contact Email: noc@dns.icann.org
+Homepage: https://dns.icann.org/imrs/
+IPv4: 199.7.83.42
+IPv6: 2001:500:9f::42
+Identifier Naming Convention: https://tools.ietf.org/html/rfc7108
+Operator: ICANN
+Peering Policy: https://as20144.peeringdb.com
+RSSAC001: https://www.dns.icann.org/rssac/rssac001-response/
+RSSAC002: https://stats.dns.icann.org/rssac/
+Sites:
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CI
+  Created: '2024-03-08T13:36:57Z'
+  ID: ci-abj
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - ci-abj-aa
+  - ci-abj-ab
+  Instances: 2
+  Latitude: 5.320357
+  Longitude: -4.016107
+  Status: operational
+  Town: Abidjan
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AU
+  Created: '2024-03-08T13:36:57Z'
+  ID: au-alx
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - au-alx-aa
+  Instances: 1
+  Latitude: -33.9091568
+  Longitude: 151.1921281
+  Status: operational
+  Town: Alexandria
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: JO
+  Created: '2024-03-08T13:36:57Z'
+  ID: jo-amm
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - jo-amm-aa
+  Instances: 1
+  Latitude: 31.9515694
+  Longitude: 35.9239625
+  Status: operational
+  Town: Amman
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-08T13:36:58Z'
+  ID: us-anc
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - us-anc-aa
+  Instances: 1
+  Latitude: 61.2163129
+  Longitude: -149.894852
+  Status: operational
+  Town: Anchorage
+  Type: Global
+  Updated: '2024-06-18T12:23:17Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IT
+  Created: '2024-03-08T13:36:58Z'
+  ID: it-aoi
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - it-aoi-aa
+  Instances: 1
+  Latitude: 43.480120400000004
+  Longitude: 13.218790609151764
+  Status: operational
+  Town: Ancona
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: WS
+  Created: '2024-04-18T19:20:42Z'
+  ID: ws-apw
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ws-apw-aa
+  Instances: 1
+  Latitude: -13.8344639
+  Longitude: -171.7649144
+  Status: operational
+  Town: Apia
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-08T13:36:57Z'
+  ID: us-fdk
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - us-fdk-aa
+  Instances: 1
+  Latitude: 38.8769326
+  Longitude: -77.0893094
+  Status: operational
+  Town: Arlington County
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PY
+  Created: '2024-04-18T19:20:42Z'
+  ID: py-asu
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - py-asu-aa
+  Instances: 1
+  Latitude: -25.2800459
+  Longitude: -57.6343814
+  Status: operational
+  Town: Asuncion
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-08T13:36:57Z'
+  ID: us-atl
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - us-atl-aa
+  Instances: 1
+  Latitude: 33.7489924
+  Longitude: -84.3902644
+  Status: operational
+  Town: Atlanta
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AZ
+  Created: '2024-03-08T13:36:58Z'
+  ID: az-bak
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - az-bak-aa
+  Instances: 1
+  Latitude: 40.3755885
+  Longitude: 49.8328009
+  Status: operational
+  Town: Baku
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IN
+  Created: '2024-04-18T19:20:42Z'
+  ID: in-blr
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - in-blr-aa
+  Instances: 1
+  Latitude: 12.9767936
+  Longitude: 77.590082
+  Status: operational
+  Town: Bangalore
+  Type: Global
+  Updated: '2024-06-18T12:23:17Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TH
+  Created: '2024-03-08T13:36:57Z'
+  ID: th-bkk
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - th-bkk-aa
+  - th-bkk-ab
+  Instances: 2
+  Latitude: 13.7524938
+  Longitude: 100.4935089
+  Status: operational
+  Town: Bangkok
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CN
+  Created: '2024-03-08T13:36:57Z'
+  ID: cn-bjd
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cn-bjd-aa
+  - cn-bjd-ab
+  - cn-bjd-ac
+  - cn-bjd-ad
+  Instances: 4
+  Latitude: 39.9057136
+  Longitude: 116.3912972
+  Status: operational
+  Town: Beijing
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: LB
+  Created: '2024-03-08T13:36:57Z'
+  ID: lb-bfz
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - lb-bfz-aa
+  Instances: 1
+  Latitude: 33.8959203
+  Longitude: 35.47843
+  Status: operational
+  Town: Beirut
+  Type: Global
+  Updated: '2024-07-05T04:18:14Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:58Z'
+  ID: br-bel
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - br-bel-aa
+  Instances: 1
+  Latitude: -1.45056
+  Longitude: -48.4682453
+  Status: operational
+  Town: Belem
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: RS
+  Created: '2024-03-08T13:36:57Z'
+  ID: rs-beg
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - rs-beg-aa
+  Instances: 1
+  Latitude: 44.8178131
+  Longitude: 20.4568974
+  Status: operational
+  Town: Belgrade
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:57Z'
+  ID: br-bhz
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - br-bhz-aa
+  Instances: 1
+  Latitude: -19.9227318
+  Longitude: -43.9450948
+  Status: operational
+  Town: Belo Horizonte
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MW
+  Created: '2024-03-08T13:36:57Z'
+  ID: mw-blz
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mw-blz-aa
+  Instances: 1
+  Latitude: -15.7862543
+  Longitude: 35.0035694
+  Status: operational
+  Town: Blantyre
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CO
+  Created: '2024-03-08T13:36:57Z'
+  ID: co-bog
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - co-bog-aa
+  Instances: 1
+  Latitude: 4.6533816
+  Longitude: -74.0836333
+  Status: operational
+  Town: Bogota
+  Type: Global
+  Updated: '2024-05-06T11:42:02Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:58Z'
+  ID: br-bcl
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - br-bcl-aa
+  Instances: 1
+  Latitude: -15.7934036
+  Longitude: -47.8823172
+  Status: operational
+  Town: Brasilia
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SK
+  Created: '2024-03-08T13:36:58Z'
+  ID: sk-bab
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sk-bab-aa
+  Instances: 1
+  Latitude: 48.1516988
+  Longitude: 17.1093063
+  Status: operational
+  Town: Bratislava
+  Type: Global
+  Updated: '2024-07-05T04:18:14Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CG
+  Created: '2024-04-18T19:20:41Z'
+  ID: cg-bzv
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cg-bzv-aa
+  Instances: 2
+  Latitude: -4.2694407
+  Longitude: 15.2712256
+  Status: operational
+  Town: Brazzaville
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AU
+  Created: '2024-03-08T13:36:58Z'
+  ID: au-bne
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - au-bne-aa
+  Instances: 1
+  Latitude: -27.4689682
+  Longitude: 153.0234991
+  Status: operational
+  Town: Brisbane
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BE
+  Created: '2024-03-08T13:36:58Z'
+  ID: be-bru
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - be-bru-aa
+  Instances: 1
+  Latitude: 50.8465573
+  Longitude: 4.351697
+  Status: operational
+  Town: Brussels
+  Type: Global
+  Updated: '2024-06-19T16:51:02Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:57Z'
+  ID: br-cfc
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - br-cfc-aa
+  Instances: 1
+  Latitude: -26.7737784
+  Longitude: -51.0134844
+  Status: operational
+  Town: Cacador
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: EG
+  Created: '2024-03-08T13:36:57Z'
+  ID: eg-cai
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - eg-cai-aa
+  Instances: 4
+  Latitude: 30.0443879
+  Longitude: 31.2357257
+  Status: operational
+  Town: Cairo
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PE
+  Created: '2024-03-08T13:36:57Z'
+  ID: pe-cll
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - pe-cll-aa
+  - pe-cll-ab
+  Instances: 2
+  Latitude: -12.0522626
+  Longitude: -77.1391133
+  Status: operational
+  Town: Callao
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:58Z'
+  ID: br-cpq
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - br-cpq-aa
+  Instances: 1
+  Latitude: -22.9056391
+  Longitude: -47.059564
+  Status: operational
+  Town: Campinas
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ZA
+  Created: '2024-03-08T13:36:58Z'
+  ID: za-cpt
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - za-cpt-aa
+  Instances: 1
+  Latitude: -33.928992
+  Longitude: 18.417396
+  Status: operational
+  Town: Cape Town
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-04-18T19:20:42Z'
+  ID: br-phb
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - br-phb-aa
+  Instances: 1
+  Latitude: -3.948584
+  Longitude: -40.476028
+  Status: operational
+  Town: Carire
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PR
+  Created: '2024-03-08T13:36:57Z'
+  ID: pr-car
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - pr-car-aa
+  Instances: 1
+  Latitude: 18.3808516
+  Longitude: -65.9570244
+  Status: operational
+  Town: Carolina
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CN
+  Created: '2024-04-18T19:20:41Z'
+  ID: cn-cna
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cn-cna-aa
+  Instances: 1
+  Latitude: 28.2491934
+  Longitude: 113.0748296
+  Status: operational
+  Town: Changsha City
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-08T13:36:57Z'
+  ID: us-cgh
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - us-cgh-aa
+  - us-cgh-ab
+  Instances: 2
+  Latitude: 41.8755616
+  Longitude: -87.6244212
+  Status: operational
+  Town: Chicago
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MD
+  Created: '2024-04-18T19:20:42Z'
+  ID: md-kiv
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - md-kiv-aa
+  Instances: 1
+  Latitude: 47.0245117
+  Longitude: 28.8322923
+  Status: operational
+  Town: Chisinau
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: NZ
+  Created: '2024-03-08T13:36:57Z'
+  ID: nz-chc
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - nz-chc-aa
+  Instances: 1
+  Latitude: -43.530955
+  Longitude: 172.6364343
+  Status: operational
+  Town: Christchurch
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BO
+  Created: '2024-03-08T13:36:57Z'
+  ID: bo-cbb
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bo-cbb-aa
+  Instances: 1
+  Latitude: -17.401245799999998
+  Longitude: -66.16756808852
+  Status: operational
+  Town: Cochabamba
+  Type: Global
+  Updated: '2024-06-18T12:23:17Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: LK
+  Created: '2024-03-08T13:36:58Z'
+  ID: lk-rml
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - lk-rml-aa
+  - lk-rml-ab
+  Instances: 2
+  Latitude: 6.9388614
+  Longitude: 79.8542005
+  Status: operational
+  Town: Colombo
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:57Z'
+  ID: br-crn
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - br-crn-aa
+  Instances: 1
+  Latitude: -25.4295963
+  Longitude: -49.2712724
+  Status: operational
+  Town: Curitiba
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SN
+  Created: '2024-04-18T19:20:42Z'
+  ID: sn-dkr
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - sn-dkr-aa
+  Instances: 1
+  Latitude: 14.693425
+  Longitude: -17.447938
+  Status: operational
+  Town: Dakar
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SA
+  Created: '2024-03-08T13:36:57Z'
+  ID: sa-dmm
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sa-dmm-aa
+  Instances: 1
+  Latitude: 26.4367824
+  Longitude: 50.1039991
+  Status: operational
+  Town: Dammam
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TZ
+  Created: '2024-03-08T13:36:57Z'
+  ID: tz-dar
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - tz-dar-aa
+  Instances: 2
+  Latitude: -6.8160837
+  Longitude: 39.2803583
+  Status: operational
+  Town: Dar es Salaam
+  Type: Global
+  Updated: '2024-05-02T16:20:38Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AE
+  Created: '2024-03-08T13:36:58Z'
+  ID: ae-dwc
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ae-dwc-aa
+  - ae-dwc-ab
+  Instances: 2
+  Latitude: 25.2653471
+  Longitude: 55.2924914
+  Status: operational
+  Town: Dubai
+  Type: Global
+  Updated: '2024-07-05T04:18:14Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GB
+  Created: '2024-03-08T13:36:58Z'
+  ID: gb-dun
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - gb-dun-aa
+  Instances: 1
+  Latitude: 56.4605938
+  Longitude: -2.97019
+  Status: operational
+  Town: Dundee
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ES
+  Created: '2024-03-08T13:36:58Z'
+  ID: es-epb
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - es-epb-aa
+  Instances: 1
+  Latitude: 41.3246333
+  Longitude: 2.0952568
+  Status: operational
+  Town: El Prat de Llobregat
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IQ
+  Created: '2024-03-08T13:36:57Z'
+  ID: iq-ebl
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - iq-ebl-aa
+  Instances: 2
+  Latitude: 36.1911744
+  Longitude: 44.0094145
+  Status: operational
+  Town: Erbil
+  Type: Global
+  Updated: '2024-07-04T08:47:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AR
+  Created: '2024-03-08T13:36:58Z'
+  ID: ar-eza
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ar-eza-aa
+  Instances: 1
+  Latitude: -34.81681415
+  Longitude: -58.54742335052262
+  Status: operational
+  Town: Ezeiza
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IT
+  Created: '2024-03-08T13:36:57Z'
+  ID: it-blq
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - it-blq-aa
+  Instances: 1
+  Latitude: 43.7697955
+  Longitude: 11.2556404
+  Status: operational
+  Town: Florence
+  Type: Global
+  Updated: '2024-05-02T16:20:38Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:58Z'
+  ID: br-fln
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - br-fln-aa
+  Instances: 1
+  Latitude: -27.5973002
+  Longitude: -48.5496098
+  Status: operational
+  Town: Florianopolis
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:57Z'
+  ID: br-fms
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - br-fms-aa
+  Instances: 1
+  Latitude: -3.7304512
+  Longitude: -38.5217989
+  Status: operational
+  Town: Fortaleza
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CH
+  Created: '2024-03-08T13:36:58Z'
+  ID: ch-mot
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ch-mot-aa
+  Instances: 1
+  Latitude: 46.2017559
+  Longitude: 6.1466014
+  Status: operational
+  Town: Geneva
+  Type: Global
+  Updated: '2024-05-06T11:42:02Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IN
+  Created: '2024-04-18T19:20:41Z'
+  ID: in-gaw
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - in-gaw-aa
+  Instances: 1
+  Latitude: 26.1805978
+  Longitude: 91.753943
+  Status: operational
+  Town: Guwahati
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GU
+  Created: '2024-03-08T13:36:57Z'
+  ID: gu-hgt
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - gu-hgt-aa
+  Instances: 1
+  Latitude: 13.4748148
+  Longitude: 144.7516191
+  Status: operational
+  Town: Hagatna
+  Type: Global
+  Updated: '2024-06-19T16:51:02Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CN
+  Created: '2024-03-08T13:36:57Z'
+  ID: cn-hko
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cn-hko-aa
+  Instances: 1
+  Latitude: 20.0462328
+  Longitude: 110.1956502
+  Status: operational
+  Town: Haikou
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: DE
+  Created: '2024-03-08T13:36:57Z'
+  ID: de-ham
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - de-ham-aa
+  Instances: 1
+  Latitude: 53.550341
+  Longitude: 10.000654
+  Status: operational
+  Town: Hamburg
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ZW
+  Created: '2024-04-18T19:20:42Z'
+  ID: zw-hre
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - zw-hre-aa
+  Instances: 1
+  Latitude: -17.831773
+  Longitude: 31.045686
+  Status: operational
+  Town: Harare
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: FI
+  Created: '2024-03-08T13:36:57Z'
+  ID: fi-vat
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - fi-vat-aa
+  Instances: 1
+  Latitude: 60.32181555
+  Longitude: 24.94736111181276
+  Status: operational
+  Town: Helsinki-Vantaa
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GR
+  Created: '2024-03-08T13:36:58Z'
+  ID: gr-hkl
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - gr-hkl-aa
+  Instances: 1
+  Latitude: 35.33908
+  Longitude: 25.1332843
+  Status: operational
+  Town: Heraklion
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SB
+  Created: '2024-03-08T13:36:57Z'
+  ID: sb-hir
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - sb-hir-aa
+  Instances: 1
+  Latitude: -9.437797549999999
+  Longitude: 159.9624174786047
+  Status: operational
+  Town: Honiara
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-08T13:36:58Z'
+  ID: us-hnl
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - us-hnl-aa
+  Instances: 2
+  Latitude: 21.304547
+  Longitude: -157.855676
+  Status: operational
+  Town: Honolulu
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: KR
+  Created: '2024-03-08T13:36:57Z'
+  ID: kr-icn
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kr-icn-aa
+  Instances: 1
+  Latitude: 37.456
+  Longitude: 126.7052
+  Status: operational
+  Town: Incheon
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PK
+  Created: '2024-04-18T19:20:42Z'
+  ID: pk-skt
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - pk-skt-ab
+  - pk-skt-ac
+  Instances: 2
+  Latitude: 33.5867772
+  Longitude: 73.0330927
+  Status: operational
+  Town: Islamabad-Rawalpindi
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IN
+  Created: '2024-03-08T13:36:57Z'
+  ID: in-jai
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - in-jai-aa
+  Instances: 1
+  Latitude: 26.9154576
+  Longitude: 75.8189817
+  Status: operational
+  Town: Jaipur
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ZA
+  Created: '2024-03-08T13:36:58Z'
+  ID: za-jnb
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - za-jnb-aa
+  Instances: 1
+  Latitude: -26.205
+  Longitude: 28.049722
+  Status: operational
+  Town: Johannesburg
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-08T13:36:57Z'
+  ID: us-hlm
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - us-hlm-aa
+  Instances: 1
+  Latitude: 42.2307865
+  Longitude: -85.5510419237961
+  Status: operational
+  Town: Kalamazoo-Battle Creek
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: UA
+  Created: '2024-03-08T13:36:57Z'
+  ID: ua-iev
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ua-iev-aa
+  Instances: 2
+  Latitude: 50.4500336
+  Longitude: 30.5241361
+  Status: operational
+  Town: Kiev
+  Type: Global
+  Updated: '2024-06-28T09:03:07Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: FM
+  Created: '2024-03-08T13:36:58Z'
+  ID: fm-ksa
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - fm-ksa-aa
+  Instances: 1
+  Latitude: 6.9643412
+  Longitude: 158.2091324
+  Status: operational
+  Town: Kolonia
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PW
+  Created: '2024-03-08T13:36:58Z'
+  ID: pw-ror
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - pw-ror-aa
+  Instances: 1
+  Latitude: 7.343275
+  Longitude: 134.4766767
+  Status: operational
+  Town: Koror
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CN
+  Created: '2024-03-08T13:36:57Z'
+  ID: cn-knm
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cn-knm-aa
+  - cn-knm-ab
+  Instances: 2
+  Latitude: 25.0363006
+  Longitude: 102.7086139
+  Status: operational
+  Town: Kunming City
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: KW
+  Created: '2024-03-08T13:36:58Z'
+  ID: kw-cbg
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kw-cbg-aa
+  - kw-cbg-ab
+  Instances: 2
+  Latitude: 29.3796532
+  Longitude: 47.9734174
+  Status: operational
+  Town: Kuwait City
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IT
+  Created: '2024-03-08T13:36:57Z'
+  ID: it-ltn
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - it-ltn-aa
+  Instances: 1
+  Latitude: 41.45952605
+  Longitude: 13.012591212188894
+  Status: operational
+  Town: Latina
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-08T13:36:58Z'
+  ID: us-lwc
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - us-lwc-aa
+  Instances: 1
+  Latitude: 38.9719137
+  Longitude: -95.2359403
+  Status: operational
+  Town: Lawrence
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: GB
+  Created: '2024-03-08T13:36:57Z'
+  ID: gb-brf
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - gb-brf-aa
+  Instances: 1
+  Latitude: 53.86665035
+  Longitude: -1.656781884498208
+  Status: operational
+  Town: Leeds-Bradford
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:57Z'
+  ID: br-ldb
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - br-ldb-aa
+  Instances: 1
+  Latitude: -23.3112878
+  Longitude: -51.1595023
+  Status: operational
+  Town: Londrina
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-08T13:36:58Z'
+  ID: us-lgw
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - us-lgw-aa
+  Instances: 1
+  Latitude: 28.7012172
+  Longitude: -81.3461738
+  Status: operational
+  Town: Longwood
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-08T13:36:58Z'
+  ID: us-lax
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - us-lax-aa
+  - us-lax-ab
+  Instances: 9
+  Latitude: 34.0536909
+  Longitude: -118.242766
+  Status: operational
+  Town: Los Angeles
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ES
+  Created: '2024-03-08T13:36:57Z'
+  ID: es-mad
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - es-mad-aa
+  Instances: 1
+  Latitude: 40.4167047
+  Longitude: -3.7035825
+  Status: operational
+  Town: Madrid
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SC
+  Created: '2024-04-18T19:20:42Z'
+  ID: sc-maw
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sc-maw-aa
+  Instances: 1
+  Latitude: -4.68379555
+  Longitude: 55.49263800753758
+  Status: operational
+  Town: Mahe
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MH
+  Created: '2024-03-08T13:36:57Z'
+  ID: mh-maj
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mh-maj-aa
+  - mh-maj-ab
+  Instances: 2
+  Latitude: 7.0909924
+  Longitude: 171.3816354
+  Status: operational
+  Town: Majuro
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MM
+  Created: '2024-04-18T19:20:42Z'
+  ID: mm-mdl
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mm-mdl-aa
+  Instances: 1
+  Latitude: 21.9596834
+  Longitude: 96.0948743
+  Status: operational
+  Town: Mandalay
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: NZ
+  Created: '2024-03-08T13:36:57Z'
+  ID: nz-mae
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - nz-mae-aa
+  - nz-mae-ab
+  Instances: 2
+  Latitude: -44.265432
+  Longitude: -176.29344
+  Status: operational
+  Town: Mangere
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AU
+  Created: '2024-03-08T13:36:57Z'
+  ID: au-mas
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - au-mas-aa
+  - au-mas-ab
+  Instances: 2
+  Latitude: -33.9289562
+  Longitude: 151.1951782
+  Status: operational
+  Town: Mascot
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: LS
+  Created: '2024-04-18T19:20:41Z'
+  ID: ls-msu
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - ls-msu-aa
+  Instances: 1
+  Latitude: -29.310054
+  Longitude: 27.478222
+  Status: operational
+  Town: Maseru
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AU
+  Created: '2024-03-08T13:36:57Z'
+  ID: au-kah
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - au-kah-aa
+  - au-kah-ab
+  - au-kah-ac
+  Instances: 3
+  Latitude: -37.8142454
+  Longitude: 144.9631732
+  Status: operational
+  Town: Melbourne
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BY
+  Created: '2024-03-08T13:36:57Z'
+  ID: by-gme
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - by-gme-aa
+  Instances: 1
+  Latitude: 53.9024716
+  Longitude: 27.5618225
+  Status: operational
+  Town: Minsk
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IN
+  Created: '2024-04-18T19:20:42Z'
+  ID: in-mhi
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - in-mhi-aa
+  Instances: 1
+  Latitude: 23.531500549999997
+  Longitude: 79.23154693190591
+  Status: operational
+  Town: Mohali
+  Type: Global
+  Updated: '2024-05-02T16:20:38Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MX
+  Created: '2024-03-08T13:36:57Z'
+  ID: mx-mty
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mx-mty-aa
+  - mx-mty-ab
+  - mx-mty-ac
+  Instances: 3
+  Latitude: 25.6802019
+  Longitude: -100.315258
+  Status: operational
+  Town: Monterrey
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: UY
+  Created: '2024-03-08T13:36:57Z'
+  ID: uy-mvd
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - uy-mvd-aa
+  Instances: 1
+  Latitude: -34.9058916
+  Longitude: -56.1913095
+  Status: operational
+  Town: Montevideo
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: KM
+  Created: '2024-04-18T19:20:42Z'
+  ID: km-yva
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - km-yva-aa
+  Instances: 1
+  Latitude: -11.6931255
+  Longitude: 43.2543044
+  Status: operational
+  Town: Moroni
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: RU
+  Created: '2024-03-08T13:36:57Z'
+  ID: ru-mow
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ru-mow-aa
+  - ru-mow-ab
+  - ru-mow-ac
+  Instances: 3
+  Latitude: 55.7505412
+  Longitude: 37.6174782
+  Status: operational
+  Town: Moscow
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: IN
+  Created: '2024-03-08T13:36:57Z'
+  ID: in-bom
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - in-bom-aa
+  - in-bom-ab
+  Instances: 2
+  Latitude: 19.08157715
+  Longitude: 72.88662753964906
+  Status: operational
+  Town: Mumbai
+  Type: Global
+  Updated: '2024-07-05T04:18:14Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: OM
+  Created: '2024-03-08T13:36:57Z'
+  ID: om-msh
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - om-msh-aa
+  - om-msh-ab
+  - om-msh-ac
+  Instances: 3
+  Latitude: 23.5882019
+  Longitude: 58.3829448
+  Status: operational
+  Town: Muscat
+  Type: Global
+  Updated: '2024-06-18T12:23:17Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: FJ
+  Created: '2024-03-08T13:36:57Z'
+  ID: fj-nan
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - fj-nan-aa
+  - fj-nan-ab
+  Instances: 2
+  Latitude: -17.7992725
+  Longitude: 177.4178549
+  Status: operational
+  Town: Nadi
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: KE
+  Created: '2024-03-08T13:36:58Z'
+  ID: ke-nbo
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ke-nbo-aa
+  Instances: 8
+  Latitude: -1.3026148499999999
+  Longitude: 36.82884201813725
+  Status: operational
+  Town: Nairobi
+  Type: Global
+  Updated: '2024-07-05T04:18:14Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:57Z'
+  ID: br-nat
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - br-nat-aa
+  Instances: 1
+  Latitude: -5.805398
+  Longitude: -35.2080905
+  Status: operational
+  Town: Natal
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: TW
+  Created: '2024-03-08T13:36:57Z'
+  ID: tw-ntc
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - tw-ntc-aa
+  - tw-ntc-ab
+  Instances: 2
+  Latitude: 25.011997
+  Longitude: 121.4656619
+  Status: operational
+  Town: New Taipei
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: NC
+  Created: '2024-03-08T13:36:57Z'
+  ID: nc-nou
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - nc-nou-aa
+  Instances: 2
+  Latitude: -22.2745264
+  Longitude: 166.442419
+  Status: operational
+  Town: Noumea
+  Type: Global
+  Updated: '2024-07-05T05:32:17Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: UA
+  Created: '2024-03-08T13:36:57Z'
+  ID: ua-ods
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ua-ods-aa
+  Instances: 1
+  Latitude: 46.4843023
+  Longitude: 30.7322878
+  Status: operational
+  Town: Odessa
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: RO
+  Created: '2024-03-08T13:36:57Z'
+  ID: ro-oti
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ro-oti-aa
+  Instances: 1
+  Latitude: 44.5507941
+  Longitude: 26.0729271
+  Status: operational
+  Town: Otopeni
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BF
+  Created: '2024-03-08T13:36:58Z'
+  ID: bf-oua
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bf-oua-aa
+  - bf-oua-ab
+  Instances: 2
+  Latitude: 12.3681873
+  Longitude: -1.5270944
+  Status: operational
+  Town: Ouagadougou
+  Type: Global
+  Updated: '2024-06-18T12:23:17Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PF
+  Created: '2024-03-08T13:36:58Z'
+  ID: pf-ppt
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - pf-ppt-aa
+  - pf-ppt-ab
+  Instances: 2
+  Latitude: -17.5373835
+  Longitude: -149.5659964
+  Status: operational
+  Town: Papeete
+  Type: Global
+  Updated: '2024-06-18T12:23:17Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: FR
+  Created: '2024-03-08T13:36:57Z'
+  ID: fr-par
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - fr-par-aa
+  Instances: 1
+  Latitude: 48.8588897
+  Longitude: 2.3200410217200766
+  Status: operational
+  Town: Paris
+  Type: Global
+  Updated: '2024-06-19T16:51:02Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: FR
+  Created: '2024-03-08T13:36:58Z'
+  ID: fr-bfc
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - fr-bfc-aa
+  Instances: 1
+  Latitude: 48.8588897
+  Longitude: 2.3200410217200766
+  Status: operational
+  Town: Paris
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AU
+  Created: '2024-03-08T13:36:58Z'
+  ID: au-per
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - au-per-aa
+  Instances: 1
+  Latitude: -31.9558933
+  Longitude: 115.8605855
+  Status: operational
+  Town: Perth
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MU
+  Created: '2024-03-08T13:36:57Z'
+  ID: mu-mru
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mu-mru-aa
+  Instances: 1
+  Latitude: -20.2414627
+  Longitude: 57.4622592
+  Status: operational
+  Town: Plaisance
+  Type: Global
+  Updated: '2024-06-18T12:23:17Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-04-18T19:20:41Z'
+  ID: us-pdx
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - us-pdx-aa
+  Instances: 1
+  Latitude: 45.5202471
+  Longitude: -122.674194
+  Status: operational
+  Town: Portland
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PG
+  Created: '2024-03-08T13:36:58Z'
+  ID: pg-pom
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - pg-pom-aa
+  Instances: 1
+  Latitude: -9.4743301
+  Longitude: 147.1599504
+  Status: operational
+  Town: Port Moresby
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PT
+  Created: '2024-03-08T13:36:58Z'
+  ID: pt-cdo
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - pt-cdo-aa
+  - pt-cdo-ab
+  Instances: 2
+  Latitude: 41.1494512
+  Longitude: -8.6107884
+  Status: operational
+  Town: Porto
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:57Z'
+  ID: br-poa
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - br-poa-aa
+  Instances: 1
+  Latitude: -30.0324999
+  Longitude: -51.2303767
+  Status: operational
+  Town: Porto Alegre
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CZ
+  Created: '2024-03-08T13:36:57Z'
+  ID: cz-xuy
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cz-xuy-aa
+  Instances: 30
+  Latitude: 50.0596288
+  Longitude: 14.446459273258009
+  Status: operational
+  Town: Prague
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: DO
+  Created: '2024-03-08T13:36:58Z'
+  ID: do-jqb
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - do-jqb-aa
+  Instances: 1
+  Latitude: 18.4015585
+  Longitude: -69.634486
+  Status: operational
+  Town: Punta Caucedo
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: EC
+  Created: '2024-03-08T13:36:57Z'
+  ID: ec-uio
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ec-uio-aa
+  Instances: 1
+  Latitude: -0.2201641
+  Longitude: -78.5123274
+  Status: operational
+  Town: Quito
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MA
+  Created: '2024-03-08T13:36:57Z'
+  ID: ma-rba
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ma-rba-aa
+  Instances: 1
+  Latitude: 34.02236
+  Longitude: -6.8340222
+  Status: operational
+  Town: Rabat
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PS
+  Created: '2024-03-08T13:36:57Z'
+  ID: ps-rmh
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ps-rmh-aa
+  Instances: 1
+  Latitude: 31.9030543
+  Longitude: 35.1952255
+  Status: operational
+  Town: Ramallah
+  Type: Global
+  Updated: '2024-06-18T12:23:17Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CK
+  Created: '2024-03-08T13:36:57Z'
+  ID: ck-rar
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - ck-rar-aa
+  - ck-rar-ab
+  Instances: 2
+  Latitude: -21.236831199999997
+  Longitude: -159.77747437744517
+  Status: operational
+  Town: Rarotonga
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-08T13:36:58Z'
+  ID: us-rno
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - us-rno-aa
+  Instances: 1
+  Latitude: 39.5261206
+  Longitude: -119.8126581
+  Status: operational
+  Town: Reno
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-08T13:36:57Z'
+  ID: us-rtv
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - us-rtv-aa
+  Instances: 8
+  Latitude: 38.9583737
+  Longitude: -77.3579805
+  Status: operational
+  Town: Reston
+  Type: Global
+  Updated: '2024-06-18T12:23:17Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:58Z'
+  ID: br-gig
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - br-gig-aa
+  Instances: 2
+  Latitude: -22.9110137
+  Longitude: -43.2093727
+  Status: operational
+  Town: Rio de Janeiro
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: RU
+  Created: '2024-03-08T13:36:57Z'
+  ID: ru-noi
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ru-noi-aa
+  Instances: 1
+  Latitude: 47.2216548
+  Longitude: 39.7096061
+  Status: operational
+  Town: Rostov-on-Don
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: RU
+  Created: '2024-03-08T13:36:58Z'
+  ID: ru-led
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ru-led-aa
+  Instances: 1
+  Latitude: 59.938732
+  Longitude: 30.316229
+  Status: operational
+  Town: Saint Petersburg
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:57Z'
+  ID: br-ssa
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - br-ssa-aa
+  - br-ssa-ab
+  Instances: 2
+  Latitude: -12.9822499
+  Longitude: -38.4812772
+  Status: operational
+  Town: Salvador
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: YE
+  Created: '2024-04-18T19:20:42Z'
+  ID: ye-sah
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ye-sah-aa
+  Instances: 1
+  Latitude: 15.3538569
+  Longitude: 44.2058841
+  Status: operational
+  Town: Sana'a
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-08T13:36:57Z'
+  ID: us-sjc
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - us-sjc-aa
+  Instances: 1
+  Latitude: 37.3361663
+  Longitude: -121.890591
+  Status: operational
+  Town: San Jose
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CR
+  Created: '2024-03-08T13:36:57Z'
+  ID: cr-sjo
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cr-sjo-aa
+  Instances: 1
+  Latitude: 9.9325427
+  Longitude: -84.0795782
+  Status: operational
+  Town: San Jose
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: PR
+  Created: '2024-07-02T16:51:40Z'
+  ID: pr-sju
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - pr-sju-aa
+  Instances: 1
+  Latitude: 18.465299
+  Longitude: -66.116666
+  Status: operational
+  Town: San Juan
+  Type: Global
+  Updated: '2024-07-02T16:51:40Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: AR
+  Created: '2024-04-18T19:20:42Z'
+  ID: ar-smc
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ar-smc-aa
+  Instances: 1
+  Latitude: -26.8303703
+  Longitude: -65.2038133
+  Status: operational
+  Town: San Miguel de Tucuman
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SV
+  Created: '2024-03-08T13:36:57Z'
+  ID: sv-sal
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - sv-sal-aa
+  Instances: 1
+  Latitude: 13.6989939
+  Longitude: -89.1914249
+  Status: operational
+  Town: San Salvador
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CL
+  Created: '2024-03-08T13:36:58Z'
+  ID: cl-scl
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cl-scl-aa
+  - cl-scl-ab
+  - cl-scl-ac
+  - cl-scl-ad
+  Instances: 4
+  Latitude: -33.4377756
+  Longitude: -70.6504502
+  Status: operational
+  Town: Santiago
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:57Z'
+  ID: br-sjk
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - br-sjk-aa
+  Instances: 1
+  Latitude: -23.1867782
+  Longitude: -45.8854538
+  Status: operational
+  Town: Sao Jose dos Campos
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:57Z'
+  ID: br-sao
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - br-sao-aa
+  Instances: 1
+  Latitude: -23.5506507
+  Longitude: -46.6333824
+  Status: operational
+  Town: Sao Paulo
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: KZ
+  Created: '2024-03-08T13:36:57Z'
+  ID: kz-plx
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - kz-plx-aa
+  Instances: 1
+  Latitude: 50.406737750000005
+  Longitude: 80.25028238526095
+  Status: operational
+  Town: Semey
+  Type: Global
+  Updated: '2024-06-18T12:23:17Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CN
+  Created: '2024-03-08T13:36:57Z'
+  ID: cn-pvg
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cn-pvg-aa
+  Instances: 1
+  Latitude: 31.2323437
+  Longitude: 121.4691024
+  Status: operational
+  Town: Shanghai
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SG
+  Created: '2024-03-08T13:36:57Z'
+  ID: sg-sin
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - sg-sin-aa
+  Instances: 30
+  Latitude: 1.357107
+  Longitude: 103.8194992
+  Status: operational
+  Town: Singapore
+  Type: Global
+  Updated: '2024-06-18T12:23:17Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BG
+  Created: '2024-03-08T13:36:57Z'
+  ID: bg-goz
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - bg-goz-aa
+  Instances: 1
+  Latitude: 42.6977028
+  Longitude: 23.3217359
+  Status: operational
+  Town: Sofia
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: SE
+  Created: '2024-03-08T13:36:57Z'
+  ID: se-sto
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - se-sto-aa
+  Instances: 1
+  Latitude: 59.3251172
+  Longitude: 18.0710935
+  Status: operational
+  Town: Stockholm
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: FJ
+  Created: '2024-03-08T13:36:57Z'
+  ID: fj-bfj
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - fj-bfj-aa
+  Instances: 1
+  Latitude: -18.1415884
+  Longitude: 178.4421662
+  Status: operational
+  Town: Suva
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: FI
+  Created: '2024-03-08T13:36:57Z'
+  ID: fi-tmp
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - fi-tmp-aa
+  Instances: 1
+  Latitude: 61.4980214
+  Longitude: 23.7603118
+  Status: operational
+  Town: Tampere
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CA
+  Created: '2024-03-08T13:36:58Z'
+  ID: ca-tor
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ca-tor-aa
+  Instances: 1
+  Latitude: 43.6534817
+  Longitude: -79.3839347
+  Status: operational
+  Town: Toronto
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: BR
+  Created: '2024-03-08T13:36:57Z'
+  ID: br-udi
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - br-udi-aa
+  Instances: 1
+  Latitude: -18.9188041
+  Longitude: -48.2767837
+  Status: operational
+  Town: Uberlandia
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CA
+  Created: '2024-03-08T13:36:57Z'
+  ID: ca-cxh
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ca-cxh-aa
+  Instances: 1
+  Latitude: 49.2608724
+  Longitude: -123.113952
+  Status: operational
+  Town: Vancouver
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-08T13:36:57Z'
+  ID: us-ilg
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - us-ilg-aa
+  Instances: 1
+  Latitude: 39.7459468
+  Longitude: -75.546589
+  Status: operational
+  Town: Wilmington
+  Type: Global
+  Updated: '2024-04-17T12:37:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CA
+  Created: '2024-03-08T13:36:57Z'
+  ID: ca-wnp
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ca-wnp-aa
+  Instances: 1
+  Latitude: 49.8955367
+  Longitude: -97.1384584
+  Status: operational
+  Town: Winnipeg
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CN
+  Created: '2024-04-18T19:20:42Z'
+  ID: cn-nhn
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cn-nhn-aa
+  - cn-nhn-ab
+  Instances: 2
+  Latitude: 30.5951051
+  Longitude: 114.2999353
+  Status: operational
+  Town: Wuhan
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CN
+  Created: '2024-03-08T13:36:57Z'
+  ID: cn-xnt
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cn-xnt-aa
+  - cn-xnt-ab
+  Instances: 2
+  Latitude: 36.617331
+  Longitude: 101.7761976
+  Status: operational
+  Town: Xining
+  Type: Global
+  Updated: '2024-06-18T12:23:17Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: MM
+  Created: '2024-04-18T19:20:41Z'
+  ID: mm-rgn
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - mm-rgn-aa
+  Instances: 1
+  Latitude: 16.7967129
+  Longitude: 96.1609916
+  Status: operational
+  Town: Yangon
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: ID
+  Created: '2024-03-08T13:36:57Z'
+  ID: id-jog
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - id-jog-aa
+  Instances: 1
+  Latitude: -7.9778383999999996
+  Longitude: 110.36722565020224
+  Status: operational
+  Town: Yogyakarta
+  Type: Global
+  Updated: '2024-04-18T19:20:42Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: null
+  BGP Site Identifier: ''
+  Country: CN
+  Created: '2024-03-08T13:36:58Z'
+  ID: cn-cgo
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - cn-cgo-aa
+  Instances: 2
+  Latitude: 23.246071
+  Longitude: 107.2297041
+  Status: operational
+  Town: Zhengzhou
+  Type: Global
+  Updated: '2024-07-09T09:27:26Z'
+Statistics: https://dns.icann.org/imrs/stats
+Updated: '2024-07-30T07:17:11Z'

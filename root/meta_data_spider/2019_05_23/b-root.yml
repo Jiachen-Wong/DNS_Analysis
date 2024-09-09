@@ -1,0 +1,37 @@
+ASN: '394353'
+Contact Email: b-poc@isi.edu
+Homepage: http://b.root-servers.org/
+IPv4: 199.9.14.201
+IPv6: 2001:500:200::b
+Identifier Naming Convention: ''
+Instances:
+- Country: Chile
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '-18.483'
+  Longitude: '-70.333'
+  Sites: 1
+  Town: Arica
+  Type: Global
+- Country: USA
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '34.05'
+  Longitude: '-118.25'
+  Sites: 1
+  State: California
+  Town: Los Angeles
+  Type: Global
+- Country: USA
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '25.775'
+  Longitude: '-80.209'
+  Sites: 1
+  State: Florida
+  Town: Miami
+  Type: Global
+Operator: Information Sciences Institute
+Peering Policy: ''
+RSSAC: http://b.root-servers.org/rssac/
+Statistics: https://b.root-servers.org/rssac/

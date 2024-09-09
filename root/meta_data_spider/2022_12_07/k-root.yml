@@ -1,0 +1,969 @@
+ASN: 25152
+Contact Email: dns@ripe.net
+Homepage: http://k.root-servers.org/
+IPv4: 193.0.14.129
+IPv6: 2001:7fd::1
+Identifier Naming Convention: ns/\d+.{UN-LOCODE-SITE-ID}.k.ripe.net
+Operator: RIPE NCC
+Peering Policy: https://www.ripe.net/analyse/dns/k-root/k-root-peering-policy
+RSSAC: https://www-static.ripe.net/dynamic/rssac002-metrics/
+Sites:
+- Country: AM
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.am-abo.k.ripe.net
+  Instances: 1
+  Latitude: 40.2714761
+  Longitude: 44.6333951
+  Town: Abovyan
+  Type: Global
+- Country: NL
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 3
+  Latitude: 52.3727598
+  Longitude: 4.8936041
+  Town: Amsterdam
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.us-ric.k.ripe.net
+  Instances: 1
+  Latitude: 38.4784144
+  Longitude: -82.6379387
+  Town: Ashland
+  Type: Global
+- Country: GR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.gr-ath.k.ripe.net
+  Instances: 1
+  Latitude: 37.9839412
+  Longitude: 23.7283052
+  Town: Athens
+  Type: Global
+- Country: ES
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.es-bcn.k.ripe.net
+  Instances: 1
+  Latitude: 41.3828939
+  Longitude: 2.1774322
+  Town: Barcelona
+  Type: Global
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.cn-bjs.k.ripe.net
+  Instances: 1
+  Latitude: 39.906217
+  Longitude: 116.3912757
+  Town: Beijing
+  Type: Local
+- Country: LB
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.lb-bey.k.ripe.net
+  Instances: 1
+  Latitude: 33.8959203
+  Longitude: 35.47843
+  Town: Beirut
+  Type: Global
+- Country: RS
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.rs-beg.k.ripe.net
+  Instances: 1
+  Latitude: 44.8178131
+  Longitude: 20.4568974
+  Town: Belgrade
+  Type: Global
+- Country: DE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns2.de-ber.k.ripe.net
+  Instances: 1
+  Latitude: 52.5170365
+  Longitude: 13.3888599
+  Town: Berlin
+  Type: Global
+- Country: DE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.de-ber.k.ripe.net
+  Instances: 1
+  Latitude: 52.5170365
+  Longitude: 13.3888599
+  Town: Berlin
+  Type: Global
+- Country: AU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.au-bne.k.ripe.net
+  Instances: 1
+  Latitude: -27.4689682
+  Longitude: 153.0234991
+  Town: Brisbane
+  Type: Global
+- Country: RO
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ro-buh.k.ripe.net
+  Instances: 1
+  Latitude: 44.4361414
+  Longitude: 26.1027202
+  Town: Bucharest
+  Type: Global
+- Country: HU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.hu-bud.k.ripe.net
+  Instances: 1
+  Latitude: 47.48138955
+  Longitude: 19.14609412691246
+  Town: Budapest
+  Type: Global
+- Country: AR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ar-bue.k.ripe.net
+  Instances: 1
+  Latitude: -34.6075682
+  Longitude: -58.4370894
+  Town: Buenos Aires
+  Type: Global
+- Country: CA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ca-cal.k.ripe.net
+  Instances: 1
+  Latitude: 51.0460954
+  Longitude: -114.065465
+  Town: Calgary
+  Type: Global
+- Country: IN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.in-maa.k.ripe.net
+  Instances: 1
+  Latitude: 13.0836939
+  Longitude: 80.270186
+  Town: Chennai
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.us-cmh.k.ripe.net
+  Instances: 1
+  Latitude: 39.9622601
+  Longitude: -83.0007065
+  Town: Columbus
+  Type: Global
+- Country: IE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ie-ork.k.ripe.net
+  Instances: 1
+  Latitude: 51.897077
+  Longitude: -8.4654674
+  Town: Cork
+  Type: Global
+- Country: IN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.in-del.k.ripe.net
+  Instances: 1
+  Latitude: 28.6517178
+  Longitude: 77.2219388
+  Town: Delhi
+  Type: Global
+- Country: ID
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.id-dps.k.ripe.net
+  Instances: 1
+  Latitude: -8.6524973
+  Longitude: 115.2191175
+  Town: Denpasar
+  Type: Global
+- Country: QA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.qa-doh.k.ripe.net
+  Instances: 1
+  Latitude: 25.2856329
+  Longitude: 51.5264162
+  Town: Doha
+  Type: Global
+- Country: AE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ae-dxb.k.ripe.net
+  Instances: 1
+  Latitude: 25.2653471
+  Longitude: 55.2924914
+  Town: Dubai
+  Type: Global
+- Country: TJ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.tj-dyu.k.ripe.net
+  Instances: 1
+  Latitude: 38.5425835
+  Longitude: 68.81521423589763
+  Town: Dushanbe
+  Type: Global
+- Country: AT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.at-fkt.k.ripe.net
+  Instances: 1
+  Latitude: 47.2375671
+  Longitude: 9.5981724
+  Town: Feldkirch
+  Type: Global
+- Country: DE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns3.de-fra.k.ripe.net
+  - ns2.de-fra.k.ripe.net
+  - ns1.de-fra.k.ripe.net
+  Instances: 3
+  Latitude: 50.1106444
+  Longitude: 8.6820917
+  Town: Frankfurt
+  Type: Global
+- Country: PL
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.pl-gdy.k.ripe.net
+  Instances: 1
+  Latitude: 54.50383255
+  Longitude: 18.462806155884614
+  Town: Gdynia
+  Type: Global
+- Country: CH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ch-gva.k.ripe.net
+  Instances: 1
+  Latitude: 46.2017559
+  Longitude: 6.1466014
+  Town: Geneva
+  Type: Global
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.cn-ggz.k.ripe.net
+  Instances: 1
+  Latitude: 23.1301964
+  Longitude: 113.2592945
+  Town: Guangzhou
+  Type: Local
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.cn-gya.k.ripe.net
+  Instances: 1
+  Latitude: 25.7561647
+  Longitude: 112.72964
+  Town: GuiYang
+  Type: Local
+- Country: DE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.de-ham.k.ripe.net
+  Instances: 1
+  Latitude: 53.550341
+  Longitude: 10.000654
+  Town: Hamburg
+  Type: Global
+- Country: VN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.vn-han.k.ripe.net
+  Instances: 1
+  Latitude: 21.0294498
+  Longitude: 105.8544441
+  Town: Ha Noi
+  Type: Global
+- Country: FI
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.fi-hel.k.ripe.net
+  Instances: 1
+  Latitude: 60.1674881
+  Longitude: 24.9427473
+  Town: Helsinki
+  Type: Local
+- Country: ID
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.id-jkt.k.ripe.net
+  Instances: 1
+  Latitude: -6.1753942
+  Longitude: 106.827183
+  Town: Jakarta
+  Type: Global
+- Country: ZA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.za-jnb.k.ripe.net
+  Instances: 1
+  Latitude: -26.205
+  Longitude: 28.049722
+  Town: Johannesburg
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns2.us-mkc.k.ripe.net
+  Instances: 1
+  Latitude: 39.100105
+  Longitude: -94.5781416
+  Town: Kansas City
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.us-mkc.k.ripe.net
+  Instances: 1
+  Latitude: 39.100105
+  Longitude: -94.5781416
+  Town: Kansas City
+  Type: Global
+- Country: DE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.de-kae.k.ripe.net
+  Instances: 1
+  Latitude: 49.0068705
+  Longitude: 8.4034195
+  Town: Karlsruhe
+  Type: Global
+- Country: LU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.lu-lux.k.ripe.net
+  Instances: 1
+  Latitude: 49.6278334
+  Longitude: 6.1596669
+  Town: Kirchberg
+  Type: Global
+- Country: KW
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns2.kw-kwi.k.ripe.net
+  - ns1.kw-kwi.k.ripe.net
+  Instances: 2
+  Latitude: 29.3797091
+  Longitude: 47.9735629
+  Town: Kuwait City
+  Type: Global
+- Country: GB
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns3.gb-lon.k.ripe.net
+  - ns2.gb-lon.k.ripe.net
+  - ns1.gb-lon.k.ripe.net
+  Instances: 3
+  Latitude: 51.5073219
+  Longitude: -0.1276474
+  Town: London
+  Type: Global
+- Country: UA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ua-vsg.k.ripe.net
+  Instances: 1
+  Latitude: 48.5717084
+  Longitude: 39.2973153
+  Town: Lugansk
+  Type: Global
+- Country: FR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.fr-lio.k.ripe.net
+  Instances: 1
+  Latitude: 45.7578137
+  Longitude: 4.8320114
+  Town: Lyon
+  Type: Global
+- Country: ES
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.es-mad.k.ripe.net
+  Instances: 1
+  Latitude: 40.4167047
+  Longitude: -3.7035825
+  Town: Madrid
+  Type: Global
+- Country: ES
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns2.es-mad.k.ripe.net
+  Instances: 1
+  Latitude: 40.4167047
+  Longitude: -3.7035825
+  Town: Madrid
+  Type: Global
+- Country: BH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.bh-amh.k.ripe.net
+  Instances: 1
+  Latitude: 26.2235041
+  Longitude: 50.5822436
+  Town: Manamah
+  Type: Global
+- Country: BH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns2.bh-amh.k.ripe.net
+  Instances: 1
+  Latitude: 26.229364150000002
+  Longitude: 50.53723225826743
+  Town: Manama, Seef
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns3.us-mia.k.ripe.net
+  - ns2.us-mia.k.ripe.net
+  - ns1.us-mia.k.ripe.net
+  Instances: 3
+  Latitude: 25.7741728
+  Longitude: -80.19362
+  Town: Miami
+  Type: Global
+- Country: IT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.it-mil.k.ripe.net
+  Instances: 1
+  Latitude: 45.4668
+  Longitude: 9.1905
+  Town: Milan
+  Type: Global
+- Country: MX
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.mx-mty.k.ripe.net
+  Instances: 1
+  Latitude: 25.64442945
+  Longitude: -100.29501573597975
+  Town: Monterrey Nuevo León
+  Type: Global
+- Country: UY
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.uy-mvd.k.ripe.net
+  Instances: 1
+  Latitude: -34.9058916
+  Longitude: -56.1913095
+  Town: Montevideo
+  Type: Global
+- Country: RU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ru-mow.k.ripe.net
+  Instances: 1
+  Latitude: 55.7504461
+  Longitude: 37.6174943
+  Town: Moscow
+  Type: Global
+- Country: IN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.in-bom.k.ripe.net
+  Instances: 1
+  Latitude: 19.0759899
+  Longitude: 72.8773928
+  Town: Mumbai
+  Type: Global
+- Country: RU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ru-ovb.k.ripe.net
+  Instances: 1
+  Latitude: 55.0282171
+  Longitude: 82.9234509
+  Town: Novosibirsk
+  Type: Local
+- Country: GL
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.gl-goh.k.ripe.net
+  Instances: 1
+  Latitude: 64.175029
+  Longitude: -51.7355386
+  Town: Nuuk
+  Type: Global
+- Country: IT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns2.it-pmo.k.ripe.net
+  Instances: 1
+  Latitude: 38.1112268
+  Longitude: 13.3524434
+  Town: Palermo
+  Type: Global
+- Country: IT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.it-pmo.k.ripe.net
+  Instances: 1
+  Latitude: 38.1112268
+  Longitude: 13.3524434
+  Town: Palermo
+  Type: Global
+- Country: PA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.pa-pty.k.ripe.net
+  Instances: 1
+  Latitude: 8.9714493
+  Longitude: -79.5341802
+  Town: Panama City
+  Type: Global
+- Country: FR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.fr-par.k.ripe.net
+  Instances: 1
+  Latitude: 48.8566969
+  Longitude: 2.3514616
+  Town: Paris
+  Type: Global
+- Country: KZ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.kz-pwq.k.ripe.net
+  Instances: 1
+  Latitude: 52.2857573
+  Longitude: 76.9455035
+  Town: Pavlodar
+  Type: Global
+- Country: KH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.kh-pnh.k.ripe.net
+  Instances: 1
+  Latitude: 11.568271
+  Longitude: 104.9224426
+  Town: Phnom Penh
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.br-pgz.k.ripe.net
+  Instances: 1
+  Latitude: -25.0891685
+  Longitude: -50.1601812
+  Town: Ponta Grossa, PR
+  Type: Global
+- Country: PL
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.pl-poz.k.ripe.net
+  Instances: 1
+  Latitude: 52.4006632
+  Longitude: 16.91973259178088
+  Town: Poznan
+  Type: Global
+- Country: CZ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.cz-prg.k.ripe.net
+  Instances: 1
+  Latitude: 50.0596288
+  Longitude: 14.446459273258009
+  Town: Prague
+  Type: Global
+- Country: IT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.it-ota.k.ripe.net
+  Instances: 1
+  Latitude: 43.880598
+  Longitude: 11.0969262
+  Town: Prato
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.us-rno.k.ripe.net
+  Instances: 1
+  Latitude: 39.5261206
+  Longitude: -119.8126581
+  Town: Reno
+  Type: Global
+- Country: IS
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.is-rey.k.ripe.net
+  Instances: 1
+  Latitude: 64.145981
+  Longitude: -21.9422367
+  Town: Reykjavik
+  Type: Global
+- Country: LV
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.lv-rix.k.ripe.net
+  Instances: 1
+  Latitude: 56.9493977
+  Longitude: 24.1051846
+  Town: Riga
+  Type: Global
+- Country: SA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.sa-ruh.k.ripe.net
+  Instances: 1
+  Latitude: 24.638916
+  Longitude: 46.7160104
+  Town: Riyadh
+  Type: Global
+- Country: RU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ru-led.k.ripe.net
+  Instances: 1
+  Latitude: 59.917857350000006
+  Longitude: 30.380619357025516
+  Town: Saint Petersburg
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.br-ssa.k.ripe.net
+  Instances: 1
+  Latitude: -12.9822499
+  Longitude: -38.4812772
+  Town: Salvador
+  Type: Global
+- Country: AT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.at-szg.k.ripe.net
+  Instances: 1
+  Latitude: 47.811195
+  Longitude: 13.033229
+  Town: Salzburg
+  Type: Global
+- Country: CR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.cr-sjo.k.ripe.net
+  Instances: 1
+  Latitude: 9.9325427
+  Longitude: -84.0795782
+  Town: San Jose
+  Type: Global
+- Country: CL
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.cl-scl.k.ripe.net
+  Instances: 1
+  Latitude: -33.4377756
+  Longitude: -70.6504502
+  Town: Santiago
+  Type: Global
+- Country: BA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ba-sjj.k.ripe.net
+  Instances: 1
+  Latitude: 43.8519774
+  Longitude: 18.3866868
+  Town: Sarajevo
+  Type: Global
+- Country: KZ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.kz-plx.k.ripe.net
+  Instances: 1
+  Latitude: 50.405029
+  Longitude: 80.249176
+  Town: Semey
+  Type: Global
+- Country: BG
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.bg-sof.k.ripe.net
+  Instances: 1
+  Latitude: 42.6978634
+  Longitude: 23.3221789
+  Town: Sofia
+  Type: Global
+- Country: BG
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns2.bg-sof.k.ripe.net
+  Instances: 1
+  Latitude: 42.6978634
+  Longitude: 23.3221789
+  Town: Sofia
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.us-sgu.k.ripe.net
+  Instances: 1
+  Latitude: 37.104153
+  Longitude: -113.5841313
+  Town: St. George
+  Type: Global
+- Country: TW
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.tw-tpe.k.ripe.net
+  Instances: 1
+  Latitude: 25.0375198
+  Longitude: 121.5636796
+  Town: Taipei
+  Type: Global
+- Country: EE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ee-tll.k.ripe.net
+  Instances: 1
+  Latitude: 59.4372155
+  Longitude: 24.7453688
+  Town: Tallinn
+  Type: Global
+- Country: GE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ge-tbs.k.ripe.net
+  Instances: 1
+  Latitude: 41.6934591
+  Longitude: 44.8014495
+  Town: Tbilisi
+  Type: Global
+- Country: IR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns3.ir-thr.k.ripe.net
+  Instances: 1
+  Latitude: 35.6892523
+  Longitude: 51.3896004
+  Town: Tehran
+  Type: Global
+- Country: IR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns2.ir-thr.k.ripe.net
+  Instances: 1
+  Latitude: 35.6892523
+  Longitude: 51.3896004
+  Town: Tehran
+  Type: Global
+- Country: IR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ir-thr.k.ripe.net
+  Instances: 1
+  Latitude: 35.6892523
+  Longitude: 51.3896004
+  Town: Tehran
+  Type: Global
+- Country: BT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.bt-thi.k.ripe.net
+  Instances: 1
+  Latitude: 27.4713546
+  Longitude: 89.6336729
+  Town: Thimphu
+  Type: Global
+- Country: JP
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns3.jp-tyo.k.ripe.net
+  - ns1.jp-tyo.k.ripe.net
+  - ns2.jp-tyo.k.ripe.net
+  Instances: 3
+  Latitude: 35.6828387
+  Longitude: 139.7594549
+  Town: Tokyo
+  Type: Global
+- Country: FO
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.fo-tor.k.ripe.net
+  Instances: 1
+  Latitude: 62.012
+  Longitude: -6.768
+  Town: Torshavn
+  Type: Global
+- Country: CA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ca-van.k.ripe.net
+  Instances: 1
+  Latitude: 49.2608724
+  Longitude: -123.113952
+  Town: Vancouver
+  Type: Global
+- Country: AT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns2.at-vie.k.ripe.net
+  Instances: 1
+  Latitude: 48.2083537
+  Longitude: 16.3725042
+  Town: Vienna
+  Type: Global
+- Country: AT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.at-vie.k.ripe.net
+  Instances: 1
+  Latitude: 48.2083537
+  Longitude: 16.3725042
+  Town: Vienna
+  Type: Global
+- Country: PL
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.pl-waw.k.ripe.net
+  Instances: 1
+  Latitude: 52.2337172
+  Longitude: 21.071432235636493
+  Town: Warsaw
+  Type: Global
+- Country: MM
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.mm-rgn.k.ripe.net
+  Instances: 1
+  Latitude: 16.7967129
+  Longitude: 96.1609916
+  Town: Yangon
+  Type: Global
+- Country: AM
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.am-evn.k.ripe.net
+  Instances: 1
+  Latitude: 40.1776121
+  Longitude: 44.5125849
+  Town: Yerevan
+  Type: Global
+- Country: ID
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.id-jog.k.ripe.net
+  Instances: 1
+  Latitude: -7.9778383999999996
+  Longitude: 110.36722565020224
+  Town: Yogyakarta
+  Type: Global
+- Country: CH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ns1.ch-zrh.k.ripe.net
+  Instances: 1
+  Latitude: 47.3744489
+  Longitude: 8.5410422
+  Town: Zurich
+  Type: Global
+Statistics: https://www.ripe.net/analyse/dns/k-root/statistics

@@ -1,0 +1,1479 @@
+ASN: '20144'
+Contact Email: noc@dns.icann.org
+Homepage: http://www.dns.icann.org/lroot/
+IPv4: 199.7.83.42
+IPv6: 2001:500:3::42
+Identifier Naming Convention: https://tools.ietf.org/html/rfc7108
+Instances:
+- Country: Cote d'Ivoire
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - abj02.l.root-servers.org
+  - abj01.l.root-servers.org
+  Latitude: '5.316667'
+  Longitude: '-4.033333'
+  Sites: 1
+  Town: Abidjan
+  Type: Global
+- Country: Bahrain
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - bah01.l.root-servers.org
+  Latitude: '26.266941'
+  Longitude: '50.63839'
+  Sites: 1
+  Town: Al Muharraq
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - anc01.l.root-servers.org
+  Latitude: '61.2180556'
+  Longitude: '-149.9002778'
+  Sites: 1
+  State: Alaska
+  Town: Anchorage
+  Type: Global
+- Country: Turkey
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - esb01.l.root-servers.org
+  Latitude: '39.92077'
+  Longitude: '32.85411'
+  Sites: 1
+  Town: Ankara
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - atl01.l.root-servers.org
+  Latitude: '33.7489954'
+  Longitude: '-84.3879824'
+  Sites: 1
+  State: Georgia
+  Town: Atlanta
+  Type: Global
+- Country: Azerbaijan
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - gyd01.l.root-servers.org
+  Latitude: '40.4092617'
+  Longitude: '49.8670924'
+  Sites: 1
+  Town: Baku
+  Type: Global
+- Country: Thailand
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - bkk01.l.root-servers.org
+  - bkk02.l.root-servers.org
+  Latitude: '13.7563309'
+  Longitude: '100.5017651'
+  Sites: 1
+  Town: Bangkok
+  Type: Global
+- Country: People's Republic of China
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - pek05.l.root-servers.org
+  - pek04.l.root-servers.org
+  - pek01.l.root-servers.org
+  - pek02.l.root-servers.org
+  - pek03.l.root-servers.org
+  Latitude: '39.907313'
+  Longitude: '116.403303'
+  Sites: 3
+  Town: Beijing
+  Type: Global
+- Country: Lebanon
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - bey01.l.root-servers.org
+  Latitude: '33.8886289'
+  Longitude: '35.4954794'
+  Sites: 1
+  Town: Beirut
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - bel01.l.root-servers.org
+  Latitude: '-1.4557549'
+  Longitude: '-48.4901799'
+  Sites: 1
+  State: Para
+  Town: Belem
+  Type: Global
+- Country: Serbia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - beg01.l.root-servers.org
+  Latitude: '44.786568'
+  Longitude: '20.4489216'
+  Sites: 1
+  Town: Belgrade
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - cnf01.l.root-servers.org
+  Latitude: '-19.9166813'
+  Longitude: '-43.9344931'
+  Sites: 1
+  State: Minas Gerais
+  Town: Belo Horizonte
+  Type: Global
+- Country: Germany
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ber41.l.root-servers.org
+  Latitude: '52.5200066'
+  Longitude: '13.404954'
+  Sites: 1
+  Town: Berlin
+  Type: Global
+- Country: Colombia
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - bog02.l.root-servers.org
+  - bog01.l.root-servers.org
+  Latitude: '4.598056'
+  Longitude: '-74.075833'
+  Sites: 2
+  Town: Bogota
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - bos41.l.root-servers.org
+  Latitude: '42.3600825'
+  Longitude: '-71.0588801'
+  Sites: 1
+  State: Massachusetts
+  Town: Boston
+  Type: Global
+- Country: Cote d'Ivoire
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - byk01.l.root-servers.org
+  Latitude: '7.683333'
+  Longitude: '-5.016667'
+  Sites: 1
+  Town: Bouake
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - bsb01.l.root-servers.org
+  Latitude: '-15.7942287'
+  Longitude: '-47.8821658'
+  Sites: 1
+  State: Distrito Federal
+  Town: Brasilia
+  Type: Global
+- Country: Australia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - bne01.l.root-servers.org
+  Latitude: '-27.4710107'
+  Longitude: '153.0234489'
+  Sites: 1
+  State: Queensland
+  Town: Brisbane
+  Type: Global
+- Country: Belgium
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - bru01.l.root-servers.org
+  Latitude: '50.8503396'
+  Longitude: '4.3517103'
+  Sites: 1
+  Town: Brussels
+  Type: Global
+- Country: Egypt
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - cai41.l.root-servers.org
+  Latitude: '30.0444196'
+  Longitude: '31.2357116'
+  Sites: 1
+  Town: Cairo
+  Type: Global
+- Country: Peru
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - lim01.l.root-servers.org
+  - lim02.l.root-servers.org
+  Latitude: '-12.0508491'
+  Longitude: '-77.1259843'
+  Sites: 1
+  Town: Callao
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - vcp01.l.root-servers.org
+  Latitude: '-22.9099384'
+  Longitude: '-47.0626332'
+  Sites: 1
+  State: Sao Paulo State
+  Town: Campinas
+  Type: Global
+- Country: South Africa
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - cpt41.l.root-servers.org
+  - cpt01.l.root-servers.org
+  Latitude: '-33.9248685'
+  Longitude: '18.4240553'
+  Sites: 2
+  Town: Cape Town
+  Type: Global
+- Country: Singapore
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - sin41.l.root-servers.org
+  Latitude: '1.3450101'
+  Longitude: '103.9832089'
+  Sites: 1
+  Town: Changi
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - bos61.l.root-servers.org
+  Latitude: '42.5998139'
+  Longitude: '-71.3672838'
+  Sites: 1
+  State: Massachusetts
+  Town: Chelmsford
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ord01.l.root-servers.org
+  - ord02.l.root-servers.org
+  Latitude: '41.8781136'
+  Longitude: '-87.6297982'
+  Sites: 2
+  State: Illinois
+  Town: Chicago
+  Type: Global
+- Country: New Zealand
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - chc01.l.root-servers.org
+  Latitude: '-43.5320544'
+  Longitude: '172.6362254'
+  Sites: 1
+  Town: Christchurch
+  Type: Global
+- Country: Denmark
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - cph01.l.root-servers.org
+  Latitude: '55.6760968'
+  Longitude: '12.5683371'
+  Sites: 1
+  Town: Copenhagen
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - bfh01.l.root-servers.org
+  Latitude: '-25.4289541'
+  Longitude: '-49.267137'
+  Sites: 1
+  State: Parana
+  Town: Curitiba
+  Type: Global
+- Country: Senegal
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - dkr01.l.root-servers.org
+  Latitude: '14.7645042'
+  Longitude: '-17.3660286'
+  Sites: 1
+  Town: Dakar
+  Type: Global
+- Country: Saudi Arabia
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - dmm01.l.root-servers.org
+  Latitude: '26.3926665'
+  Longitude: '49.9777136'
+  Sites: 1
+  Town: Dammam
+  Type: Global
+- Country: Tanzania
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - dar01.l.root-servers.org
+  Latitude: '-6.8'
+  Longitude: '39.283333'
+  Sites: 1
+  Town: Dar es Salaam
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - den01.l.root-servers.org
+  Latitude: '39.7392358'
+  Longitude: '-104.990251'
+  Sites: 1
+  State: Colorado
+  Town: Denver
+  Type: Global
+- Country: Germany
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - dtm01.l.root-servers.org
+  Latitude: '51.5135872'
+  Longitude: '7.4652981'
+  Sites: 1
+  State: North Rhine-Westphalia
+  Town: Dortmund
+  Type: Global
+- Country: United Arab Emirates
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - dxb01.l.root-servers.org
+  - dxb02.l.root-servers.org
+  Latitude: '25.2048493'
+  Longitude: '55.2707828'
+  Sites: 1
+  Town: Dubai
+  Type: Global
+- Country: Ireland
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - dub41.l.root-servers.org
+  Latitude: '53.3498053'
+  Longitude: '-6.2603097'
+  Sites: 1
+  Town: Dublin
+  Type: Global
+- Country: United Kingdom
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - dnd01.l.root-servers.org
+  Latitude: '56.462018'
+  Longitude: '-2.970721'
+  Sites: 1
+  State: Scotland
+  Town: Dundee
+  Type: Global
+- Country: Germany
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - dus01.l.root-servers.org
+  Latitude: '51.2277411'
+  Longitude: '6.7734556'
+  Sites: 1
+  State: North Rhine-Westphalia
+  Town: Dusseldorf
+  Type: Global
+- Country: Spain
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - bcn01.l.root-servers.org
+  Latitude: '41.3245953'
+  Longitude: '2.0934902'
+  Sites: 1
+  Town: El Prat de Llobregat
+  Type: Global
+- Country: Argentina
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - eze01.l.root-servers.org
+  Latitude: '-34.8537327'
+  Longitude: '-58.5228619'
+  Sites: 1
+  Town: Ezeiza
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - fln01.l.root-servers.org
+  Latitude: '-27.5953778'
+  Longitude: '-48.5480499'
+  Sites: 1
+  State: Santa Catarina
+  Town: Florianopolis
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - for01.l.root-servers.org
+  Latitude: '-3.7318616'
+  Longitude: '-38.5266704'
+  Sites: 1
+  State: Ceara
+  Town: Fortaleza
+  Type: Global
+- Country: Germany
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - fra41.l.root-servers.org
+  Latitude: '50.1109221'
+  Longitude: '8.6821267'
+  Sites: 1
+  Town: Frankfurt
+  Type: Global
+- Country: Switzerland
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - gva01.l.root-servers.org
+  Latitude: '46.1983922'
+  Longitude: '6.1422961'
+  Sites: 1
+  Town: Geneva
+  Type: Global
+- Country: Netherlands
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ams01.l.root-servers.org
+  Latitude: '52.2904909'
+  Longitude: '4.6695376'
+  Sites: 1
+  Town: Haarlemmermeer
+  Type: Global
+- Country: Guam
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - gum01.l.root-servers.org
+  Latitude: '13.4708908'
+  Longitude: '144.7512782'
+  Sites: 1
+  Town: Hagatna
+  Type: Global
+- Country: Germany
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ham01.l.root-servers.org
+  Latitude: '53.5510846'
+  Longitude: '9.9936818'
+  Sites: 1
+  Town: Hamburg
+  Type: Global
+- Country: Greece
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - her01.l.root-servers.org
+  Latitude: '35.3387352'
+  Longitude: '25.1442126'
+  Sites: 1
+  State: Crete
+  Town: Heraklion
+  Type: Global
+- Country: Solomon Islands
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - hir01.l.root-servers.org
+  Latitude: '-9.435092'
+  Longitude: '159.951239'
+  Sites: 1
+  State: Guadalcanal Island
+  Town: Honiara
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - hnl01.l.root-servers.org
+  - hnl02.l.root-servers.org
+  Latitude: '21.3069444'
+  Longitude: '-157.8583333'
+  Sites: 1
+  State: Hawaii
+  Town: Honolulu
+  Type: Global
+- Country: South Korea
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - icn01.l.root-servers.org
+  Latitude: '37.4562557'
+  Longitude: '126.7052062'
+  Sites: 1
+  Town: Incheon
+  Type: Global
+- Country: Pakistan
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - isb01.l.root-servers.org
+  Latitude: '33.7293882'
+  Longitude: '73.0931461'
+  Sites: 1
+  Town: Islamabad-Rawalpindi
+  Type: Global
+- Country: Turkey
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - ist01.l.root-servers.org
+  - ist02.l.root-servers.org
+  Latitude: '41.00527'
+  Longitude: '28.97696'
+  Sites: 2
+  Town: Istanbul
+  Type: Global
+- Country: Indonesia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - jkt01.l.root-servers.org
+  Latitude: '-6.2087634'
+  Longitude: '106.845599'
+  Sites: 1
+  State: Java
+  Town: Jakarta
+  Type: Global
+- Country: Saudi Arabia
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - jed01.l.root-servers.org
+  Latitude: '21.543333'
+  Longitude: '39.172778'
+  Sites: 1
+  Town: Jeddah
+  Type: Global
+- Country: South Africa
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - jnb01.l.root-servers.org
+  - jnb41.l.root-servers.org
+  Latitude: '-26.2041028'
+  Longitude: '28.0473051'
+  Sites: 2
+  State: Gauteng
+  Town: Johannesburg
+  Type: Global
+- Country: Ukraine
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - hrk01.l.root-servers.org
+  Latitude: '49.9935'
+  Longitude: '36.230383'
+  Sites: 1
+  Town: Kharkiv
+  Type: Global
+- Country: Ukraine
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - kbp01.l.root-servers.org
+  Latitude: '50.4501'
+  Longitude: '30.5234'
+  Sites: 1
+  Town: Kiev
+  Type: Global
+- Country: South Africa
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - sdb41.l.root-servers.org
+  Latitude: '-32.966667'
+  Longitude: '18.15'
+  Sites: 1
+  Town: Langebaanweg
+  Type: Global
+- Country: England
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - lba01.l.root-servers.org
+  Latitude: '53.7887315'
+  Longitude: '-1.7875219'
+  Sites: 1
+  State: West Yorkshire
+  Town: Leeds-Bradford
+  Type: Global
+- Country: United Kingdom
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - lcy01.l.root-servers.org
+  Latitude: '51.5073509'
+  Longitude: '-0.1277583'
+  Sites: 1
+  State: England
+  Town: London
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - ldb01.l.root-servers.org
+  Latitude: '-23.3044524'
+  Longitude: '-51.1695824'
+  Sites: 1
+  State: Parana
+  Town: Londrina
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - lax51.l.root-servers.org
+  - lax52.l.root-servers.org
+  - lax59.l.root-servers.org
+  - lax58.l.root-servers.org
+  - lax64.l.root-servers.org
+  - lax57.l.root-servers.org
+  - lax55.l.root-servers.org
+  - lax65.l.root-servers.org
+  - lax62.l.root-servers.org
+  - lax63.l.root-servers.org
+  - lax60.l.root-servers.org
+  - lax61.l.root-servers.org
+  - lax54.l.root-servers.org
+  - lax53.l.root-servers.org
+  - lax56.l.root-servers.org
+  - lax01.l.root-servers.org
+  - lax66.l.root-servers.org
+  Latitude: '34.0522342'
+  Longitude: '-118.2436849'
+  Sites: 2
+  State: California
+  Town: Los Angeles
+  Type: Global
+- Country: France
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - lys01.l.root-servers.org
+  Latitude: '45.764043'
+  Longitude: '4.835659'
+  Sites: 1
+  Town: Lyon
+  Type: Global
+- Country: Seychelles
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - sez01.l.root-servers.org
+  Latitude: '-4.6826693'
+  Longitude: '55.480396'
+  Sites: 1
+  Town: Mahe
+  Type: Global
+- Country: Venezuela
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ccs01.l.root-servers.org
+  Latitude: '10.595833'
+  Longitude: '-66.977222'
+  Sites: 1
+  Town: Maiquetia
+  Type: Global
+- Country: Sweden
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - mmx01.l.root-servers.org
+  Latitude: '55.604981'
+  Longitude: '13.003822'
+  Sites: 1
+  Town: Malmo
+  Type: Global
+- Country: New Zealand
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - akl01.l.root-servers.org
+  - akl02.l.root-servers.org
+  Latitude: '-36.9686277'
+  Longitude: '174.7936872'
+  Sites: 2
+  Town: Mangere
+  Type: Global
+- Country: France
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - mrs01.l.root-servers.org
+  Latitude: '43.296482'
+  Longitude: '5.36978'
+  Sites: 1
+  Town: Marseille
+  Type: Global
+- Country: Australia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - syd01.l.root-servers.org
+  Latitude: '-33.9297331'
+  Longitude: '151.1951145'
+  Sites: 1
+  Town: Mascot
+  Type: Global
+- Country: Australia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - meb01.l.root-servers.org
+  - mel01.l.root-servers.org
+  Latitude: '-37.814107'
+  Longitude: '144.96328'
+  Sites: 2
+  State: Victoria
+  Town: Melbourne
+  Type: Global
+- Country: Philippines
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - mnl01.l.root-servers.org
+  - mnl02.l.root-servers.org
+  Latitude: '14.6090537'
+  Longitude: '121.0222565'
+  Sites: 1
+  Town: Metro Manila
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - mia02.l.root-servers.org
+  - mia01.l.root-servers.org
+  Latitude: '25.7616798'
+  Longitude: '-80.1917902'
+  Sites: 1
+  State: Florida
+  Town: Miami
+  Type: Global
+- Country: Canada
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - yyz01.l.root-servers.org
+  Latitude: '43.5890452'
+  Longitude: '-79.6441198'
+  Sites: 1
+  State: Ontario
+  Town: Mississauga
+  Type: Global
+- Country: Mexico
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - mty02.l.root-servers.org
+  - mty01.l.root-servers.org
+  Latitude: '25.6866142'
+  Longitude: '-100.3161126'
+  Sites: 2
+  State: Nuevo Leon
+  Town: Monterrey
+  Type: Global
+- Country: Uruguay
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - mvd01.l.root-servers.org
+  Latitude: '-34.9011127'
+  Longitude: '-56.1645314'
+  Sites: 1
+  Town: Montevideo
+  Type: Global
+- Country: Russia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - vko01.l.root-servers.org
+  - svo01.l.root-servers.org
+  Latitude: '55.755826'
+  Longitude: '37.6173'
+  Sites: 2
+  Town: Moscow
+  Type: Global
+- Country: Germany
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - muc41.l.root-servers.org
+  Latitude: '48.1351253'
+  Longitude: '11.5819806'
+  Sites: 1
+  State: Bavaria
+  Town: Munich
+  Type: Global
+- Country: Oman
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - mct02.l.root-servers.org
+  - mct01.l.root-servers.org
+  Latitude: '23.61'
+  Longitude: '58.54'
+  Sites: 1
+  Town: Muscat
+  Type: Global
+- Country: Fiji
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - nan01.l.root-servers.org
+  Latitude: '-17.7765356'
+  Longitude: '177.4356227'
+  Sites: 1
+  Town: Nadi
+  Type: Global
+- Country: Japan
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - nrt41.l.root-servers.org
+  Latitude: '35.7766076'
+  Longitude: '140.3187806'
+  Sites: 1
+  Town: Narita
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - nat01.l.root-servers.org
+  Latitude: '-5.7792569'
+  Longitude: '-35.200916'
+  Sites: 1
+  Town: Natal
+  Type: Global
+- Country: New Caledonia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - nou01.l.root-servers.org
+  - nou02.l.root-servers.org
+  Latitude: '-22.2758'
+  Longitude: '166.458'
+  Sites: 1
+  Town: Noumea
+  Type: Global
+- Country: Ukraine
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ods01.l.root-servers.org
+  Latitude: '46.482526'
+  Longitude: '30.7233095'
+  Sites: 1
+  Town: Odessa
+  Type: Global
+- Country: Canada
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - yow01.l.root-servers.org
+  Latitude: '45.4215296'
+  Longitude: '-75.6971931'
+  Sites: 1
+  State: Ontario
+  Town: Ottawa
+  Type: Global
+- Country: French Polynesia
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - ppt01.l.root-servers.org
+  - ppt02.l.root-servers.org
+  Latitude: '-17.535'
+  Longitude: '-149.5696'
+  Sites: 1
+  State: Tahiti
+  Town: Papeete
+  Type: Global
+- Country: France
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - cdg01.l.root-servers.org
+  Latitude: '48.856614'
+  Longitude: '2.3522219'
+  Sites: 1
+  Town: Paris
+  Type: Global
+- Country: France
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ory01.l.root-servers.org
+  Latitude: '48.7262433'
+  Longitude: '2.3652472'
+  Sites: 1
+  State: Paris
+  Town: Paris-Orly
+  Type: Global
+- Country: Singapore
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - qpg41.l.root-servers.org
+  Latitude: '1.318089'
+  Longitude: '103.892982'
+  Sites: 1
+  Town: Paya Lebar
+  Type: Global
+- Country: Australia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - per01.l.root-servers.org
+  Latitude: '-31.9535132'
+  Longitude: '115.8570471'
+  Sites: 1
+  State: Western Australia
+  Town: Perth
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - phx01.l.root-servers.org
+  Latitude: '33.4483771'
+  Longitude: '-112.0740373'
+  Sites: 1
+  State: Arizona
+  Town: Phoenix
+  Type: Global
+- Country: Mauritius
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - mru01.l.root-servers.org
+  Latitude: '-20.2427576'
+  Longitude: '57.455655'
+  Sites: 1
+  Town: Plaisance
+  Type: Global
+- Country: Papua New Guinea
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - pom01.l.root-servers.org
+  Latitude: '-9.4438004'
+  Longitude: '147.1802671'
+  Sites: 1
+  Town: Port Moresby
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - pdx61.l.root-servers.org
+  Latitude: '45.5230622'
+  Longitude: '-122.6764816'
+  Sites: 1
+  State: Oregon
+  Town: Portland
+  Type: Global
+- Country: Portugal
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - opo02.l.root-servers.org
+  - opo01.l.root-servers.org
+  Latitude: '41.1579438'
+  Longitude: '-8.6291053'
+  Sites: 1
+  Town: Porto
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - poa01.l.root-servers.org
+  Latitude: '-30.0346471'
+  Longitude: '-51.2176584'
+  Sites: 1
+  State: Rio Grande do Sul
+  Town: Porto Alegre
+  Type: Global
+- Country: Czech Republic
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - prg64.l.root-servers.org
+  - prg51.l.root-servers.org
+  - prg66.l.root-servers.org
+  - prg55.l.root-servers.org
+  - prg59.l.root-servers.org
+  - prg56.l.root-servers.org
+  - prg60.l.root-servers.org
+  - prg01.l.root-servers.org
+  - prg53.l.root-servers.org
+  - prg61.l.root-servers.org
+  - prg57.l.root-servers.org
+  - prg54.l.root-servers.org
+  - prg65.l.root-servers.org
+  - prg63.l.root-servers.org
+  - prg62.l.root-servers.org
+  - prg58.l.root-servers.org
+  - prg52.l.root-servers.org
+  Latitude: '50.0755381'
+  Longitude: '14.4378005'
+  Sites: 2
+  Town: Prague
+  Type: Global
+- Country: Dominican Republic
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - sdq01.l.root-servers.org
+  Latitude: '18.4027778'
+  Longitude: '-69.6305556'
+  Sites: 1
+  Town: Punta Caucedo
+  Type: Global
+- Country: Ecuador
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - uio01.l.root-servers.org
+  Latitude: '-0.1806532'
+  Longitude: '-78.4678382'
+  Sites: 1
+  Town: Quito
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - rno01.l.root-servers.org
+  Latitude: '39.5296329'
+  Longitude: '-119.8138027'
+  Sites: 1
+  State: Nevada
+  Town: Reno
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - iad63.l.root-servers.org
+  - iad66.l.root-servers.org
+  - iad02.l.root-servers.org
+  - iad59.l.root-servers.org
+  - iad64.l.root-servers.org
+  - iad62.l.root-servers.org
+  - iad56.l.root-servers.org
+  - iad61.l.root-servers.org
+  - iad58.l.root-servers.org
+  - iad54.l.root-servers.org
+  - iad57.l.root-servers.org
+  - iad53.l.root-servers.org
+  - iad60.l.root-servers.org
+  - iad55.l.root-servers.org
+  - iad51.l.root-servers.org
+  - iad65.l.root-servers.org
+  - iad52.l.root-servers.org
+  - iad01.l.root-servers.org
+  Latitude: '38.9586307'
+  Longitude: '-77.3570028'
+  Sites: 3
+  State: Virginia
+  Town: Reston
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - sdu01.l.root-servers.org
+  Latitude: '-22.9068467'
+  Longitude: '-43.1728965'
+  Sites: 1
+  Town: Rio de Janeiro
+  Type: Global
+- Country: Saudi Arabia
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - ruh01.l.root-servers.org
+  Latitude: '24.633333'
+  Longitude: '46.716667'
+  Sites: 1
+  Town: Riyadh
+  Type: Global
+- Country: England
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - rcs01.l.root-servers.org
+  Latitude: '51.388'
+  Longitude: '0.506721'
+  Sites: 1
+  State: Kent
+  Town: Rochester
+  Type: Global
+- Country: Russia
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - rov01.l.root-servers.org
+  Latitude: '47.233333'
+  Longitude: '39.7'
+  Sites: 1
+  Town: Rostov-on-Don
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - ssa01.l.root-servers.org
+  Latitude: '-12.9730401'
+  Longitude: '-38.502304'
+  Sites: 1
+  State: Bahia
+  Town: Salvador
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - sjc01.l.root-servers.org
+  Latitude: '37.3382082'
+  Longitude: '-121.8863286'
+  Sites: 1
+  State: California
+  Town: San Jose
+  Type: Global
+- Country: Costa Rica
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - sjo01.l.root-servers.org
+  Latitude: '9.9280694'
+  Longitude: '-84.0907246'
+  Sites: 1
+  Town: San Jose
+  Type: Global
+- Country: Puerto Rico
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - sju01.l.root-servers.org
+  Latitude: '18.4663338'
+  Longitude: '-66.1057217'
+  Sites: 1
+  Town: San Juan
+  Type: Global
+- Country: El Salvador
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - sal01.l.root-servers.org
+  Latitude: '13.6929403'
+  Longitude: '-89.2181911'
+  Sites: 1
+  Town: San Salvador
+  Type: Global
+- Country: Yemen
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - sah01.l.root-servers.org
+  Latitude: '15.3694451'
+  Longitude: '44.1910066'
+  Sites: 1
+  Town: Sana'a
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - sna41.l.root-servers.org
+  Latitude: '33.7455731'
+  Longitude: '-117.8678338'
+  Sites: 1
+  State: California
+  Town: Santa Ana
+  Type: Global
+- Country: Chile
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - scl03.l.root-servers.org
+  - scl02.l.root-servers.org
+  - scl01.l.root-servers.org
+  - scl04.l.root-servers.org
+  Latitude: '-33.4691199'
+  Longitude: '-70.641997'
+  Sites: 2
+  Town: Santiago
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - sjk01.l.root-servers.org
+  Latitude: '-23.223701'
+  Longitude: '-45.9009074'
+  Sites: 1
+  Town: Sao Jose dos Campos
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - gru01.l.root-servers.org
+  Latitude: '-23.5505199'
+  Longitude: '-46.6333094'
+  Sites: 1
+  Town: Sao Paulo
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - sea01.l.root-servers.org
+  Latitude: '47.4435903'
+  Longitude: '-122.2960726'
+  Sites: 1
+  State: Washington
+  Town: SeaTac
+  Type: Global
+- Country: Kazakhstan
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - plx01.l.root-servers.org
+  Latitude: '50.4233463'
+  Longitude: '80.250811'
+  Sites: 1
+  Town: Semey
+  Type: Global
+- Country: France
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - run01.l.root-servers.org
+  Latitude: '48.936181'
+  Longitude: '2.357443'
+  Sites: 1
+  State: Reunion
+  Town: St Denis
+  Type: Global
+- Country: Sweden
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - arn01.l.root-servers.org
+  Latitude: '59.3293235'
+  Longitude: '18.0685808'
+  Sites: 1
+  Town: Stockholm
+  Type: Global
+- Country: Fiji
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - suv01.l.root-servers.org
+  Latitude: '-18.0424871'
+  Longitude: '178.5531292'
+  Sites: 1
+  State: Viti Levu
+  Town: Suva-Nausori
+  Type: Global
+- Country: Estonia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - tll41.l.root-servers.org
+  Latitude: '59.4369608'
+  Longitude: '24.7535746'
+  Sites: 1
+  Town: Tallinn
+  Type: Global
+- Country: Finland
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - tmp41.l.root-servers.org
+  Latitude: '61.4668633'
+  Longitude: '23.6416493'
+  Sites: 1
+  Town: Tampere-Pirkkala
+  Type: Global
+- Country: Japan
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - hnd01.l.root-servers.org
+  Latitude: '35.7090259'
+  Longitude: '139.7319925'
+  Sites: 1
+  State: Honshu
+  Town: Tokyo
+  Type: Global
+- Country: Canada
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ytz01.l.root-servers.org
+  Latitude: '43.653226'
+  Longitude: '-79.3831843'
+  Sites: 1
+  State: Ontario
+  Town: Toronto
+  Type: Global
+- Country: Tunisia
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - tun01.l.root-servers.org
+  Latitude: '36.8529199'
+  Longitude: '10.3217245'
+  Sites: 1
+  Town: Tunis-Carthage
+  Type: Global
+- Country: Italy
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - trn41.l.root-servers.org
+  Latitude: '45.070312'
+  Longitude: '7.6868565'
+  Sites: 1
+  Town: Turin
+  Type: Global
+- Country: Brazil
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - udi01.l.root-servers.org
+  Latitude: '-18.9146078'
+  Longitude: '-48.2753801'
+  Sites: 1
+  State: Minas Gerais
+  Town: Uberlandia
+  Type: Global
+- Country: Norway
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - osl01.l.root-servers.org
+  Latitude: '60.1349136'
+  Longitude: '11.1637891'
+  Sites: 1
+  Town: Ullensaker
+  Type: Global
+- Country: Canada
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - yvr01.l.root-servers.org
+  Latitude: '49.2827291'
+  Longitude: '-123.1207375'
+  Sites: 1
+  State: British Columbia
+  Town: Vancouver
+  Type: Global
+- Country: Poland
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - waw41.l.root-servers.org
+  Latitude: '52.2296756'
+  Longitude: '21.0122287'
+  Sites: 1
+  Town: Warsaw
+  Type: Global
+- Country: United States
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - ilg01.l.root-servers.org
+  Latitude: '34.2257255'
+  Longitude: '-77.9447102'
+  Sites: 1
+  State: Delaware
+  Town: Wilmington
+  Type: Global
+- Country: Russia
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - svx01.l.root-servers.org
+  Latitude: '56.8389261'
+  Longitude: '60.6057025'
+  Sites: 1
+  Town: Yekaterinburg
+  Type: Global
+- Country: Armenia
+  IPv4: 'Yes'
+  IPv6: 'No'
+  Identifiers:
+  - evn01.l.root-servers.org
+  Latitude: '40.183333'
+  Longitude: '44.516667'
+  Sites: 1
+  Town: Yerevan
+  Type: Global
+- Country: Switzerland
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Identifiers:
+  - zrh41.l.root-servers.org
+  Latitude: '47.3686498'
+  Longitude: '8.5391825'
+  Sites: 1
+  Town: Zurich
+  Type: Global
+Operator: ICANN
+Peering Policy: http://as20144.peeringdb.com
+RSSAC: http://www.dns.icann.org/lroot/rssac/
+Statistics: http://www.dns.icann.org/lroot/stats

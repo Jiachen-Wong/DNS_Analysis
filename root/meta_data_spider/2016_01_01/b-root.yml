@@ -1,0 +1,20 @@
+ASN: ''
+Contact Email: b-poc@isi.edu
+Homepage: http://b.root-servers.org/
+IPv4: 192.228.79.201
+IPv6: 2001:500:84::b
+Identifier Naming Convention: ''
+Instances:
+- Country: USA
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '34.05'
+  Longitude: '-118.25'
+  Sites: 1
+  State: California
+  Town: Los Angeles
+  Type: Global
+Operator: Information Sciences Institute
+Peering Policy: ''
+RSSAC: http://b.root-servers.org/rssac/
+Statistics: ''

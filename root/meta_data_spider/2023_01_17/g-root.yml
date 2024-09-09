@@ -1,0 +1,66 @@
+ASN: 5927
+Contact Email: disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil
+Homepage: http://disa.mil/g-root
+IPv4: 192.112.36.4
+IPv6: 2001:500:12::d0d
+Identifier Naming Convention: ''
+Operator: Defense Information Systems Agency
+Peering Policy: ''
+RSSAC: http://www.disa.mil/G-Root/G-Root-Stats
+RSSAC001: ''
+Sites:
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 39.9611755
+  Longitude: -82.9987942
+  Town: Columbus
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 21.3069444
+  Longitude: -157.8583333
+  Town: Honolulu
+  Type: Global
+- Country: IT
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 40.8517746
+  Longitude: 14.2681244
+  Town: Naples
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 29.4241219
+  Longitude: -98.4936282
+  Town: San Antonio
+  Type: Global
+- Country: DE
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 48.7303646
+  Longitude: 9.1079418
+  Town: Stuttgart
+  Type: Global
+- Country: JP
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 35.7384505
+  Longitude: 139.3269322
+  Town: Tokyo
+  Type: Global
+Statistics: ''

@@ -1,0 +1,52 @@
+ASN: '7500'
+Contact Email: as7500@nspixp.wide.ad.jp
+Homepage: http://m.root-servers.org/
+IPv4: 202.12.27.33
+IPv6: 2001:dc3::35
+Identifier Naming Convention: ''
+Instances:
+- Country: JP
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '34.6937378'
+  Longitude: '135.5021651'
+  Sites: 1
+  Town: Osaka
+  Type: Global
+- Country: FR
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '48.856614'
+  Longitude: '2.3522219'
+  Sites: 2
+  Town: Paris
+  Type: Global
+- Country: US
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '37.7749295'
+  Longitude: '-122.4194155'
+  Sites: 1
+  State: CA
+  Town: San Francisco
+  Type: Global
+- Country: KR
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '37.566535'
+  Longitude: '126.9779692'
+  Sites: 1
+  Town: Seoul
+  Type: Local
+- Country: JP
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '35.6894875'
+  Longitude: '139.6917064'
+  Sites: 3
+  Town: Tokyo
+  Type: Global
+Operator: WIDE Project
+Peering Policy: http://as7500.peeringdb.com/
+RSSAC: https://rssac.wide.ad.jp/rssac002-metrics/
+Statistics: ''

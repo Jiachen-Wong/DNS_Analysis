@@ -49,7 +49,7 @@ def root_server_org_spider(input_date_str=None):
             + "/"
             + root
             + "-root."
-            + file_type
+            + "yml"
         )
 
         if os.path.exists(save_path):
@@ -83,4 +83,4 @@ def root_server_org_spider(input_date_str=None):
             print(f"url访问失败：{url}")
 
 
-print(root_server_org_spider("2015/03/02"))
+print(root_server_org_spider("2022/05/13"))

@@ -1,0 +1,110 @@
+ASN: 2149
+Contact Email: ''
+Homepage: http://c.root-servers.org/
+IPv4: 192.33.4.12
+IPv6: 2001:500:2::c
+Identifier Naming Convention: ''
+Operator: Cogent Communications
+Peering Policy: ''
+RSSAC: http://c.root-servers.org/rssac.html
+Sites:
+- Country: SK
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 48.1458923
+  Longitude: 17.1071373
+  Town: Bratislava
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 41.8781136
+  Longitude: -87.6297982
+  Town: Chicago
+  Type: Global
+- Country: DE
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 50.1109221
+  Longitude: 8.6821267
+  Town: Frankfurt
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 38.9695545
+  Longitude: -77.3860976
+  Town: Herndon
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 34.0522342
+  Longitude: -118.2436849
+  Town: Los Angeles
+  Type: Global
+- Country: ES
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 40.4167754
+  Longitude: -3.7037902
+  Town: Madrid
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 40.7143528
+  Longitude: -74.0059731
+  Town: New York
+  Type: Global
+- Country: FR
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 48.856614
+  Longitude: 2.3522219
+  Town: Paris
+  Type: Global
+- Country: MX
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 20.5888
+  Longitude: -100.3899
+  Town: Queretaro
+  Type: Global
+- Country: SG
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 1.3521
+  Longitude: 103.8198
+  Town: Singapore
+  Type: Global
+- Country: JP
+  IPv4: true
+  IPv6: true
+  Identifiers: []
+  Instances: 1
+  Latitude: 35.6894875
+  Longitude: 139.6917064
+  Town: Tokyo
+  Type: Global
+Statistics: http://c.root-servers.org/dsc/dsc-grapher.pl

@@ -1,0 +1,1861 @@
+ASN: 20144
+Contact Email: noc@dns.icann.org
+Homepage: https://dns.icann.org/imrs/
+IPv4: 199.7.83.42
+IPv6: 2001:500:9f::42
+Identifier Naming Convention: https://tools.ietf.org/html/rfc7108
+Operator: ICANN
+Peering Policy: https://as20144.peeringdb.com
+RSSAC: https://stats.dns.icann.org/rssac/
+Sites:
+- Country: CI
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - ab.ci-abj.l.root
+  Instances: 1
+  Latitude: 5.320357
+  Longitude: -4.016107
+  Town: Abidjan
+  Type: Global
+- Country: CI
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.ci-abj.l.root
+  Instances: 1
+  Latitude: 5.320357
+  Longitude: -4.016107
+  Town: Abidjan
+  Type: Global
+- Country: BH
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.bh-gbq.l.root
+  Instances: 1
+  Latitude: 26.2465946
+  Longitude: 50.6164127
+  Town: Al Muharraq
+  Type: Global
+- Country: JO
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.jo-amm.l.root
+  Instances: 1
+  Latitude: 31.9515694
+  Longitude: 35.9239625
+  Town: Amman
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.us-anc.l.root
+  Instances: 1
+  Latitude: 61.2163129
+  Longitude: -149.8948523
+  Town: Anchorage
+  Type: Global
+- Country: IT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.it-aoi.l.root
+  Instances: 1
+  Latitude: 43.480120400000004
+  Longitude: 13.218790609151764
+  Town: Ancona
+  Type: Global
+- Country: TR
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.tr-ank.l.root
+  Instances: 1
+  Latitude: 39.7160439
+  Longitude: 32.7059948
+  Town: Ankara
+  Type: Global
+- Country: WS
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ws-apw.l.root
+  Instances: 1
+  Latitude: -13.8343691
+  Longitude: -171.7692793
+  Town: Apia
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.us-fdk.l.root
+  Instances: 1
+  Latitude: 38.8769326
+  Longitude: -77.0893094
+  Town: Arlington County
+  Type: Global
+- Country: PY
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.py-asu.l.root
+  Instances: 1
+  Latitude: -25.2800459
+  Longitude: -57.6343814
+  Town: Asuncion
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.us-atl.l.root
+  Instances: 1
+  Latitude: 33.7489954
+  Longitude: -84.3879824
+  Town: Atlanta
+  Type: Global
+- Country: AZ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.az-bak.l.root
+  Instances: 1
+  Latitude: 40.3754434
+  Longitude: 49.8326748
+  Town: Baku
+  Type: Global
+- Country: TH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.th-bkk.l.root
+  Instances: 1
+  Latitude: 13.7563309
+  Longitude: 100.5017651
+  Town: Bangkok
+  Type: Global
+- Country: TH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.th-bkk.l.root
+  Instances: 1
+  Latitude: 13.7563309
+  Longitude: 100.5017651
+  Town: Bangkok
+  Type: Global
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.cn-bjd.l.root
+  Instances: 1
+  Latitude: 39.904211
+  Longitude: 116.407395
+  Town: Beijing
+  Type: Global
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.cn-bjd.l.root
+  Instances: 1
+  Latitude: 39.904211
+  Longitude: 116.407395
+  Town: Beijing
+  Type: Global
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ad.cn-bjd.l.root
+  Instances: 1
+  Latitude: 39.904211
+  Longitude: 116.407395
+  Town: Beijing
+  Type: Global
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ac.cn-bjd.l.root
+  Instances: 1
+  Latitude: 39.904211
+  Longitude: 116.407395
+  Town: Beijing
+  Type: Global
+- Country: LB
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.lb-bfz.l.root
+  Instances: 1
+  Latitude: 33.8886289
+  Longitude: 35.4954794
+  Town: Beirut
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.br-bel.l.root
+  Instances: 1
+  Latitude: -1.45056
+  Longitude: -48.4682453
+  Town: Belem
+  Type: Global
+- Country: RS
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.rs-beg.l.root
+  Instances: 1
+  Latitude: 44.786568
+  Longitude: 20.4489216
+  Town: Belgrade
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.br-bhz.l.root
+  Instances: 1
+  Latitude: -19.9245018
+  Longitude: -43.9352376
+  Town: Belo Horizonte
+  Type: Global
+- Country: MW
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.mw-blz.l.root
+  Instances: 1
+  Latitude: -15.7862543
+  Longitude: 35.0035694
+  Town: Blantyre
+  Type: Global
+- Country: CO
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.co-bog.l.root
+  Instances: 1
+  Latitude: 4.59808
+  Longitude: -74.0760439
+  Town: Bogota
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.br-bcl.l.root
+  Instances: 1
+  Latitude: -15.7942287
+  Longitude: -47.8821658
+  Town: Brasilia
+  Type: Global
+- Country: SK
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.sk-bab.l.root
+  Instances: 1
+  Latitude: 48.1458923
+  Longitude: 17.1071373
+  Town: Bratislava
+  Type: Global
+- Country: AU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.au-bne.l.root
+  Instances: 1
+  Latitude: -27.4697707
+  Longitude: 153.0251235
+  Town: Brisbane
+  Type: Global
+- Country: BE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.be-anr.l.root
+  Instances: 1
+  Latitude: 50.8503396
+  Longitude: 4.3517103
+  Town: Brussels
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.br-cfc.l.root
+  Instances: 1
+  Latitude: -26.77567
+  Longitude: -51.0120041
+  Town: Cacador
+  Type: Global
+- Country: PE
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.pe-cll.l.root
+  Instances: 1
+  Latitude: -12.0522626
+  Longitude: -77.1391133
+  Town: Callao
+  Type: Global
+- Country: PE
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - ab.pe-cll.l.root
+  Instances: 1
+  Latitude: -12.0522626
+  Longitude: -77.1391133
+  Town: Callao
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.br-cpq.l.root
+  Instances: 1
+  Latitude: -22.90556
+  Longitude: -47.06083
+  Town: Campinas
+  Type: Global
+- Country: ZA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.za-cpt.l.root
+  Instances: 1
+  Latitude: -33.9248685
+  Longitude: 18.4240553
+  Town: Cape Town
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.br-phb.l.root
+  Instances: 1
+  Latitude: -3.948584
+  Longitude: -40.476028
+  Town: Carire
+  Type: Global
+- Country: PR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.pr-car.l.root
+  Instances: 1
+  Latitude: 50.0142635
+  Longitude: 14.4570023
+  Town: Carolina
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.us-cgh.l.root
+  Instances: 1
+  Latitude: 41.8781136
+  Longitude: -87.6297982
+  Town: Chicago
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.us-cgh.l.root
+  Instances: 1
+  Latitude: 41.8781136
+  Longitude: -87.6297982
+  Town: Chicago
+  Type: Global
+- Country: NZ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.nz-chc.l.root
+  Instances: 1
+  Latitude: -43.530955
+  Longitude: 172.6366455
+  Town: Christchurch
+  Type: Global
+- Country: BO
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.bo-cbb.l.root
+  Instances: 1
+  Latitude: -17.4139766
+  Longitude: -66.1653224
+  Town: Cochabamba
+  Type: Global
+- Country: LK
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.lk-rml.l.root
+  Instances: 1
+  Latitude: 6.9270786
+  Longitude: 79.861243
+  Town: Colombo
+  Type: Global
+- Country: LK
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.lk-rml.l.root
+  Instances: 1
+  Latitude: 6.9270786
+  Longitude: 79.861243
+  Town: Colombo
+  Type: Global
+- Country: DK
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.dk-cph.l.root
+  Instances: 1
+  Latitude: 55.6867243
+  Longitude: 12.5700724
+  Town: Copenhagen
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.br-crn.l.root
+  Instances: 1
+  Latitude: -25.4295963
+  Longitude: -49.2712724
+  Town: Curitiba
+  Type: Global
+- Country: SN
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.sn-dkr.l.root
+  Instances: 1
+  Latitude: 14.7645042
+  Longitude: -17.3660286
+  Town: Dakar
+  Type: Global
+- Country: SA
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.sa-dmm.l.root
+  Instances: 1
+  Latitude: 26.4367824
+  Longitude: 50.1039991
+  Town: Dammam
+  Type: Global
+- Country: TZ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.tz-dar.l.root
+  Instances: 1
+  Latitude: -6.8
+  Longitude: 39.283333
+  Town: Dar es Salaam
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.us-den.l.root
+  Instances: 1
+  Latitude: 39.7392358
+  Longitude: -104.990251
+  Town: Denver
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.us-dsm.l.root
+  Instances: 1
+  Latitude: 41.6005448
+  Longitude: -93.6091064
+  Town: Des Moines
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.us-dsm.l.root
+  Instances: 1
+  Latitude: 41.6005448
+  Longitude: -93.6091064
+  Town: Des Moines
+  Type: Global
+- Country: DE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.de-dtm.l.root
+  Instances: 1
+  Latitude: 51.5142273
+  Longitude: 7.4652789
+  Town: Dortmund
+  Type: Global
+- Country: AE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ae-dwc.l.root
+  Instances: 1
+  Latitude: 25.0750095
+  Longitude: 55.18876088183319
+  Town: Dubai
+  Type: Global
+- Country: AE
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - ab.ae-dwc.l.root
+  Instances: 1
+  Latitude: 25.0750095
+  Longitude: 55.18876088183319
+  Town: Dubai
+  Type: Global
+- Country: GB
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.gb-dun.l.root
+  Instances: 1
+  Latitude: 56.4605938
+  Longitude: -2.97019
+  Town: Dundee
+  Type: Global
+- Country: DE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.de-dus.l.root
+  Instances: 1
+  Latitude: 51.2254018
+  Longitude: 6.7763137
+  Town: Dusseldorf
+  Type: Global
+- Country: ES
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.es-epb.l.root
+  Instances: 1
+  Latitude: 41.3246333
+  Longitude: 2.0952568
+  Town: El Prat de Llobregat
+  Type: Global
+- Country: AR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ar-eza.l.root
+  Instances: 1
+  Latitude: -34.816848
+  Longitude: -58.54746382802307
+  Town: Ezeiza
+  Type: Global
+- Country: IT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.it-blq.l.root
+  Instances: 1
+  Latitude: 43.7698712
+  Longitude: 11.2555757
+  Town: Florence
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.br-fln.l.root
+  Instances: 1
+  Latitude: -27.5973002
+  Longitude: -48.5496098
+  Town: Florianopolis
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.br-fms.l.root
+  Instances: 1
+  Latitude: -3.7304512
+  Longitude: -38.5217989
+  Town: Fortaleza
+  Type: Global
+- Country: CH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ch-mot.l.root
+  Instances: 1
+  Latitude: 46.2043907
+  Longitude: 6.1431577
+  Town: Geneva
+  Type: Global
+- Country: GU
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.gu-hgt.l.root
+  Instances: 1
+  Latitude: 13.4727446
+  Longitude: 144.75201822544284
+  Town: Hagatna
+  Type: Global
+- Country: DE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.de-ham.l.root
+  Instances: 1
+  Latitude: 53.5437641
+  Longitude: 10.0099133
+  Town: Hamburg
+  Type: Global
+- Country: FI
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.fi-vat.l.root
+  Instances: 1
+  Latitude: 60.32135905
+  Longitude: 24.947206800038444
+  Town: Helsinki-Vantaa
+  Type: Global
+- Country: GR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.gr-hkl.l.root
+  Instances: 1
+  Latitude: 35.3400127
+  Longitude: 25.1343475
+  Town: Heraklion
+  Type: Global
+- Country: SB
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.sb-hir.l.root
+  Instances: 1
+  Latitude: -9.4310769
+  Longitude: 159.9552552
+  Town: Honiara
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.us-hnl.l.root
+  Instances: 1
+  Latitude: 21.3069444
+  Longitude: -157.8583333
+  Town: Honolulu
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.us-hnl.l.root
+  Instances: 1
+  Latitude: 21.3069444
+  Longitude: -157.8583333
+  Town: Honolulu
+  Type: Global
+- Country: KR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.kr-icn.l.root
+  Instances: 1
+  Latitude: 37.456
+  Longitude: 126.7052
+  Town: Incheon
+  Type: Global
+- Country: PK
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - ac.pk-skt.l.root
+  Instances: 1
+  Latitude: 33.6171036
+  Longitude: 73.0736533
+  Town: Islamabad-Rawalpindi
+  Type: Global
+- Country: PK
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.pk-skt.l.root
+  Instances: 1
+  Latitude: 33.6171036
+  Longitude: 73.0736533
+  Town: Islamabad-Rawalpindi
+  Type: Global
+- Country: PK
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.pk-skt.l.root
+  Instances: 1
+  Latitude: 33.6171036
+  Longitude: 73.0736533
+  Town: Islamabad-Rawalpindi
+  Type: Global
+- Country: ID
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.id-jkt.l.root
+  Instances: 1
+  Latitude: -6.2087634
+  Longitude: 106.845599
+  Town: Jakarta
+  Type: Global
+- Country: ZA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.za-jnb.l.root
+  Instances: 1
+  Latitude: -26.2041028
+  Longitude: 28.0473051
+  Town: Johannesburg
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.us-hlm.l.root
+  Instances: 1
+  Latitude: 42.3211522
+  Longitude: -85.1797142
+  Town: Kalamazoo-Battle Creek
+  Type: Global
+- Country: UA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ua-kiv.l.root
+  Instances: 1
+  Latitude: 49.9902794
+  Longitude: 36.2303893
+  Town: Kharkiv
+  Type: Global
+- Country: UA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ua-iev.l.root
+  Instances: 1
+  Latitude: 50.4501
+  Longitude: 30.5234
+  Town: Kiev
+  Type: Global
+- Country: FM
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.fm-ksa.l.root
+  Instances: 1
+  Latitude: 6.9643412
+  Longitude: 158.2091324
+  Town: Kolonia
+  Type: Global
+- Country: PW
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.pw-ror.l.root
+  Instances: 1
+  Latitude: 7.343275
+  Longitude: 134.4766767
+  Town: Koror
+  Type: Global
+- Country: KW
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.kw-cbg.l.root
+  Instances: 1
+  Latitude: 29.375859
+  Longitude: 47.9774052
+  Town: Kuwait City
+  Type: Global
+- Country: PK
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - ab.pk-lhe.l.root
+  Instances: 1
+  Latitude: 31.5656822
+  Longitude: 74.3141829
+  Town: Lahore
+  Type: Global
+- Country: IT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.it-ltn.l.root
+  Instances: 1
+  Latitude: 41.45952605
+  Longitude: 13.012591212188894
+  Town: Latina
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.us-lwc.l.root
+  Instances: 1
+  Latitude: 38.9719384
+  Longitude: -95.2359496
+  Town: Lawrence
+  Type: Global
+- Country: GB
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.gb-brf.l.root
+  Instances: 1
+  Latitude: 53.8665524
+  Longitude: -1.6567664615412192
+  Town: Leeds-Bradford
+  Type: Global
+- Country: GB
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.gb-lcl.l.root
+  Instances: 1
+  Latitude: 51.5073509
+  Longitude: -0.1277583
+  Town: London
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.br-ldb.l.root
+  Instances: 1
+  Latitude: -23.3112878
+  Longitude: -51.1595023
+  Town: Londrina
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.us-lax.l.root
+  Instances: 1
+  Latitude: 34.0522342
+  Longitude: -118.2436849
+  Town: Los Angeles
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.us-lax.l.root
+  Instances: 1
+  Latitude: 34.0522342
+  Longitude: -118.2436849
+  Town: Los Angeles
+  Type: Global
+- Country: FR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.fr-lio.l.root
+  Instances: 1
+  Latitude: 45.764043
+  Longitude: 4.835659
+  Town: Lyon
+  Type: Global
+- Country: ES
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.es-mad.l.root
+  Instances: 1
+  Latitude: 40.4167754
+  Longitude: -3.7037902
+  Town: Madrid
+  Type: Global
+- Country: SC
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.sc-maw.l.root
+  Instances: 1
+  Latitude: -4.68379555
+  Longitude: 55.49263800753758
+  Town: Mahe
+  Type: Global
+- Country: MH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.mh-maj.l.root
+  Instances: 1
+  Latitude: 7.0909924
+  Longitude: 171.3816354
+  Town: Majuro
+  Type: Global
+- Country: MH
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.mh-maj.l.root
+  Instances: 1
+  Latitude: 7.0909924
+  Longitude: 171.3816354
+  Town: Majuro
+  Type: Global
+- Country: MM
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.mm-mdl.l.root
+  Instances: 1
+  Latitude: 21.9812746
+  Longitude: 96.082375
+  Town: Mandalay
+  Type: Global
+- Country: NZ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.nz-mae.l.root
+  Instances: 1
+  Latitude: -35.7005319
+  Longitude: 174.1393016
+  Town: Mangere
+  Type: Global
+- Country: NZ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.nz-mae.l.root
+  Instances: 1
+  Latitude: -35.7005319
+  Longitude: 174.1393016
+  Town: Mangere
+  Type: Global
+- Country: FR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.fr-mbv.l.root
+  Instances: 1
+  Latitude: 43.2961743
+  Longitude: 5.3699525
+  Town: Marseille
+  Type: Global
+- Country: AU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.au-mas.l.root
+  Instances: 1
+  Latitude: -33.9289562
+  Longitude: 151.1951782
+  Town: Mascot
+  Type: Global
+- Country: AU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.au-mas.l.root
+  Instances: 1
+  Latitude: -33.9289562
+  Longitude: 151.1951782
+  Town: Mascot
+  Type: Global
+- Country: LS
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.ls-msu.l.root
+  Instances: 1
+  Latitude: -29.310054
+  Longitude: 27.478222
+  Town: Maseru
+  Type: Global
+- Country: AU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.au-kah.l.root
+  Instances: 1
+  Latitude: -37.814107
+  Longitude: 144.96328
+  Town: Melbourne
+  Type: Global
+- Country: AU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.au-kah.l.root
+  Instances: 1
+  Latitude: -37.814107
+  Longitude: 144.96328
+  Town: Melbourne
+  Type: Global
+- Country: AU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ac.au-kah.l.root
+  Instances: 1
+  Latitude: -37.814107
+  Longitude: 144.96328
+  Town: Melbourne
+  Type: Global
+- Country: PH
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.ph-ncp.l.root
+  Instances: 1
+  Latitude: 14.5736108
+  Longitude: 121.0329706
+  Town: Metro Manila
+  Type: Global
+- Country: BY
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.by-gme.l.root
+  Instances: 1
+  Latitude: 53.902334
+  Longitude: 27.5618791
+  Town: Minsk
+  Type: Global
+- Country: CA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ca-mis.l.root
+  Instances: 1
+  Latitude: 43.590338
+  Longitude: -79.645729
+  Town: Mississauga
+  Type: Global
+- Country: MX
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ac.mx-mty.l.root
+  Instances: 1
+  Latitude: 25.6802019
+  Longitude: -100.3152586
+  Town: Monterrey
+  Type: Global
+- Country: MX
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.mx-mty.l.root
+  Instances: 1
+  Latitude: 25.6802019
+  Longitude: -100.3152586
+  Town: Monterrey
+  Type: Global
+- Country: MX
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.mx-mty.l.root
+  Instances: 1
+  Latitude: 25.6802019
+  Longitude: -100.3152586
+  Town: Monterrey
+  Type: Global
+- Country: UY
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.uy-mvd.l.root
+  Instances: 1
+  Latitude: -34.9059039
+  Longitude: -56.1913569
+  Town: Montevideo
+  Type: Global
+- Country: RU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ru-mow.l.root
+  Instances: 1
+  Latitude: 55.755826
+  Longitude: 37.6173
+  Town: Moscow
+  Type: Global
+- Country: RU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ac.ru-mow.l.root
+  Instances: 1
+  Latitude: 55.755826
+  Longitude: 37.6173
+  Town: Moscow
+  Type: Global
+- Country: RU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.ru-mow.l.root
+  Instances: 1
+  Latitude: 55.755826
+  Longitude: 37.6173
+  Town: Moscow
+  Type: Global
+- Country: IN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.in-bom.l.root
+  Instances: 1
+  Latitude: 19.0759837
+  Longitude: 72.8776559
+  Town: Mumbai
+  Type: Global
+- Country: OM
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.om-msh.l.root
+  Instances: 1
+  Latitude: 23.58589
+  Longitude: 58.4059227
+  Town: Muscat
+  Type: Global
+- Country: OM
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ac.om-msh.l.root
+  Instances: 1
+  Latitude: 23.58589
+  Longitude: 58.4059227
+  Town: Muscat
+  Type: Global
+- Country: OM
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.om-msh.l.root
+  Instances: 1
+  Latitude: 23.58589
+  Longitude: 58.4059227
+  Town: Muscat
+  Type: Global
+- Country: FJ
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.fj-nan.l.root
+  Instances: 1
+  Latitude: -17.7993389
+  Longitude: 177.4172058
+  Town: Nadi
+  Type: Global
+- Country: FJ
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - ab.fj-nan.l.root
+  Instances: 1
+  Latitude: -17.7993389
+  Longitude: 177.4172058
+  Town: Nadi
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.br-nat.l.root
+  Instances: 1
+  Latitude: -5.805398
+  Longitude: -35.2080905
+  Town: Natal
+  Type: Global
+- Country: TW
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.tw-ntc.l.root
+  Instances: 1
+  Latitude: 25.0169826
+  Longitude: 121.4627868
+  Town: New Taipei
+  Type: Global
+- Country: TW
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.tw-ntc.l.root
+  Instances: 1
+  Latitude: 25.0169826
+  Longitude: 121.4627868
+  Town: New Taipei
+  Type: Global
+- Country: NC
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.nc-nou.l.root
+  Instances: 1
+  Latitude: -22.2745264
+  Longitude: 166.442419
+  Town: Noumea
+  Type: Global
+- Country: NC
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.nc-nou.l.root
+  Instances: 1
+  Latitude: -22.2745264
+  Longitude: 166.442419
+  Town: Noumea
+  Type: Global
+- Country: UA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ua-ods.l.root
+  Instances: 1
+  Latitude: 46.4873195
+  Longitude: 30.7392776
+  Town: Odessa
+  Type: Global
+- Country: RO
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ro-oti.l.root
+  Instances: 1
+  Latitude: 44.5507941
+  Longitude: 26.0729271
+  Town: Otopeni
+  Type: Global
+- Country: BF
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.bf-oua.l.root
+  Instances: 1
+  Latitude: 12.3681873
+  Longitude: -1.5270944
+  Town: Ouagadougou
+  Type: Global
+- Country: PF
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.pf-ppt.l.root
+  Instances: 1
+  Latitude: -17.547165
+  Longitude: -149.5792867657065
+  Town: Papeete
+  Type: Global
+- Country: PF
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - ab.pf-ppt.l.root
+  Instances: 1
+  Latitude: -17.547165
+  Longitude: -149.5792867657065
+  Town: Papeete
+  Type: Global
+- Country: FR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.fr-par.l.root
+  Instances: 1
+  Latitude: 48.856614
+  Longitude: 2.3522219
+  Town: Paris
+  Type: Global
+- Country: FR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.fr-bfc.l.root
+  Instances: 1
+  Latitude: 48.73005725
+  Longitude: 2.3678372321914303
+  Town: Paris-Orly
+  Type: Global
+- Country: AU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.au-per.l.root
+  Instances: 1
+  Latitude: -31.9535132
+  Longitude: 115.8570471
+  Town: Perth
+  Type: Global
+- Country: MU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.mu-mru.l.root
+  Instances: 1
+  Latitude: -20.243652
+  Longitude: 57.4586882
+  Town: Plaisance
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.us-pdx.l.root
+  Instances: 1
+  Latitude: 45.5230622
+  Longitude: -122.6764816
+  Town: Portland
+  Type: Global
+- Country: PG
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.pg-pom.l.root
+  Instances: 1
+  Latitude: -9.4743301
+  Longitude: 147.1599504
+  Town: Port Moresby
+  Type: Global
+- Country: PT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.pt-cdo.l.root
+  Instances: 1
+  Latitude: 41.1494512
+  Longitude: -8.6107884
+  Town: Porto
+  Type: Global
+- Country: PT
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.pt-cdo.l.root
+  Instances: 1
+  Latitude: 41.1494512
+  Longitude: -8.6107884
+  Town: Porto
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.br-poa.l.root
+  Instances: 1
+  Latitude: -30.0346471
+  Longitude: -51.2176584
+  Town: Porto Alegre
+  Type: Global
+- Country: CZ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.cz-xuy.l.root
+  Instances: 1
+  Latitude: 50.0755381
+  Longitude: 14.4378005
+  Town: Prague
+  Type: Global
+- Country: DO
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.do-jqb.l.root
+  Instances: 1
+  Latitude: 18.4015585
+  Longitude: -69.634486
+  Town: Punta Caucedo
+  Type: Global
+- Country: EC
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ec-uio.l.root
+  Instances: 1
+  Latitude: -0.2201641
+  Longitude: -78.5123274
+  Town: Quito
+  Type: Global
+- Country: MA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ma-rba.l.root
+  Instances: 1
+  Latitude: 34.022405
+  Longitude: -6.834543
+  Town: Rabat
+  Type: Global
+- Country: PS
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.ps-rmh.l.root
+  Instances: 1
+  Latitude: 31.9030543
+  Longitude: 35.1952255
+  Town: Ramallah
+  Type: Global
+- Country: PS
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ps-rmh.l.root
+  Instances: 1
+  Latitude: 31.9030543
+  Longitude: 35.1952255
+  Town: Ramallah
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.us-rno.l.root
+  Instances: 1
+  Latitude: 39.5296329
+  Longitude: -119.8138027
+  Town: Reno
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.us-rtv.l.root
+  Instances: 1
+  Latitude: 38.9583737
+  Longitude: -77.3579805
+  Town: Reston
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.br-gig.l.root
+  Instances: 1
+  Latitude: -22.9068467
+  Longitude: -43.1728965
+  Town: Rio de Janeiro
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.br-gig.l.root
+  Instances: 1
+  Latitude: -22.9068467
+  Longitude: -43.1728965
+  Town: Rio de Janeiro
+  Type: Global
+- Country: RU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ru-noi.l.root
+  Instances: 1
+  Latitude: 47.2213858
+  Longitude: 39.7114196
+  Town: Rostov-on-Don
+  Type: Global
+- Country: RU
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ru-led.l.root
+  Instances: 1
+  Latitude: 59.9342802
+  Longitude: 30.3350986
+  Town: Saint Petersburg
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.br-ssa.l.root
+  Instances: 1
+  Latitude: -12.9822499
+  Longitude: -38.4812772
+  Town: Salvador
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.br-ssa.l.root
+  Instances: 1
+  Latitude: -12.9822499
+  Longitude: -38.4812772
+  Town: Salvador
+  Type: Global
+- Country: YE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ye-sah.l.root
+  Instances: 1
+  Latitude: 15.3538569
+  Longitude: 44.2058841
+  Town: Sana'a
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.us-sjc.l.root
+  Instances: 1
+  Latitude: 37.3382082
+  Longitude: -121.8863286
+  Town: San Jose
+  Type: Global
+- Country: CR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.cr-sjo.l.root
+  Instances: 1
+  Latitude: 9.9280694
+  Longitude: -84.0907246
+  Town: San Jose
+  Type: Global
+- Country: AR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ar-smc.l.root
+  Instances: 1
+  Latitude: -26.8303703
+  Longitude: -65.2038133
+  Town: San Miguel de Tucuman
+  Type: Global
+- Country: SV
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.sv-sal.l.root
+  Instances: 1
+  Latitude: 13.6989939
+  Longitude: -89.1914249
+  Town: San Salvador
+  Type: Global
+- Country: CL
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ad.cl-scl.l.root
+  Instances: 1
+  Latitude: -33.4488897
+  Longitude: -70.6692655
+  Town: Santiago
+  Type: Global
+- Country: CL
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.cl-scl.l.root
+  Instances: 1
+  Latitude: -33.4488897
+  Longitude: -70.6692655
+  Town: Santiago
+  Type: Global
+- Country: CL
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - ac.cl-scl.l.root
+  Instances: 1
+  Latitude: -33.4488897
+  Longitude: -70.6692655
+  Town: Santiago
+  Type: Global
+- Country: CL
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.cl-scl.l.root
+  Instances: 1
+  Latitude: -33.4488897
+  Longitude: -70.6692655
+  Town: Santiago
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.br-sjk.l.root
+  Instances: 1
+  Latitude: -23.1805011
+  Longitude: -45.8872969
+  Town: Sao Jose dos Campos
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.br-sao.l.root
+  Instances: 1
+  Latitude: -23.5506507
+  Longitude: -46.6333824
+  Town: Sao Paulo
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.us-sez.l.root
+  Instances: 1
+  Latitude: 47.4449086
+  Longitude: -122.2830842
+  Town: SeaTac
+  Type: Global
+- Country: KZ
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.kz-plx.l.root
+  Instances: 1
+  Latitude: 50.405029
+  Longitude: 80.249176
+  Town: Semey
+  Type: Global
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.cn-pvg.l.root
+  Instances: 1
+  Latitude: 31.2322758
+  Longitude: 121.4692071
+  Town: Shanghai
+  Type: Global
+- Country: SG
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.sg-sin.l.root
+  Instances: 1
+  Latitude: 1.2800945
+  Longitude: 103.8509491
+  Town: Singapore
+  Type: Global
+- Country: BG
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.bg-goz.l.root
+  Instances: 1
+  Latitude: 42.6977082
+  Longitude: 23.3218675
+  Town: Sofia
+  Type: Global
+- Country: RE
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.re-zse.l.root
+  Instances: 1
+  Latitude: 44.2316351
+  Longitude: 4.2530464
+  Town: St Denis
+  Type: Global
+- Country: SE
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.se-sto.l.root
+  Instances: 1
+  Latitude: 59.3293235
+  Longitude: 18.0685808
+  Town: Stockholm
+  Type: Global
+- Country: FJ
+  IPv4: true
+  IPv6: false
+  Identifiers:
+  - aa.fj-bfj.l.root
+  Instances: 1
+  Latitude: -18.0287189
+  Longitude: 178.5289994
+  Town: Suva-Nausori
+  Type: Global
+- Country: FI
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.fi-tmp.l.root
+  Instances: 1
+  Latitude: 61.4977524
+  Longitude: 23.7609535
+  Town: Tampere
+  Type: Global
+- Country: CA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ca-tor.l.root
+  Instances: 1
+  Latitude: 43.653226
+  Longitude: -79.3831843
+  Town: Toronto
+  Type: Global
+- Country: BR
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.br-udi.l.root
+  Instances: 1
+  Latitude: -18.9188041
+  Longitude: -48.2767837
+  Town: Uberlandia
+  Type: Global
+- Country: CA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ca-cxh.l.root
+  Instances: 1
+  Latitude: 49.2827291
+  Longitude: -123.1207375
+  Town: Vancouver
+  Type: Global
+- Country: US
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.us-ilg.l.root
+  Instances: 1
+  Latitude: 39.7459468
+  Longitude: -75.546589
+  Town: Wilmington
+  Type: Global
+- Country: CA
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.ca-wnp.l.root
+  Instances: 1
+  Latitude: 49.895136
+  Longitude: -97.1383744
+  Town: Winnipeg
+  Type: Global
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.cn-nhn.l.root
+  Instances: 1
+  Latitude: 30.5951051
+  Longitude: 114.2999353
+  Town: Wuhan
+  Type: Global
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.cn-nhn.l.root
+  Instances: 1
+  Latitude: 30.5951051
+  Longitude: 114.2999353
+  Town: Wuhan
+  Type: Global
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.cn-xnt.l.root
+  Instances: 1
+  Latitude: 36.617331
+  Longitude: 101.7761976
+  Town: Xining
+  Type: Global
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.cn-xnt.l.root
+  Instances: 1
+  Latitude: 36.617331
+  Longitude: 101.7761976
+  Town: Xining
+  Type: Global
+- Country: MM
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.mm-rgn.l.root
+  Instances: 1
+  Latitude: 16.7967129
+  Longitude: 96.1609916
+  Town: Yangon
+  Type: Global
+- Country: AM
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.am-evn.l.root
+  Instances: 1
+  Latitude: 40.183333
+  Longitude: 44.516667
+  Town: Yerevan
+  Type: Global
+- Country: ID
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.id-jog.l.root
+  Instances: 1
+  Latitude: -7.8011945
+  Longitude: 110.364917
+  Town: Yogyakarta
+  Type: Global
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - ab.cn-cgo.l.root
+  Instances: 1
+  Latitude: 34.7591877
+  Longitude: 113.6524076
+  Town: Zhengzhou
+  Type: Global
+- Country: CN
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - aa.cn-cgo.l.root
+  Instances: 1
+  Latitude: 34.7591877
+  Longitude: 113.6524076
+  Town: Zhengzhou
+  Type: Global
+Statistics: https://dns.icann.org/imrs/stats

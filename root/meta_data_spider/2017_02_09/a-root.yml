@@ -1,0 +1,53 @@
+ASN: '26415'
+Contact Email: ''
+Homepage: http://a.root-servers.org/
+IPv4: 198.41.0.4
+IPv6: 2001:503:ba3e::2:30
+Identifier Naming Convention: ''
+Instances:
+- Country: DE
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '50.1109221'
+  Longitude: '8.6821267'
+  Sites: 1
+  Town: Frankfurt
+  Type: Global
+- Country: HK
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '22.396428'
+  Longitude: '114.109497'
+  Sites: 1
+  Town: Hong Kong
+  Type: Global
+- Country: GB
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '51.5073509'
+  Longitude: '-0.1277583'
+  Sites: 1
+  Town: London
+  Type: Global
+- Country: US
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '34.0522342'
+  Longitude: '-118.2436849'
+  Sites: 1
+  State: CA
+  Town: Los Angeles
+  Type: Global
+- Country: US
+  IPv4: 'Yes'
+  IPv6: 'Yes'
+  Latitude: '40.7127837'
+  Longitude: '-74.0059413'
+  Sites: 1
+  State: NY
+  Town: New York
+  Type: Global
+Operator: Verisign, Inc.
+Peering Policy: ''
+RSSAC: http://a.root-servers.org/metrics/index.html
+Statistics: http://a.root-servers.org/metrics/index.html
